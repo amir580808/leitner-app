@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+
+  <!-- iOS PWA Meta Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="لایتنر" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="format-detection" content="telephone=no" />
+
+  <!-- Theme Colors -->
+  <meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)" />
+
+  <!-- Icons & Manifest -->
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="apple-touch-icon" sizes="180x180" href="./icons/icon-180.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg" />
+
+  <title>جعبه لایتنر ۷ سطحی</title>
+
+  <!-- Typography: Vazirmatn (FA) + Inter (EN) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Vazirmatn:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <!-- Top Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="brand-logo" aria-hidden="true">L7</div>
+        <div>
+          <h1 class="header-title">لایتنر ۷ سطحی</h1>
+          <p class="header-subtitle" id="headerSubtitle">یادگیری هوشمند لغات انگلیسی</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button type="button" class="pill-btn" id="accentToggleBtn" title="تغییر لهجه تلفظ" aria-label="تغییر لهجه تلفظ">
+          <span id="accentLabel">US</span>
+        </button>
+        <button type="button" class="icon-btn" id="themeToggleBtn" title="تغییر پوسته" aria-label="تغییر حالت تاریک و روشن">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+      <!-- 1. Dashboard View -->
+      <section id="view-dashboard" class="view active" aria-labelledby="tab-dashboard">
+        <div class="hero-card">
+          <div class="hero-top">
+            <div>
+              <span class="hero-eyebrow">مرور امروز</span>
+              <div class="hero-count-row">
+                <span class="hero-count" id="dueCountDisplay">0</span>
+                <span class="hero-unit">کارت آماده مرور</span>
+              </div>
+            </div>
+            <div class="hero-badge" id="streakBadge">۷ سطح لایتنر</div>
+          </div>
+          <p class="hero-desc" id="heroDesc">کارت‌هایی که زمان مرور آن‌ها فرارسیده آماده تمرین هستند.</p>
+          <button type="button" class="btn btn-primary btn-lg btn-block" id="startReviewBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+            <span>شروع مرور</span>
+          </button>
+        </div>
+
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <span class="kpi-label">کل لغات</span>
+            <strong class="kpi-value" id="totalWordsDisplay">0</strong>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-label">تسلط کامل (سطح ۷)</span>
+            <strong class="kpi-value kpi-success" id="masteredWordsDisplay">0</strong>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-label">دسته‌بندی‌ها</span>
+            <strong class="kpi-value" id="totalCategoriesDisplay">0</strong>
+          </div>
+        </div>
+
+        <div class="section-card">
+          <div class="section-header">
+            <h2>وضعیت ۷ سطح لایتنر</h2>
+            <span class="section-hint">تعداد لغت در هر جعبه</span>
+          </div>
+          <div class="levels-chart" id="levelsChart"></div>
+        </div>
+      </section>
+
+      <!-- 2. Review View -->
+      <section id="view-review" class="view" aria-labelledby="tab-review">
+        <div id="reviewActiveContainer" class="review-container">
+          <div class="review-topbar">
+            <span class="review-progress-text" id="reviewProgressText">۱ از ۵</span>
+            <span class="category-pill" id="reviewCategoryPill">Oxford Word Skills</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill" id="reviewProgressBar" style="width: 0%"></div>
+          </div>
+
+          <!-- 3D Flip Card -->
+          <div class="flashcard-scene">
+            <div class="flashcard" id="flashcard" role="button" tabindex="0" aria-label="فلشکارت؛ برای چرخش لمس کنید">
+              <!-- Front -->
+              <div class="flashcard-face flashcard-front">
+                <div class="card-face-top">
+                  <span class="level-badge" id="cardLevelFront">سطح ۱</span>
+                  <button type="button" class="audio-btn" id="speakWordBtn" title="پخش تلفظ کلمه" aria-label="پخش تلفظ کلمه">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+                    <span id="speakAccentTag">US</span>
+                  </button>
+                </div>
+                <div class="card-face-center">
+                  <div class="word-display en-text" id="cardWordDisplay">resilient</div>
+                </div>
+                <div class="card-face-bottom">
+                  <span class="flip-hint">برای دیدن معنی کارت را لمس کنید</span>
+                </div>
+              </div>
+
+              <!-- Back -->
+              <div class="flashcard-face flashcard-back">
+                <div class="card-face-top">
+                  <span class="level-badge" id="cardLevelBack">سطح ۱ • هر ۱ روز</span>
+                  <button type="button" class="audio-btn audio-btn-sm" id="speakWordBackBtn" title="تلفظ کلمه" aria-label="تلفظ کلمه">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+                  </button>
+                </div>
+                <div class="card-face-center card-back-content">
+                  <div class="word-sub en-text" id="cardWordBack">resilient</div>
+                  <div class="meaning-display" id="cardMeaningDisplay">تاب‌آور</div>
+                  <div class="example-box" id="cardExampleBox">
+                    <p class="example-text en-text" id="cardExampleDisplay"></p>
+                    <button type="button" class="example-audio-btn" id="speakExampleBtn">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+                      <span>تلفظ مثال</span>
+                    </button>
+                  </div>
+                </div>
+                <div class="card-face-bottom">
+                  <span class="flip-hint">برای برگشت لمس کنید</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Answer Buttons -->
+          <div class="review-actions">
+            <button type="button" class="btn btn-danger btn-answer" id="dontKnowBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+              <div>
+                <span class="btn-main-label">بلد نیستم</span>
+                <span class="btn-sub-label">بازگشت به سطح ۱</span>
+              </div>
+            </button>
+            <button type="button" class="btn btn-success btn-answer" id="knowBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+              <div>
+                <span class="btn-main-label">بلدم</span>
+                <span class="btn-sub-label" id="knowNextLevelHint">ارتقا به سطح ۲</span>
+              </div>
+            </button>
+          </div>
+        </div>
+
+        <!-- Empty / Done State -->
+        <div id="reviewEmptyContainer" class="empty-state hidden">
+          <div class="empty-icon" id="reviewEmptyIcon">🎉</div>
+          <h2 id="reviewEmptyTitle">مرور امروز کامل شد!</h2>
+          <p id="reviewEmptyDesc">هیچ کارتی برای مرور باقی نمانده است. عالی پیش می‌روید!</p>
+          <div class="empty-actions">
+            <button type="button" class="btn btn-primary hidden" id="reviewAgainBtn">مرور مجدد کارت‌های سطح ۱</button>
+            <button type="button" class="btn btn-secondary" id="goToDashboardBtn">بازگشت به داشبورد</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- 3. Manage Words View -->
+      <section id="view-manage" class="view" aria-labelledby="tab-manage">
+        <div class="manage-toolbar">
+          <button type="button" class="btn btn-primary btn-block" id="openAddModalBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
+            <span>افزودن لغت جدید</span>
+          </button>
+        </div>
+
+        <div class="filters-panel">
+          <div class="search-box">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            <input type="search" id="searchInput" placeholder="جستجوی لغت، معنی یا مثال..." autocomplete="off" />
+          </div>
+          <div class="filter-row">
+            <select id="filterLevelSelect" class="select-input" aria-label="فیلتر بر اساس سطح">
+              <option value="all">همه سطوح (۱ تا ۷)</option>
+              <option value="due">آماده مرور امروز</option>
+              <option value="1">سطح ۱ (هر ۱ روز)</option>
+              <option value="2">سطح ۲ (هر ۲ روز)</option>
+              <option value="3">سطح ۳ (هر ۴ روز)</option>
+              <option value="4">سطح ۴ (هر ۸ روز)</option>
+              <option value="5">سطح ۵ (هر ۱۵ روز)</option>
+              <option value="6">سطح ۶ (هر ۳۰ روز)</option>
+              <option value="7">سطح ۷ (تسلط / ۶۰ روز)</option>
+            </select>
+            <select id="filterCategorySelect" class="select-input" aria-label="فیلتر بر اساس دسته‌بندی">
+              <option value="all">همه دسته‌ها</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="list-meta">
+          <span id="wordsCountLabel">۰ لغت</span>
+        </div>
+
+        <div id="wordsList" class="words-list"></div>
+      </section>
+
+      <!-- 4. Backup & Settings View -->
+      <section id="view-backup" class="view" aria-labelledby="tab-backup">
+        <div class="section-card">
+          <div class="section-header">
+            <h2>پشتیبان‌گیری (Export)</h2>
+            <span class="section-hint">ذخیره فایل روی دستگاه</span>
+          </div>
+          <p class="card-desc">از تمام لغات، سطوح لایتنر و زمان مرور آن‌ها خروجی بگیرید تا همیشه نسخه پشتیبان داشته باشید.</p>
+          <div class="btn-grid-2">
+            <button type="button" class="btn btn-primary" id="exportJsonBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>خروجی JSON</span>
+            </button>
+            <button type="button" class="btn btn-secondary" id="exportCsvBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+              <span>خروجی CSV</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="section-card">
+          <div class="section-header">
+            <h2>وارد کردن لغات (Import)</h2>
+            <span class="section-hint">پشتیبانی از JSON و CSV</span>
+          </div>
+          <p class="card-desc">فایل پشتیبان JSON یا لیست لغات CSV (با ستون‌های word, meaning, example, category) را وارد کنید.</p>
+          <label class="file-dropzone" for="importFileInput">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            <span>انتخاب فایل JSON یا CSV</span>
+            <input type="file" id="importFileInput" accept=".json,.csv,application/json,text/csv" hidden />
+          </label>
+        </div>
+
+        <div class="section-card">
+          <div class="section-header">
+            <h2>تنظیمات و داده نمونه</h2>
+          </div>
+          <div class="settings-list">
+            <div class="setting-row">
+              <div>
+                <div class="setting-title">لهجه تلفظ صوتی</div>
+                <div class="setting-sub">انتخاب بین انگلیسی آمریکایی و بریتانیایی</div>
+              </div>
+              <div class="segmented-control">
+                <button type="button" class="seg-btn active" data-accent="en-US" id="segUsBtn">US</button>
+                <button type="button" class="seg-btn" data-accent="en-GB" id="segUkBtn">UK</button>
+              </div>
+            </div>
+            <div class="setting-row">
+              <div>
+                <div class="setting-title">افزودن ۵ لغت نمونه آکسفورد</div>
+                <div class="setting-sub">اضافه کردن لغات پیش‌فرض بدون حذف لغات فعلی</div>
+              </div>
+              <button type="button" class="btn btn-secondary btn-sm" id="restoreSamplesBtn">افزودن نمونه</button>
+            </div>
+            <div class="setting-row">
+              <div>
+                <div class="setting-title">پاکسازی تمام داده‌ها</div>
+                <div class="setting-sub">حذف کامل تمام فلشکارت‌ها از حافظه</div>
+              </div>
+              <button type="button" class="btn btn-danger-outline btn-sm" id="clearAllBtn">حذف همه</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="ios-install-tip">
+          <strong>نکته نصب در آیفون (iOS):</strong> در مرورگر Safari دکمه <strong>Share</strong> را بزنید و گزینه <strong>Add to Home Screen</strong> را انتخاب کنید تا برنامه به‌صورت تمام‌صفحه اجرا شود.
+        </div>
+      </section>
+    </main>
+
+    <!-- Bottom Tab Bar -->
+    <nav class="bottom-nav" aria-label="منوی اصلی">
+      <button type="button" class="nav-item active" data-view="dashboard" id="tab-dashboard">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="9" x="3" y="3" rx="1"/><rect width="7" height="5" x="14" y="3" rx="1"/><rect width="7" height="9" x="14" y="12" rx="1"/><rect width="7" height="5" x="3" y="16" rx="1"/></svg>
+        <span>داشبورد</span>
+      </button>
+      <button type="button" class="nav-item" data-view="review" id="tab-review">
+        <span class="nav-badge hidden" id="navDueBadge">0</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="12" x="4" y="6" rx="2"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
+        <span>مرور</span>
+      </button>
+      <button type="button" class="nav-item" data-view="manage" id="tab-manage">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+        <span>لغات</span>
+      </button>
+      <button type="button" class="nav-item" data-view="backup" id="tab-backup">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
+        <span>پشتیبان</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- Add / Edit Word Modal -->
+  <div class="modal-backdrop hidden" id="wordModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h2 id="modalTitle">افزودن لغت جدید</h2>
+        <button type="button" class="icon-btn" id="closeModalBtn" aria-label="بستن">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+      <form id="wordForm" class="modal-form">
+        <input type="hidden" id="editCardId" />
+        <div class="form-group">
+          <label for="inputWord">کلمه یا اصطلاح انگلیسی *</label>
+          <input type="text" id="inputWord" class="text-input en-text" dir="ltr" placeholder="e.g. resilient" required />
+        </div>
+        <div class="form-group">
+          <label for="inputMeaning">معنی فارسی *</label>
+          <input type="text" id="inputMeaning" class="text-input" placeholder="مثلاً: تاب‌آور، انعطاف‌پذیر" required />
+        </div>
+        <div class="form-group">
+          <label for="inputExample">جمله مثال انگلیسی (اختیاری)</label>
+          <textarea id="inputExample" class="text-input en-text" dir="ltr" rows="2" placeholder="e.g. She is remarkably resilient under pressure."></textarea>
+        </div>
+        <div class="form-group">
+          <label for="inputCategory">دسته‌بندی یا منبع</label>
+          <div class="category-input-row">
+            <select id="inputCategory" class="select-input"></select>
+            <button type="button" class="btn btn-secondary btn-sm" id="toggleNewCategoryBtn">+ دسته جدید</button>
+          </div>
+          <div class="new-category-row hidden" id="newCategoryRow">
+            <input type="text" id="newCategoryInput" class="text-input" placeholder="نام دسته جدید..." />
+            <button type="button" class="btn btn-primary btn-sm" id="saveNewCategoryBtn">افزودن</button>
+          </div>
+        </div>
+        <div class="form-group hidden" id="editLevelGroup">
+          <label for="inputLevel">سطح فعلی لایتنر</label>
+          <select id="inputLevel" class="select-input">
+            <option value="1">سطح ۱ (هر ۱ روز)</option>
+            <option value="2">سطح ۲ (هر ۲ روز)</option>
+            <option value="3">سطح ۳ (هر ۴ روز)</option>
+            <option value="4">سطح ۴ (هر ۸ روز)</option>
+            <option value="5">سطح ۵ (هر ۱۵ روز)</option>
+            <option value="6">سطح ۶ (هر ۳۰ روز)</option>
+            <option value="7">سطح ۷ (تسلط کامل / ۶۰ روز)</option>
+          </select>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" id="cancelModalBtn">انصراف</button>
+          <button type="submit" class="btn btn-primary" id="saveWordBtn">ذخیره لغت</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
