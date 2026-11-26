@@ -1,0 +1,5390 @@
+[
+  {
+    "word": "a",
+    "meaning": "یک، یکی (حرف تعریف نامعین)",
+    "example": "I have a new book.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "about",
+    "meaning": "درباره، حدود",
+    "example": "Tell me about your family.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "above",
+    "meaning": "بالا، بالایِ",
+    "example": "The picture is above the sofa.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "across",
+    "meaning": "در سراسر، آن طرف",
+    "example": "She walked across the street.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "action",
+    "meaning": "عمل، اقدام، حرکت",
+    "example": "We need to take action now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "activity",
+    "meaning": "فعالیت",
+    "example": "Swimming is my favourite activity.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "actor",
+    "meaning": "بازیگر مرد",
+    "example": "He is a famous actor.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "actress",
+    "meaning": "بازیگر زن",
+    "example": "She is a talented actress.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "add",
+    "meaning": "اضافه کردن، جمع زدن",
+    "example": "Add some sugar to the tea.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "address",
+    "meaning": "نشانی، آدرس",
+    "example": "What is your home address?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "adult",
+    "meaning": "بزرگسال",
+    "example": "This movie is for adults only.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "advice",
+    "meaning": "نصیحت، راهنمایی",
+    "example": "Thank you for your good advice.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "afraid",
+    "meaning": "ترسیده، نگران",
+    "example": "She is afraid of spiders.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "after",
+    "meaning": "بعد از، پس از",
+    "example": "Let's meet after lunch.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "afternoon",
+    "meaning": "بعدازظهر",
+    "example": "I have a meeting this afternoon.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "again",
+    "meaning": "دوباره، باز هم",
+    "example": "Please say that again.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "age",
+    "meaning": "سن، عمر",
+    "example": "What is your age?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ago",
+    "meaning": "پیش، قبل",
+    "example": "I arrived two hours ago.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "agree",
+    "meaning": "موافق بودن",
+    "example": "I agree with your idea.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "air",
+    "meaning": "هوا",
+    "example": "The morning air is fresh.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "airport",
+    "meaning": "فرودگاه",
+    "example": "We arrived at the airport early.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "all",
+    "meaning": "همه، تمام",
+    "example": "All the students are here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "also",
+    "meaning": "همچنین، نیز",
+    "example": "She speaks English and also French.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "always",
+    "meaning": "همیشه",
+    "example": "He is always on time.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "amazing",
+    "meaning": "شگفت‌انگیز، عالی",
+    "example": "That was an amazing concert!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "and",
+    "meaning": "و",
+    "example": "I like tea and coffee.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "angry",
+    "meaning": "عصبانی",
+    "example": "Why are you angry with me?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "animal",
+    "meaning": "حیوان",
+    "example": "The lion is a wild animal.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "another",
+    "meaning": "دیگر، یکی دیگر",
+    "example": "Would you like another cup of tea?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "answer",
+    "meaning": "پاسخ، جواب دادن",
+    "example": "Please answer the question.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "any",
+    "meaning": "هیچ، هر، مقداری",
+    "example": "Do you have any questions?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "anyone",
+    "meaning": "هر کس، کسی",
+    "example": "Is anyone at home?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "anything",
+    "meaning": "هر چیز، چیزی",
+    "example": "I didn't buy anything.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "apartment",
+    "meaning": "آپارتمان",
+    "example": "They live in a small apartment.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "apple",
+    "meaning": "سیب",
+    "example": "I eat an apple every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "april",
+    "meaning": "آوریل (ماه چهارم میلادی)",
+    "example": "My birthday is in April.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "area",
+    "meaning": "منطقه، ناحیه، مساحت",
+    "example": "This is a quiet area.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "arm",
+    "meaning": "بازو، دست",
+    "example": "He broke his left arm.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "around",
+    "meaning": "دورِ، اطرافِ، حدود",
+    "example": "We walked around the park.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "arrive",
+    "meaning": "رسیدن",
+    "example": "The train will arrive at six.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "art",
+    "meaning": "هنر",
+    "example": "She studies art at university.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "article",
+    "meaning": "مقاله، بند",
+    "example": "I read an interesting article today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "artist",
+    "meaning": "هنرمند، نقاش",
+    "example": "My sister is a great artist.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "as",
+    "meaning": "به عنوانِ، مثلِ، همان‌طور که",
+    "example": "He works as a teacher.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ask",
+    "meaning": "پرسیدن، خواستن",
+    "example": "Can I ask you a question?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "at",
+    "meaning": "در، به (مکان/زمان)",
+    "example": "Meet me at the station at five.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "august",
+    "meaning": "اوت (ماه هشتم میلادی)",
+    "example": "We usually travel in August.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "aunt",
+    "meaning": "عمه، خاله",
+    "example": "My aunt lives in Shiraz.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "autumn",
+    "meaning": "پاییز",
+    "example": "Leaves fall in autumn.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "away",
+    "meaning": "دور، به دور",
+    "example": "The beach is ten minutes away.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "baby",
+    "meaning": "نوزاد، بچه",
+    "example": "The baby is sleeping now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "back",
+    "meaning": "پشت، عقب، برگشتن",
+    "example": "I will be back soon.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bad",
+    "meaning": "بد، خراب",
+    "example": "Smoking is bad for your health.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bag",
+    "meaning": "کیف، ساک",
+    "example": "Put your books in your bag.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ball",
+    "meaning": "توپ",
+    "example": "Kick the ball to me!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "banana",
+    "meaning": "موز",
+    "example": "Monkeys love eating bananas.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "band",
+    "meaning": "گروه موسیقی، نوار",
+    "example": "My favourite band is playing tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bank",
+    "meaning": "بانک، ساحل رودخانه",
+    "example": "I need to go to the bank.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bath",
+    "meaning": "حمام، وان حمام",
+    "example": "I take a warm bath at night.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bathroom",
+    "meaning": "حمام و دستشویی",
+    "example": "Where is the bathroom, please?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "be",
+    "meaning": "بودن",
+    "example": "I want to be a doctor.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "beach",
+    "meaning": "ساحل",
+    "example": "We spent the day at the beach.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "beautiful",
+    "meaning": "زیبا، قشنگ",
+    "example": "What a beautiful garden!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "because",
+    "meaning": "زیرا، به دلیل اینکه",
+    "example": "I stayed home because it rained.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "become",
+    "meaning": "شدن، تبدیل شدن",
+    "example": "She wants to become a writer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bed",
+    "meaning": "تختخواب",
+    "example": "It is time to go to bed.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bedroom",
+    "meaning": "اتاق خواب",
+    "example": "My bedroom is very bright.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "beer",
+    "meaning": "آبجو",
+    "example": "He ordered a cold beer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "before",
+    "meaning": "قبل از، پیش از",
+    "example": "Wash your hands before dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "begin",
+    "meaning": "شروع کردن",
+    "example": "The class will begin at nine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "beginning",
+    "meaning": "آغاز، ابتدا",
+    "example": "Read from the beginning of the page.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "behind",
+    "meaning": "پشتِ، عقبِ",
+    "example": "The cat is behind the door.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "believe",
+    "meaning": "باور کردن، اعتقاد داشتن",
+    "example": "I believe you are right.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "below",
+    "meaning": "زیرِ، پایینِ",
+    "example": "Write your name below the line.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "best",
+    "meaning": "بهترین",
+    "example": "She is my best friend.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "better",
+    "meaning": "بهتر",
+    "example": "Today I feel much better.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "between",
+    "meaning": "بینِ، میانِ",
+    "example": "The cafe is between the bank and the school.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bicycle",
+    "meaning": "دوچرخه",
+    "example": "He rides his bicycle to work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "big",
+    "meaning": "بزرگ",
+    "example": "They live in a big house.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bike",
+    "meaning": "دوچرخه، موتور",
+    "example": "I go to school by bike.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bill",
+    "meaning": "صورت‌حساب، اسکناس",
+    "example": "Could we have the bill, please?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bird",
+    "meaning": "پرنده",
+    "example": "A little bird is singing outside.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "birthday",
+    "meaning": "روز تولد",
+    "example": "Happy birthday to you!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "black",
+    "meaning": "سیاه، مشکی",
+    "example": "He wears a black jacket.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "blog",
+    "meaning": "وبلاگ",
+    "example": "She writes a travel blog.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "blonde",
+    "meaning": "بلوند، موبور",
+    "example": "Her daughter has blonde hair.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "blue",
+    "meaning": "آبی",
+    "example": "The sky is clear and blue.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "boat",
+    "meaning": "قایق",
+    "example": "We crossed the lake by boat.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "body",
+    "meaning": "بدن، جسم",
+    "example": "Exercise is good for your body.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "book",
+    "meaning": "کتاب",
+    "example": "I am reading a good book.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "boot",
+    "meaning": "چکمه، پوتین",
+    "example": "Put on your boots; it is snowing.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bored",
+    "meaning": "کسل، حوصله‌سررفته",
+    "example": "I am bored at home.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "boring",
+    "meaning": "کسل‌کننده، خسته‌کننده",
+    "example": "That film was really boring.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "born",
+    "meaning": "متولد شده",
+    "example": "I was born in Tehran.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "both",
+    "meaning": "هر دو",
+    "example": "Both of my parents are teachers.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bottle",
+    "meaning": "بطری",
+    "example": "Please bring a bottle of water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "box",
+    "meaning": "جعبه، کارتن",
+    "example": "What is inside this box?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "boy",
+    "meaning": "پسر",
+    "example": "The boy is playing football.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "boyfriend",
+    "meaning": "دوست‌پسر",
+    "example": "She went to the cinema with her boyfriend.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bread",
+    "meaning": "نان",
+    "example": "We buy fresh bread every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "break",
+    "meaning": "شکستن، زنگ تفریح",
+    "example": "Let's take a short break.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "breakfast",
+    "meaning": "صبحانه",
+    "example": "I have eggs for breakfast.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bring",
+    "meaning": "آوردن",
+    "example": "Please bring your notebook tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "brother",
+    "meaning": "برادر",
+    "example": "My younger brother is ten.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "brown",
+    "meaning": "قهوه‌ای",
+    "example": "He has brown eyes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "build",
+    "meaning": "ساختن",
+    "example": "They plan to build a new bridge.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "building",
+    "meaning": "ساختمان",
+    "example": "That is the tallest building in the city.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bus",
+    "meaning": "اتوبوس",
+    "example": "I take the bus to work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "business",
+    "meaning": "کسب‌وکار، تجارت",
+    "example": "She runs a small business.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "busy",
+    "meaning": "مشغول، شلوغ",
+    "example": "I am very busy today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "but",
+    "meaning": "اما، ولی",
+    "example": "I like coffee, but I prefer tea.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "butter",
+    "meaning": "کره",
+    "example": "Spread some butter on the bread.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "buy",
+    "meaning": "خریدن",
+    "example": "I want to buy a new phone.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "by",
+    "meaning": "توسطِ، با، کنارِ",
+    "example": "She goes to university by train.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "bye",
+    "meaning": "خداحافظ",
+    "example": "Bye! See you tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cafe",
+    "meaning": "کافه",
+    "example": "Let's meet at the cafe.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cake",
+    "meaning": "کیک",
+    "example": "She baked a chocolate cake.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "call",
+    "meaning": "صدا زدن، تماس گرفتن",
+    "example": "Call me when you get home.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "camera",
+    "meaning": "دوربین",
+    "example": "He bought a digital camera.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "can",
+    "meaning": "توانستن",
+    "example": "I can swim very well.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cannot",
+    "meaning": "نتوانستن",
+    "example": "I cannot find my keys.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "capital",
+    "meaning": "پایتخت، حرف بزرگ، سرمایه",
+    "example": "London is the capital of the UK.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "car",
+    "meaning": "خودرو، ماشین",
+    "example": "My father drives a white car.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "card",
+    "meaning": "کارت",
+    "example": "Here is my business card.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "career",
+    "meaning": "حرفه، شغل",
+    "example": "She has a successful career in medicine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "carrot",
+    "meaning": "هویج",
+    "example": "Rabbits love carrots.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "carry",
+    "meaning": "حمل کردن، بردن",
+    "example": "Can you help me carry this bag?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cat",
+    "meaning": "گربه",
+    "example": "Our cat sleeps on the sofa.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cd",
+    "meaning": "سی‌دی، لوح فشرده",
+    "example": "I still have some old music CDs.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cent",
+    "meaning": "سنت (واحد پول)",
+    "example": "This candy costs fifty cents.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "centre",
+    "meaning": "مرکز",
+    "example": "The hotel is in the city centre.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "century",
+    "meaning": "قرن، سده",
+    "example": "We live in the twenty-first century.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "chair",
+    "meaning": "صندلی",
+    "example": "Please sit on this chair.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "change",
+    "meaning": "تغییر، تغییر دادن، پول خرد",
+    "example": "People don't like sudden change.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "chart",
+    "meaning": "نمودار، جدول",
+    "example": "Look at the chart on page five.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cheap",
+    "meaning": "ارزان",
+    "example": "The tickets were very cheap.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "check",
+    "meaning": "بررسی کردن، چک کردن",
+    "example": "Check your answers before you finish.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cheese",
+    "meaning": "پنیر",
+    "example": "I like cheese on my sandwich.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "chicken",
+    "meaning": "مرغ، جوجه",
+    "example": "We had roast chicken for dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "child",
+    "meaning": "کودک، بچه",
+    "example": "Every child needs love and care.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "chocolate",
+    "meaning": "شکلات",
+    "example": "Do you like dark chocolate?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "choose",
+    "meaning": "انتخاب کردن",
+    "example": "Choose the correct answer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cinema",
+    "meaning": "سینما",
+    "example": "Let's go to the cinema tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "city",
+    "meaning": "شهر",
+    "example": "Paris is a beautiful city.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "class",
+    "meaning": "کلاس، درس",
+    "example": "Our English class starts at ten.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "classroom",
+    "meaning": "کلاس درس",
+    "example": "There are twenty desks in the classroom.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "clean",
+    "meaning": "تمیز، تمیز کردن",
+    "example": "Keep your room clean.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "climb",
+    "meaning": "بالا رفتن، صعود کردن",
+    "example": "They want to climb the mountain.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "clock",
+    "meaning": "ساعت دیواری/رومیزی",
+    "example": "Look at the clock on the wall.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "close",
+    "meaning": "بستن، نزدیک",
+    "example": "Please close the window.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "clothes",
+    "meaning": "لباس‌ها",
+    "example": "She bought some new clothes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "club",
+    "meaning": "باشگاه، کلوپ",
+    "example": "He joined a sports club.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "coat",
+    "meaning": "کت، پالتو",
+    "example": "Wear your coat; it is cold outside.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "coffee",
+    "meaning": "قهوه",
+    "example": "I drink a cup of coffee every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cold",
+    "meaning": "سرد، سرما",
+    "example": "The water is too cold for swimming.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "college",
+    "meaning": "کالج، دانشکده",
+    "example": "My brother goes to art college.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "colour",
+    "meaning": "رنگ",
+    "example": "What is your favourite colour?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "come",
+    "meaning": "آمدن",
+    "example": "Come here and look at this!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "common",
+    "meaning": "رایج، مشترک",
+    "example": "That is a very common mistake.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "company",
+    "meaning": "شرکت، همراهی",
+    "example": "She works for a large company.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "compare",
+    "meaning": "مقایسه کردن",
+    "example": "Compare your answers with your partner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "complete",
+    "meaning": "کامل، تکمیل کردن",
+    "example": "Please complete this form.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "computer",
+    "meaning": "رایانه، کامپیوتر",
+    "example": "I use a computer at work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "concert",
+    "meaning": "کنسرت",
+    "example": "We went to a rock concert last night.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "conversation",
+    "meaning": "مکالمه، گفتگو",
+    "example": "We had a long conversation.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cook",
+    "meaning": "پختن، آشپز",
+    "example": "My father loves to cook dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cooking",
+    "meaning": "آشپزی",
+    "example": "I enjoy cooking on weekends.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cool",
+    "meaning": "خنک، باحال",
+    "example": "The evening air feels cool.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "correct",
+    "meaning": "درست، صحیح، تصحیح کردن",
+    "example": "Your answer is completely correct.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cost",
+    "meaning": "هزینه، قیمت داشتن",
+    "example": "How much does this jacket cost?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "could",
+    "meaning": "توانست (گذشته/مودبانه)",
+    "example": "Could you help me, please?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "country",
+    "meaning": "کشور، روستا",
+    "example": "Japan is an island country.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "course",
+    "meaning": "دوره آموزشی، مسیر",
+    "example": "I am taking an online English course.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cousin",
+    "meaning": "پسرعمو/دخترعمو/عمه/خاله/دایی",
+    "example": "My cousin is visiting us this week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cow",
+    "meaning": "گاو",
+    "example": "There are cows in the field.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cream",
+    "meaning": "خامه، کرم",
+    "example": "Do you want cream with your cake?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "create",
+    "meaning": "ایجاد کردن، خلق کردن",
+    "example": "Artists create beautiful things.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "culture",
+    "meaning": "فرهنگ",
+    "example": "I love learning about Japanese culture.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cup",
+    "meaning": "فنجان، جام",
+    "example": "Would you like a cup of tea?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "customer",
+    "meaning": "مشتری",
+    "example": "The shop assistant helped the customer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "cut",
+    "meaning": "بریدن، قطع کردن",
+    "example": "Be careful when you cut the bread.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dad",
+    "meaning": "بابا، پدر",
+    "example": "My dad works in a hospital.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dance",
+    "meaning": "رقص، رقصیدن",
+    "example": "They love to dance at parties.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dancer",
+    "meaning": "رقصنده",
+    "example": "She is a professional dancer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dancing",
+    "meaning": "رقصیدن",
+    "example": "We went dancing on Saturday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "خطرناک",
+    "example": "Driving fast is very dangerous.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dark",
+    "meaning": "تاریک، تیره",
+    "example": "It gets dark at six in winter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "date",
+    "meaning": "تاریخ، قرار ملاقات، خرما",
+    "example": "What is today's date?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "daughter",
+    "meaning": "دختر (فرزند)",
+    "example": "Their daughter is five years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "day",
+    "meaning": "روز",
+    "example": "Have a nice day!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dear",
+    "meaning": "عزیز، گرامی",
+    "example": "Dear friend, thank you for your letter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "december",
+    "meaning": "دسامبر (ماه دوازدهم میلادی)",
+    "example": "Winter begins in December.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "decide",
+    "meaning": "تصمیم گرفتن",
+    "example": "I cannot decide what to wear.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "delicious",
+    "meaning": "خوشمزه",
+    "example": "This soup is really delicious!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "describe",
+    "meaning": "توصیف کردن",
+    "example": "Can you describe the man you saw?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "description",
+    "meaning": "توصیف، شرح",
+    "example": "Write a short description of your hometown.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "design",
+    "meaning": "طرح، طراحی کردن",
+    "example": "I like the design of this website.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "desk",
+    "meaning": "میز کار/تحریر",
+    "example": "There is a lamp on my desk.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "detail",
+    "meaning": "جزئیات",
+    "example": "Tell me every detail of the story.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dialogue",
+    "meaning": "گفتگو، دیالوگ",
+    "example": "Listen and repeat the dialogue.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dictionary",
+    "meaning": "فرهنگ لغت، دیکشنری",
+    "example": "Look up the word in a dictionary.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "die",
+    "meaning": "مردن",
+    "example": "Plants die without water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "diet",
+    "meaning": "رژیم غذایی",
+    "example": "A healthy diet includes fruit and vegetables.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "difference",
+    "meaning": "تفاوت، فرق",
+    "example": "What is the difference between these two words?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "different",
+    "meaning": "متفاوت، گوناگون",
+    "example": "We have very different hobbies.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "difficult",
+    "meaning": "سخت، دشوار",
+    "example": "This math problem is difficult.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dinner",
+    "meaning": "شام",
+    "example": "We usually eat dinner at eight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dirty",
+    "meaning": "کثیف",
+    "example": "Your shoes are dirty.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "discuss",
+    "meaning": "بحث و گفتگو کردن",
+    "example": "Let's discuss the plan tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dish",
+    "meaning": "بشقاب، غذا",
+    "example": "Wash the dishes after dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "do",
+    "meaning": "انجام دادن",
+    "example": "What do you do on weekends?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "doctor",
+    "meaning": "پزشک، دکتر",
+    "example": "You should see a doctor.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dog",
+    "meaning": "سگ",
+    "example": "Our dog likes to play in the garden.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dollar",
+    "meaning": "دلار",
+    "example": "The book costs ten dollars.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "door",
+    "meaning": "در",
+    "example": "Please shut the door behind you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "down",
+    "meaning": "پایین",
+    "example": "Sit down and relax.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "downstairs",
+    "meaning": "طبقه پایین",
+    "example": "The kitchen is downstairs.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "draw",
+    "meaning": "کشیدن (نقاشی)، مساوی شدن",
+    "example": "She can draw animals very well.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dress",
+    "meaning": "لباس زنانه، لباس پوشیدن",
+    "example": "She wore a red dress to the party.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "drink",
+    "meaning": "نوشیدن، نوشیدنی",
+    "example": "Drink plenty of water every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "drive",
+    "meaning": "رانندگی کردن",
+    "example": "Can you drive a car?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "driver",
+    "meaning": "راننده",
+    "example": "The bus driver was very friendly.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "during",
+    "meaning": "در طولِ، هنگامِ",
+    "example": "No talking during the exam.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "dvd",
+    "meaning": "دی‌وی‌دی",
+    "example": "We watched a movie on DVD.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "each",
+    "meaning": "هر، هر یک",
+    "example": "Each student has a book.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ear",
+    "meaning": "گوش",
+    "example": "Elephants have very big ears.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "early",
+    "meaning": "زود، اولِ",
+    "example": "I wake up early every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "east",
+    "meaning": "شرق",
+    "example": "The sun rises in the east.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "easy",
+    "meaning": "آسان، راحت",
+    "example": "The test was really easy.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "eat",
+    "meaning": "خوردن",
+    "example": "Let's eat lunch together.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "egg",
+    "meaning": "تخم‌مرغ",
+    "example": "I had two boiled eggs for breakfast.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "eight",
+    "meaning": "هشت",
+    "example": "There are eight people in the room.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "eighteen",
+    "meaning": "هجده",
+    "example": "She is eighteen years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "eighty",
+    "meaning": "هشتاد",
+    "example": "My grandfather is eighty years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "elephant",
+    "meaning": "فیل",
+    "example": "The elephant is a huge animal.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "eleven",
+    "meaning": "یازده",
+    "example": "The match starts at eleven o'clock.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "else",
+    "meaning": "دیگر",
+    "example": "Would you like anything else?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "email",
+    "meaning": "ایمیل، ایمیل زدن",
+    "example": "Send me an email tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "end",
+    "meaning": "پایان، تمام شدن",
+    "example": "This is the end of the story.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "enjoy",
+    "meaning": "لذت بردن",
+    "example": "I hope you enjoy your holiday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "enough",
+    "meaning": "کافی، به اندازه کافی",
+    "example": "Do we have enough time?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "euro",
+    "meaning": "یورو",
+    "example": "The ticket costs twenty euros.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "even",
+    "meaning": "حتی",
+    "example": "Even a child can understand this.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "evening",
+    "meaning": "عصر، شب",
+    "example": "Good evening, everyone!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "event",
+    "meaning": "رویداد، مراسم",
+    "example": "The wedding was a wonderful event.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ever",
+    "meaning": "تا به حال، هرگز",
+    "example": "Have you ever been to London?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "every",
+    "meaning": "هر",
+    "example": "I read the news every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "everybody",
+    "meaning": "همه، همه کس",
+    "example": "Everybody is ready to start.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "everyone",
+    "meaning": "همه",
+    "example": "Hello everyone!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "everything",
+    "meaning": "همه‌چیز",
+    "example": "Everything is going well.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "exam",
+    "meaning": "امتحان، آزمون",
+    "example": "I have an English exam tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "example",
+    "meaning": "مثال، نمونه",
+    "example": "Give me an example, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "excited",
+    "meaning": "هیجان‌زده",
+    "example": "The children are excited about the trip.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "exciting",
+    "meaning": "هیجان‌انگیز",
+    "example": "Football is an exciting game.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "exercise",
+    "meaning": "ورزش، تمرین، تمرین کردن",
+    "example": "Daily exercise keeps you fit.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "expensive",
+    "meaning": "گران",
+    "example": "That watch is too expensive.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "explain",
+    "meaning": "توضیح دادن",
+    "example": "Could you explain this rule again?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "extra",
+    "meaning": "اضافی",
+    "example": "Do you need an extra chair?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "eye",
+    "meaning": "چشم",
+    "example": "Close your eyes and rest.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "face",
+    "meaning": "صورت، روبه‌رو شدن",
+    "example": "Wash your face with cold water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fact",
+    "meaning": "حقیقت، واقعیت",
+    "example": "That is an interesting fact.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fall",
+    "meaning": "افتادن، پاییز",
+    "example": "Be careful not to fall on the ice.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "false",
+    "meaning": "غلط، نادرست",
+    "example": "Is this statement true or false?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "family",
+    "meaning": "خانواده",
+    "example": "I love spending time with my family.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "famous",
+    "meaning": "مشهور، معروف",
+    "example": "She is a famous singer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fantastic",
+    "meaning": "فوق‌العاده، عالی",
+    "example": "You did a fantastic job!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "far",
+    "meaning": "دور",
+    "example": "How far is the airport from here?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "farm",
+    "meaning": "مزرعه",
+    "example": "My uncle owns a small farm.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "farmer",
+    "meaning": "کشاورز",
+    "example": "The farmer wakes up at dawn.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fast",
+    "meaning": "سریع، تند",
+    "example": "He runs very fast.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fat",
+    "meaning": "چاق، چربی",
+    "example": "Don't eat too much fat.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "father",
+    "meaning": "پدر",
+    "example": "My father taught me how to drive.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "favourite",
+    "meaning": "مورد علاقه",
+    "example": "Green is my favourite colour.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "february",
+    "meaning": "فوریه (ماه دوم میلادی)",
+    "example": "February is the shortest month.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "feel",
+    "meaning": "احساس کردن",
+    "example": "I feel happy today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "feeling",
+    "meaning": "احساس، حس",
+    "example": "I have a good feeling about this.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "festival",
+    "meaning": "جشنواره، عید",
+    "example": "The music festival lasts three days.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "few",
+    "meaning": "کم، چند تا",
+    "example": "I have a few close friends.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fifteen",
+    "meaning": "پانزده",
+    "example": "Wait for fifteen minutes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fifth",
+    "meaning": "پنجم",
+    "example": "May is the fifth month of the year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fifty",
+    "meaning": "پنجاه",
+    "example": "This book has fifty pages.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fill",
+    "meaning": "پر کردن",
+    "example": "Fill the glass with water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "film",
+    "meaning": "فیلم",
+    "example": "We watched a great film last night.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "final",
+    "meaning": "نهایی، پایانی",
+    "example": "This is our final decision.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "find",
+    "meaning": "پیدا کردن",
+    "example": "I cannot find my glasses.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fine",
+    "meaning": "خوب، عالی، جریمه",
+    "example": "I am fine, thank you!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "finish",
+    "meaning": "تمام کردن، به پایان رساندن",
+    "example": "When do you finish work?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fire",
+    "meaning": "آتش",
+    "example": "Sit near the fire to keep warm.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "first",
+    "meaning": "اول، نخستین",
+    "example": "This is my first visit to Iran.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fish",
+    "meaning": "ماهی",
+    "example": "We ate grilled fish for lunch.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "five",
+    "meaning": "پنج",
+    "example": "I work five days a week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "flat",
+    "meaning": "آپارتمان، صاف",
+    "example": "They rented a flat near the park.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "flight",
+    "meaning": "پرواز",
+    "example": "Have a safe flight!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "floor",
+    "meaning": "کف اتاق، طبقه",
+    "example": "My office is on the third floor.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "flower",
+    "meaning": "گل",
+    "example": "She put fresh flowers in the vase.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fly",
+    "meaning": "پرواز کردن، مگس",
+    "example": "Birds fly south in winter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "follow",
+    "meaning": "دنبال کردن، پیروی کردن",
+    "example": "Follow me, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "food",
+    "meaning": "غذا",
+    "example": "Italian food is very popular.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "foot",
+    "meaning": "پا",
+    "example": "My left foot hurts.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "football",
+    "meaning": "فوتبال",
+    "example": "He plays football every Friday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "for",
+    "meaning": "برای، به مدتِ",
+    "example": "This gift is for you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "forget",
+    "meaning": "فراموش کردن",
+    "example": "Don't forget your umbrella.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "form",
+    "meaning": "فرم، شکل، تشکیل دادن",
+    "example": "Please fill out this form.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "forty",
+    "meaning": "چهل",
+    "example": "My father is forty years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "four",
+    "meaning": "چهار",
+    "example": "There are four seasons in a year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fourteen",
+    "meaning": "چهارده",
+    "example": "She is fourteen years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fourth",
+    "meaning": "چهارم",
+    "example": "April is the fourth month.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "free",
+    "meaning": "آزاد، رایگان",
+    "example": "Are you free this evening?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "friday",
+    "meaning": "جمعه",
+    "example": "We don't work on Friday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "friend",
+    "meaning": "دوست",
+    "example": "Ali is my best friend.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "friendly",
+    "meaning": "دوستانه، خوش‌برخورد",
+    "example": "Our neighbours are very friendly.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "from",
+    "meaning": "از",
+    "example": "Where are you from?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "front",
+    "meaning": "جلو، روبه‌رو",
+    "example": "The car is parked in front of the house.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fruit",
+    "meaning": "میوه",
+    "example": "Eat fresh fruit every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "full",
+    "meaning": "پر، سیر",
+    "example": "The bus is completely full.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "fun",
+    "meaning": "سرگرمی، تفریح",
+    "example": "We had a lot of fun at the party.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "funny",
+    "meaning": "خنده‌دار، بامزه",
+    "example": "He told a very funny joke.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "future",
+    "meaning": "آینده",
+    "example": "What are your plans for the future?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "game",
+    "meaning": "بازی",
+    "example": "Let's play a board game.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "garden",
+    "meaning": "باغ، باغچه",
+    "example": "There are beautiful roses in the garden.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "geography",
+    "meaning": "جغرافیا",
+    "example": "Geography is my favourite subject.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "get",
+    "meaning": "گرفتن، به دست آوردن، رسیدن",
+    "example": "I get up at seven every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "girl",
+    "meaning": "دختر",
+    "example": "The little girl is smiling.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "girlfriend",
+    "meaning": "دوست‌دختر",
+    "example": "He bought flowers for his girlfriend.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "give",
+    "meaning": "دادن",
+    "example": "Please give me that pen.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "glass",
+    "meaning": "لیوان، شیشه",
+    "example": "Pour the juice into a glass.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "go",
+    "meaning": "رفتن",
+    "example": "Let's go home now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "good",
+    "meaning": "خوب",
+    "example": "That is a very good idea.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "goodbye",
+    "meaning": "خداحافظ",
+    "example": "Say goodbye to your friends.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "grandfather",
+    "meaning": "پدربزرگ",
+    "example": "My grandfather tells great stories.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "grandmother",
+    "meaning": "مادربزرگ",
+    "example": "My grandmother bakes delicious cookies.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "grandparent",
+    "meaning": "پدربزرگ یا مادربزرگ",
+    "example": "We visit our grandparents every weekend.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "great",
+    "meaning": "عالی، بزرگ",
+    "example": "We had a great time together.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "green",
+    "meaning": "سبز",
+    "example": "The grass is bright green.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "grey",
+    "meaning": "خاکستری",
+    "example": "It is a cloudy, grey day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "group",
+    "meaning": "گروه",
+    "example": "Work in a group of three.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "grow",
+    "meaning": "رشد کردن، کاشتن",
+    "example": "Tomatoes grow well in the sun.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "guess",
+    "meaning": "حدس، حدس زدن",
+    "example": "Can you guess my age?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "guitar",
+    "meaning": "گیتار",
+    "example": "He plays the guitar very well.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "gym",
+    "meaning": "باشگاه ورزشی",
+    "example": "I go to the gym three times a week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hair",
+    "meaning": "مو",
+    "example": "She has long dark hair.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "half",
+    "meaning": "نصف، نیم",
+    "example": "Half an hour is thirty minutes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hand",
+    "meaning": "دست",
+    "example": "Raise your hand if you know the answer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "happen",
+    "meaning": "اتفاق افتادن",
+    "example": "What happened yesterday?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "happy",
+    "meaning": "خوشحال، شاد",
+    "example": "I am so happy to see you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hard",
+    "meaning": "سخت، محکم، به سختی",
+    "example": "She works very hard.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hat",
+    "meaning": "کلاه",
+    "example": "Wear a hat in the sun.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hate",
+    "meaning": "متنفر بودن",
+    "example": "I hate waking up early in winter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "have",
+    "meaning": "داشتن",
+    "example": "I have two sisters.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "have to",
+    "meaning": "مجبور بودن، باید",
+    "example": "I have to finish my homework tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "he",
+    "meaning": "او (مذکر)",
+    "example": "He is a software engineer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "head",
+    "meaning": "سر، رئیس",
+    "example": "She nodded her head.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "health",
+    "meaning": "سلامتی",
+    "example": "Health is more important than money.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "healthy",
+    "meaning": "سالم، تندرست",
+    "example": "Vegetables keep you healthy.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hear",
+    "meaning": "شنیدن",
+    "example": "Can you hear the music?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hello",
+    "meaning": "سلام",
+    "example": "Hello, how are you?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "help",
+    "meaning": "کمک، کمک کردن",
+    "example": "Thank you for your help.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "her",
+    "meaning": "او (مؤنث)، مالِ او",
+    "example": "I saw her at the library.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "here",
+    "meaning": "اینجا",
+    "example": "Come here, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hey",
+    "meaning": "هی، سلام",
+    "example": "Hey! Long time no see.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hi",
+    "meaning": "سلام",
+    "example": "Hi, nice to meet you!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "high",
+    "meaning": "بلند، بالا",
+    "example": "That mountain is very high.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "him",
+    "meaning": "او را، به او (مذکر)",
+    "example": "Give the book to him.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "his",
+    "meaning": "مالِ او (مذکر)",
+    "example": "That is his backpack.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "history",
+    "meaning": "تاریخ",
+    "example": "I love reading world history.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hobby",
+    "meaning": "سرگرمی",
+    "example": "Photography is my favourite hobby.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "holiday",
+    "meaning": "تعطیلات، عید",
+    "example": "Where are you going for your holiday?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "home",
+    "meaning": "خانه، به خانه",
+    "example": "Let's go home.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "homework",
+    "meaning": "تکلیف منزل",
+    "example": "Do your homework before dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hope",
+    "meaning": "امیدوار بودن",
+    "example": "I hope you pass the exam.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "horse",
+    "meaning": "اسب",
+    "example": "She knows how to ride a horse.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hospital",
+    "meaning": "بیمارستان",
+    "example": "He works as a nurse at the hospital.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hot",
+    "meaning": "داغ، گرم",
+    "example": "Be careful, the soup is hot!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hotel",
+    "meaning": "هتل",
+    "example": "We stayed at a nice hotel.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hour",
+    "meaning": "ساعت (مدت زمان)",
+    "example": "The flight takes two hours.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "house",
+    "meaning": "خانه",
+    "example": "They bought a new house.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "how",
+    "meaning": "چطور، چگونه",
+    "example": "How do you spell your name?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "however",
+    "meaning": "با این حال، اما",
+    "example": "It was raining; however, we went out.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hundred",
+    "meaning": "صد",
+    "example": "There are a hundred pages in this book.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "hungry",
+    "meaning": "گرسنه",
+    "example": "I am really hungry right now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "husband",
+    "meaning": "شوهر، همسر",
+    "example": "Her husband is an architect.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "i",
+    "meaning": "من",
+    "example": "I live in Tehran.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ice",
+    "meaning": "یخ",
+    "example": "Put some ice in my drink.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ice cream",
+    "meaning": "بستنی",
+    "example": "Children love chocolate ice cream.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "idea",
+    "meaning": "ایده، نظر",
+    "example": "That is a brilliant idea!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "if",
+    "meaning": "اگر",
+    "example": "Call me if you need help.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "imagine",
+    "meaning": "تصور کردن",
+    "example": "Imagine living on an island.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "important",
+    "meaning": "مهم",
+    "example": "Sleep is very important for health.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "improve",
+    "meaning": "بهبود بخشیدن، پیشرفت کردن",
+    "example": "Reading helps improve your vocabulary.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "in",
+    "meaning": "در، داخلِ",
+    "example": "The keys are in my pocket.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "include",
+    "meaning": "شامل شدن",
+    "example": "The price includes breakfast.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "information",
+    "meaning": "اطلاعات",
+    "example": "You can find more information online.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "interest",
+    "meaning": "علاقه، سود",
+    "example": "He has a strong interest in music.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "interested",
+    "meaning": "علاقه‌مند",
+    "example": "Are you interested in art?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "interesting",
+    "meaning": "جالب",
+    "example": "This book is very interesting.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "internet",
+    "meaning": "اینترنت",
+    "example": "I use the internet every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "interview",
+    "meaning": "مصاحبه، مصاحبه کردن",
+    "example": "She has a job interview tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "into",
+    "meaning": "به داخلِ",
+    "example": "Walk into the room quietly.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "introduce",
+    "meaning": "معرفی کردن",
+    "example": "Let me introduce my friend.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "island",
+    "meaning": "جزیره",
+    "example": "Kish is a beautiful island.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "it",
+    "meaning": "آن (برای اشیا و حیوانات)",
+    "example": "It is a lovely day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "its",
+    "meaning": "مالِ آن",
+    "example": "The dog is wagging its tail.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "jacket",
+    "meaning": "کت، ژاکت",
+    "example": "Take a jacket; it might get cold.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "january",
+    "meaning": "ژانویه (ماه اول میلادی)",
+    "example": "January is the first month of the year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "jeans",
+    "meaning": "شلوار جین",
+    "example": "He always wears blue jeans.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "job",
+    "meaning": "شغل، کار",
+    "example": "She got a new job last week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "join",
+    "meaning": "پیوستن، عضو شدن",
+    "example": "Would you like to join our team?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "journey",
+    "meaning": "سفر",
+    "example": "We had a long train journey.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "juice",
+    "meaning": "آبمیوه",
+    "example": "I prefer fresh orange juice.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "july",
+    "meaning": "جولای (ماه هفتم میلادی)",
+    "example": "School is closed in July.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "june",
+    "meaning": "ژوئن (ماه ششم میلادی)",
+    "example": "The weather is warm in June.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "just",
+    "meaning": "فقط، همین الان",
+    "example": "I have just arrived home.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "keep",
+    "meaning": "نگه داشتن، حفظ کردن",
+    "example": "Keep the change.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "key",
+    "meaning": "کلید، کلیدی",
+    "example": "Where did I put my car keys?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "kilometre",
+    "meaning": "کیلومتر",
+    "example": "The village is five kilometres away.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "kind",
+    "meaning": "نوع، مهربان",
+    "example": "She is a very kind person.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "kitchen",
+    "meaning": "آشپزخانه",
+    "example": "My mother is in the kitchen.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "know",
+    "meaning": "دانستن، شناختن",
+    "example": "Do you know the answer?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "land",
+    "meaning": "زمین، فرود آمدن",
+    "example": "The plane will land soon.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "language",
+    "meaning": "زبان",
+    "example": "English is an international language.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "large",
+    "meaning": "بزرگ، وسیع",
+    "example": "They need a large table.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "last",
+    "meaning": "آخرین، گذشته",
+    "example": "Last night I slept early.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "late",
+    "meaning": "دیر، متأخر",
+    "example": "Sorry I am late!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "later",
+    "meaning": "بعداً",
+    "example": "See you later!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "laugh",
+    "meaning": "خنده، خندیدن",
+    "example": "Her joke made everyone laugh.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "learn",
+    "meaning": "یاد گرفتن",
+    "example": "I want to learn Spanish.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "leave",
+    "meaning": "ترک کردن، حرکت کردن",
+    "example": "What time does the bus leave?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "left",
+    "meaning": "چپ، باقی‌مانده",
+    "example": "Turn left at the traffic light.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "leg",
+    "meaning": "پا، ساق پا",
+    "example": "He hurt his leg playing football.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "lesson",
+    "meaning": "درس",
+    "example": "Today's lesson is about verbs.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "let",
+    "meaning": "اجازه دادن",
+    "example": "Let me help you with that.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "letter",
+    "meaning": "نامه، حرف الفبا",
+    "example": "I wrote a letter to my grandmother.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "library",
+    "meaning": "کتابخانه",
+    "example": "She is studying in the library.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "lie",
+    "meaning": "دراز کشیدن، دروغ گفتن",
+    "example": "Never lie to your friends.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "life",
+    "meaning": "زندگی",
+    "example": "Life is full of surprises.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "light",
+    "meaning": "نور، روشن، سبک",
+    "example": "Turn on the light, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "like",
+    "meaning": "دوست داشتن، مثلِ",
+    "example": "I like listening to music.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "line",
+    "meaning": "خط، صف",
+    "example": "Stand in line and wait your turn.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "lion",
+    "meaning": "شیر (حیوان)",
+    "example": "The lion is the king of the jungle.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "list",
+    "meaning": "فهرست، لیست",
+    "example": "Make a shopping list before you go.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "listen",
+    "meaning": "گوش دادن",
+    "example": "Listen carefully to the teacher.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "little",
+    "meaning": "کوچک، کم",
+    "example": "A little boy is playing outside.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "live",
+    "meaning": "زندگی کردن، زنده",
+    "example": "Where do you live?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "local",
+    "meaning": "محلی",
+    "example": "We ate at a local restaurant.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "long",
+    "meaning": "طولانی، دراز",
+    "example": "It was a long day at work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "look",
+    "meaning": "نگاه کردن",
+    "example": "Look at that rainbow!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "lose",
+    "meaning": "گم کردن، باختن",
+    "example": "Don't lose your passport.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "lot",
+    "meaning": "زیاد، مقدار زیاد",
+    "example": "Thanks a lot for your help!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "love",
+    "meaning": "عشق، دوست داشتن",
+    "example": "I love my family.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "lunch",
+    "meaning": "ناهار",
+    "example": "What did you have for lunch?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "machine",
+    "meaning": "ماشین، دستگاه",
+    "example": "The washing machine is working.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "magazine",
+    "meaning": "مجله",
+    "example": "She reads a fashion magazine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "main",
+    "meaning": "اصلی",
+    "example": "What is the main idea of the text?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "make",
+    "meaning": "ساختن، درست کردن",
+    "example": "Let's make a cup of tea.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "man",
+    "meaning": "مرد، انسان",
+    "example": "That man is my uncle.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "many",
+    "meaning": "بسیاری، زیاد (قابل شمارش)",
+    "example": "There are many books on the shelf.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "map",
+    "meaning": "نقشه",
+    "example": "Look at the map to find the museum.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "march",
+    "meaning": "مارس (ماه سوم میلادی)",
+    "example": "Spring begins in March.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "market",
+    "meaning": "بازار",
+    "example": "We buy fresh vegetables at the market.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "married",
+    "meaning": "متأهل",
+    "example": "Are you single or married?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "match",
+    "meaning": "مسابقه، کبریت، همخوانی داشتن",
+    "example": "Did you watch the football match?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "may",
+    "meaning": "مه (ماه پنجم میلادی)",
+    "example": "The weather is lovely in May.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "maybe",
+    "meaning": "شاید",
+    "example": "Maybe it will rain tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "me",
+    "meaning": "مرا، به من",
+    "example": "Please tell me the truth.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "meal",
+    "meaning": "وعده غذایی",
+    "example": "Breakfast is an important meal.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mean",
+    "meaning": "معنی دادن، قصد داشتن",
+    "example": "What does this word mean?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "meaning",
+    "meaning": "معنی، مفهوم",
+    "example": "Check the meaning of new words.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "meat",
+    "meaning": "گوشت",
+    "example": "I don't eat red meat.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "meet",
+    "meaning": "ملاقات کردن، آشنا شدن",
+    "example": "Nice to meet you!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "meeting",
+    "meaning": "جلسه، قرار ملاقات",
+    "example": "We have a team meeting at ten.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "member",
+    "meaning": "عضو",
+    "example": "He is a member of the library.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "menu",
+    "meaning": "منو، فهرست غذا",
+    "example": "Can I see the menu, please?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "message",
+    "meaning": "پیام",
+    "example": "I sent you a text message.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "metre",
+    "meaning": "متر",
+    "example": "The room is four metres wide.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "midnight",
+    "meaning": "نیمه‌شب",
+    "example": "We arrived home after midnight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mile",
+    "meaning": "مایل",
+    "example": "The station is two miles away.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "milk",
+    "meaning": "شیر",
+    "example": "Children should drink milk every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "million",
+    "meaning": "میلیون",
+    "example": "Over a million people live here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "minute",
+    "meaning": "دقیقه",
+    "example": "Wait a minute, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "miss",
+    "meaning": "دلتنگ شدن، از دست دادن",
+    "example": "I miss my family very much.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mistake",
+    "meaning": "اشتباه",
+    "example": "Everyone makes mistakes sometimes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "model",
+    "meaning": "مدل، الگو",
+    "example": "This is the latest phone model.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "modern",
+    "meaning": "مدرن، امروزی",
+    "example": "They live in a modern apartment.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "moment",
+    "meaning": "لحظه",
+    "example": "Just a moment, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "monday",
+    "meaning": "دوشنبه",
+    "example": "Work starts again on Monday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "money",
+    "meaning": "پول",
+    "example": "Save some money for the future.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "month",
+    "meaning": "ماه",
+    "example": "There are twelve months in a year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "more",
+    "meaning": "بیشتر",
+    "example": "I need more time to finish.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "morning",
+    "meaning": "صبح",
+    "example": "Good morning! Did you sleep well?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "most",
+    "meaning": "بیشترین، بیشترِ",
+    "example": "Most people like music.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mother",
+    "meaning": "مادر",
+    "example": "My mother makes the best soup.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mountain",
+    "meaning": "کوه",
+    "example": "Damavand is a high mountain.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mouse",
+    "meaning": "موش، ماوس",
+    "example": "Click the left button on the mouse.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mouth",
+    "meaning": "دهان",
+    "example": "Open your mouth and say ah.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "move",
+    "meaning": "حرکت کردن، جابه‌جا شدن",
+    "example": "We are going to move to a new house.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "movie",
+    "meaning": "فیلم سینمایی",
+    "example": "Let's watch a movie tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "much",
+    "meaning": "زیاد (غیرقابل شمارش)",
+    "example": "How much does this cost?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "mum",
+    "meaning": "مامان، مادر",
+    "example": "Ask Mum if we can go out.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "museum",
+    "meaning": "موزه",
+    "example": "We visited the national museum.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "music",
+    "meaning": "موسیقی",
+    "example": "I listen to classical music.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "must",
+    "meaning": "باید",
+    "example": "You must wear a seatbelt.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "my",
+    "meaning": "مالِ من",
+    "example": "This is my notebook.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "name",
+    "meaning": "نام، اسم، نامیدن",
+    "example": "What is your first name?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "natural",
+    "meaning": "طبیعی",
+    "example": "I prefer natural fruit juice.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "near",
+    "meaning": "نزدیکِ",
+    "example": "The bank is near the post office.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "need",
+    "meaning": "نیاز داشتن",
+    "example": "I need some sleep.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "negative",
+    "meaning": "منفی",
+    "example": "Try not to think negative thoughts.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "neighbour",
+    "meaning": "همسایه",
+    "example": "Our next-door neighbour is very polite.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "never",
+    "meaning": "هرگز",
+    "example": "I have never seen snow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "new",
+    "meaning": "جدید، نو",
+    "example": "She bought a new laptop.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "news",
+    "meaning": "خبر، اخبار",
+    "example": "I watch the evening news on TV.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "newspaper",
+    "meaning": "روزنامه",
+    "example": "He reads the newspaper every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "next",
+    "meaning": "بعدی، کنارِ",
+    "example": "Who is next in line?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "next to",
+    "meaning": "کنارِ، پهلویِ",
+    "example": "Sit next to me.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nice",
+    "meaning": "خوب، دلپذیر، مهربان",
+    "example": "Have a nice weekend!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "night",
+    "meaning": "شب",
+    "example": "Good night and sweet dreams.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nine",
+    "meaning": "نه",
+    "example": "The shop opens at nine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nineteen",
+    "meaning": "نوزده",
+    "example": "My cousin is nineteen years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ninety",
+    "meaning": "نود",
+    "example": "It costs ninety dollars.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "no",
+    "meaning": "نه، هیچ",
+    "example": "No, thank you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "no one",
+    "meaning": "هیچ‌کس",
+    "example": "No one knew the answer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nobody",
+    "meaning": "هیچ‌کس",
+    "example": "Nobody is in the office today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "north",
+    "meaning": "شمال",
+    "example": "Birds fly north in spring.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nose",
+    "meaning": "بینی",
+    "example": "He has a cold and a red nose.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "not",
+    "meaning": "نه، نیست (نفی)",
+    "example": "I am not tired.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "note",
+    "meaning": "یادداشت، اسکناس",
+    "example": "I wrote a short note for you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nothing",
+    "meaning": "هیچ‌چیز",
+    "example": "There is nothing in the fridge.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "november",
+    "meaning": "نوامبر (ماه یازدهم میلادی)",
+    "example": "It often rains in November.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "now",
+    "meaning": "الان، اکنون",
+    "example": "What are you doing now?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "number",
+    "meaning": "شماره، عدد",
+    "example": "What is your phone number?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "nurse",
+    "meaning": "پرستار",
+    "example": "The nurse checked his temperature.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "o'clock",
+    "meaning": "ساعت (دقیق)",
+    "example": "It is five o'clock now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "object",
+    "meaning": "شیء، هدف، مخالفت کردن",
+    "example": "What is that round object?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "october",
+    "meaning": "اکتبر (ماه دهم میلادی)",
+    "example": "Autumn is lovely in October.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "of",
+    "meaning": "از، مالِ",
+    "example": "A cup of tea, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "off",
+    "meaning": "خاموش، دور، از رویِ",
+    "example": "Turn off the lights when you leave.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "office",
+    "meaning": "دفتر کار، اداره",
+    "example": "She works in an office downtown.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "often",
+    "meaning": "اغلب، بیشتر اوقات",
+    "example": "How often do you exercise?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "oh",
+    "meaning": "اوه!",
+    "example": "Oh, I forgot my keys!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ok",
+    "meaning": "باشه، خوب",
+    "example": "Everything is OK now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "old",
+    "meaning": "قدیمی، پیر، ساله",
+    "example": "How old are you?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "on",
+    "meaning": "رویِ، روشن، در (روز)",
+    "example": "The book is on the table.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "once",
+    "meaning": "یک بار، زمانی",
+    "example": "I visit my hometown once a year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "one",
+    "meaning": "یک، یکی",
+    "example": "I have one brother.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "onion",
+    "meaning": "پیاز",
+    "example": "Chop the onion finely.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "online",
+    "meaning": "آنلاین، برخط",
+    "example": "I bought these shoes online.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "only",
+    "meaning": "فقط، تنها",
+    "example": "I only have ten minutes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "open",
+    "meaning": "باز، باز کردن",
+    "example": "Please open the door.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "opinion",
+    "meaning": "نظر، عقیده",
+    "example": "In my opinion, this book is great.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "opposite",
+    "meaning": "مقابل، روبه‌رو، متضاد",
+    "example": "The bank is opposite the park.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "or",
+    "meaning": "یا",
+    "example": "Would you like tea or coffee?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "orange",
+    "meaning": "پرتقال، نارنجی",
+    "example": "I eat an orange after lunch.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "order",
+    "meaning": "سفارش، دستور، ترتیب",
+    "example": "Are you ready to order?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "other",
+    "meaning": "دیگر، دیگری",
+    "example": "Show me the other shoe.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "our",
+    "meaning": "مالِ ما",
+    "example": "Welcome to our home!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "out",
+    "meaning": "بیرون",
+    "example": "Let's go out for dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "outside",
+    "meaning": "بیرون، خارج",
+    "example": "The kids are playing outside.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "over",
+    "meaning": "بالایِ، تمام‌شده، بیش از",
+    "example": "The plane flew over the city.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "own",
+    "meaning": "مالِ خود، داشتن",
+    "example": "I have my own room.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "page",
+    "meaning": "صفحه",
+    "example": "Turn to page twelve.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "paint",
+    "meaning": "رنگ، نقاشی کردن",
+    "example": "Let's paint the walls white.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "painting",
+    "meaning": "تابلو نقاشی، نقاشی",
+    "example": "That is a famous painting.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pair",
+    "meaning": "جفت",
+    "example": "I bought a new pair of shoes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "paper",
+    "meaning": "کاغذ، روزنامه",
+    "example": "Write your name on this piece of paper.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "paragraph",
+    "meaning": "پاراگراف، بند",
+    "example": "Read the first paragraph aloud.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "parent",
+    "meaning": "والد (پدر یا مادر)",
+    "example": "Both my parents live nearby.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "park",
+    "meaning": "پارک، پارک کردن",
+    "example": "Let's walk in the park.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "part",
+    "meaning": "بخش، قسمت",
+    "example": "This is the best part of the movie.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "partner",
+    "meaning": "شریک، همکار",
+    "example": "Discuss the question with your partner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "party",
+    "meaning": "مهمانی، جشن، حزب",
+    "example": "Are you coming to my birthday party?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "passport",
+    "meaning": "گذرنامه، پاسپورت",
+    "example": "Don't forget your passport at the airport.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "past",
+    "meaning": "گذشته، از کنارِ",
+    "example": "It is half past three.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pay",
+    "meaning": "پرداخت کردن",
+    "example": "Can I pay by card?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pen",
+    "meaning": "خودکار، قلم",
+    "example": "Do you have a blue pen?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pencil",
+    "meaning": "مداد",
+    "example": "Draw the map with a pencil.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "people",
+    "meaning": "مردم، افراد",
+    "example": "Many people enjoy travelling.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pepper",
+    "meaning": "فلفل",
+    "example": "Add a little salt and pepper.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "perfect",
+    "meaning": "عالی، بی‌نقص",
+    "example": "Your pronunciation is perfect!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "period",
+    "meaning": "دوره، زنگ کلاس، نقطه",
+    "example": "We studied a long period of history.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "person",
+    "meaning": "شخص، فرد",
+    "example": "She is a very honest person.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "personal",
+    "meaning": "شخصی",
+    "example": "Please keep your personal information safe.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "phone",
+    "meaning": "تلفن، زنگ زدن",
+    "example": "My phone battery is low.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "photo",
+    "meaning": "عکس",
+    "example": "Let's take a photo together!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "photograph",
+    "meaning": "عکس",
+    "example": "He showed me an old photograph.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "phrase",
+    "meaning": "عبارت، اصطلاح",
+    "example": "Learn this useful English phrase.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "piano",
+    "meaning": "پیانو",
+    "example": "She can play the piano.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "picture",
+    "meaning": "تصویر، عکس، نقاشی",
+    "example": "Draw a picture of your house.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "piece",
+    "meaning": "تکه، قطعه",
+    "example": "Would you like a piece of cake?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pig",
+    "meaning": "خوک",
+    "example": "There are pigs on the farm.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pink",
+    "meaning": "صورتی",
+    "example": "She is wearing a pink shirt.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "place",
+    "meaning": "مکان، جا",
+    "example": "This is a quiet place to study.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "plan",
+    "meaning": "برنامه، نقشه، برنامه‌ریزی کردن",
+    "example": "What is your plan for the weekend?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "plane",
+    "meaning": "هواپیما",
+    "example": "The plane took off on time.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "plant",
+    "meaning": "گیاه، کاشتن",
+    "example": "Water the plants twice a week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "play",
+    "meaning": "بازی کردن، نواختن، نمایش",
+    "example": "The children love to play outside.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "player",
+    "meaning": "بازیکن، نوازنده",
+    "example": "He is the best player on the team.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "please",
+    "meaning": "لطفاً",
+    "example": "Please pass me the salt.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "point",
+    "meaning": "نکته، امتیاز، اشاره کردن",
+    "example": "That is a very good point.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "police",
+    "meaning": "پلیس",
+    "example": "Call the police in an emergency.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "policeman",
+    "meaning": "مأمور پلیس",
+    "example": "The policeman helped the lost tourist.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pool",
+    "meaning": "استخر",
+    "example": "The hotel has a swimming pool.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "poor",
+    "meaning": "فقیر، ضعیف",
+    "example": "They helped the poor families.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "popular",
+    "meaning": "محبوب، پرطرفدار",
+    "example": "Football is a popular sport.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "positive",
+    "meaning": "مثبت",
+    "example": "Stay positive and keep trying!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "possible",
+    "meaning": "ممکن، امکان‌پذیر",
+    "example": "Is it possible to finish today?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "post",
+    "meaning": "پست، ارسال کردن، پست کردن",
+    "example": "I need to post this letter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "potato",
+    "meaning": "سیب‌زمینی",
+    "example": "We had baked potatoes for dinner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pound",
+    "meaning": "پوند (واحد پول/وزن)",
+    "example": "This shirt costs twenty pounds.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "practice",
+    "meaning": "تمرین",
+    "example": "Practice makes perfect.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "practise",
+    "meaning": "تمرین کردن",
+    "example": "You should practise speaking every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "prefer",
+    "meaning": "ترجیح دادن",
+    "example": "I prefer tea to coffee.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "prepare",
+    "meaning": "آماده کردن",
+    "example": "She is preparing dinner now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "present",
+    "meaning": "هدیه، حاضر، زمان حال",
+    "example": "Thank you for the birthday present.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "pretty",
+    "meaning": "زیبا، قشنگ، نسبتاً",
+    "example": "What a pretty dress!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "price",
+    "meaning": "قیمت",
+    "example": "The price of food has gone up.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "probably",
+    "meaning": "احتمالاً",
+    "example": "It will probably rain tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "problem",
+    "meaning": "مشکل، مسئله",
+    "example": "No problem, I can help you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "product",
+    "meaning": "محصول",
+    "example": "This is a local dairy product.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "programme",
+    "meaning": "برنامه (تلویزیونی/آموزشی)",
+    "example": "What is your favourite TV programme?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "project",
+    "meaning": "پروژه، طرح",
+    "example": "We are working on a school project.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "purple",
+    "meaning": "بنفش",
+    "example": "She has a purple umbrella.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "put",
+    "meaning": "گذاشتن، قرار دادن",
+    "example": "Put your keys on the table.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "quarter",
+    "meaning": "یک‌چهارم، ربع",
+    "example": "It is a quarter past two.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "question",
+    "meaning": "سوال، پرسش",
+    "example": "Do you have any questions?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "quick",
+    "meaning": "سریع، تند",
+    "example": "Let's have a quick lunch.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "quickly",
+    "meaning": "به سرعت",
+    "example": "He ran quickly to catch the bus.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "quiet",
+    "meaning": "ساکت، آرام",
+    "example": "Please be quiet in the library.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "quite",
+    "meaning": "نسبتاً، کاملاً",
+    "example": "The movie was quite good.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "radio",
+    "meaning": "رادیو",
+    "example": "I listen to the radio in the car.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "rain",
+    "meaning": "باران، باریدن",
+    "example": "Take an umbrella in case of rain.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "read",
+    "meaning": "خواندن",
+    "example": "I read a chapter before bed.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "reader",
+    "meaning": "خواننده، کتاب‌خوان",
+    "example": "She is a fast reader.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "reading",
+    "meaning": "خواندن، مطالعه",
+    "example": "Reading improves your mind.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ready",
+    "meaning": "آماده",
+    "example": "Are you ready to go?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "real",
+    "meaning": "واقعی، حقیقی",
+    "example": "Is that diamond real?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "really",
+    "meaning": "واقعاً",
+    "example": "I am really sorry about that.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "reason",
+    "meaning": "دلیل، علت",
+    "example": "What is the reason for your delay?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "red",
+    "meaning": "قرمز، سرخ",
+    "example": "She drives a red car.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "relax",
+    "meaning": "آرام شدن، استراحت کردن",
+    "example": "Sit down and relax for a bit.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "remember",
+    "meaning": "به یاد آوردن",
+    "example": "I don't remember his name.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "repeat",
+    "meaning": "تکرار کردن",
+    "example": "Could you repeat that, please?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "report",
+    "meaning": "گزارش",
+    "example": "I have to write a report today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "restaurant",
+    "meaning": "رستوران",
+    "example": "Let's eat at a Persian restaurant.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "result",
+    "meaning": "نتیجه",
+    "example": "Wait for the exam results.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "return",
+    "meaning": "برگشتن، برگرداندن",
+    "example": "When will you return home?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "rice",
+    "meaning": "برنج",
+    "example": "We eat rice with stew.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "rich",
+    "meaning": "ثروتمند، غنی",
+    "example": "He became rich through hard work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ride",
+    "meaning": "سوار شدن، سواری",
+    "example": "I ride my bike to school.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "right",
+    "meaning": "درست، راست، حق",
+    "example": "Turn right at the corner.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "river",
+    "meaning": "رودخانه",
+    "example": "The river flows through the valley.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "road",
+    "meaning": "جاده، خیابان",
+    "example": "Be careful when crossing the road.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "room",
+    "meaning": "اتاق، جا",
+    "example": "My room is on the second floor.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "routine",
+    "meaning": "روال عادی، برنامه روزمره",
+    "example": "Exercise is part of my daily routine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "rule",
+    "meaning": "قانون، قاعده",
+    "example": "Follow the traffic rules.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "run",
+    "meaning": "دویدن، اداره کردن",
+    "example": "I run in the park every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sad",
+    "meaning": "غمگین، ناراحت",
+    "example": "Why do you look so sad?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "salad",
+    "meaning": "سالاد",
+    "example": "I ordered a fresh green salad.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "salt",
+    "meaning": "نمک",
+    "example": "Pass me the salt, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "same",
+    "meaning": "یکسان، همان",
+    "example": "We live on the same street.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sandwich",
+    "meaning": "ساندویچ",
+    "example": "I made a cheese sandwich.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "saturday",
+    "meaning": "شنبه",
+    "example": "I don't have classes on Saturday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "say",
+    "meaning": "گفتن",
+    "example": "What did you say?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "school",
+    "meaning": "مدرسه",
+    "example": "The children walk to school.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "science",
+    "meaning": "علم، علوم",
+    "example": "Science helps us understand the world.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "scientist",
+    "meaning": "دانشمند",
+    "example": "The scientist worked in a lab.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sea",
+    "meaning": "دریا",
+    "example": "We swam in the warm sea.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "second",
+    "meaning": "دوم، ثانیه",
+    "example": "Wait just a second!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "section",
+    "meaning": "بخش، قسمت",
+    "example": "Read the first section carefully.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "see",
+    "meaning": "دیدن",
+    "example": "I can see the mountains from here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sell",
+    "meaning": "فروختن",
+    "example": "They sell fresh fruit here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "send",
+    "meaning": "فرستادن، ارسال کردن",
+    "example": "I will send you the file tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sentence",
+    "meaning": "جمله",
+    "example": "Write a short sentence with this word.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "september",
+    "meaning": "سپتامبر (ماه نهم میلادی)",
+    "example": "School starts in September.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "seven",
+    "meaning": "هفت",
+    "example": "There are seven days in a week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "seventeen",
+    "meaning": "هفده",
+    "example": "He is seventeen years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "seventy",
+    "meaning": "هفتاد",
+    "example": "My grandmother is seventy.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "share",
+    "meaning": "به اشتراک گذاشتن، تقسیم کردن",
+    "example": "Share the cake with your friends.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "she",
+    "meaning": "او (مؤنث)",
+    "example": "She is a clever student.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sheep",
+    "meaning": "گوسفند",
+    "example": "There are white sheep on the hill.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "shirt",
+    "meaning": "پیراهن مردانه",
+    "example": "Put on a clean white shirt.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "shoe",
+    "meaning": "کفش",
+    "example": "Take off your shoes at the door.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "shop",
+    "meaning": "مغازه، خرید کردن",
+    "example": "The shop closes at nine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "shopping",
+    "meaning": "خرید",
+    "example": "I love going shopping on weekends.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "short",
+    "meaning": "کوتاه، قدکوتاه",
+    "example": "He has short curly hair.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "should",
+    "meaning": "باید (توصیه)",
+    "example": "You should drink more water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "show",
+    "meaning": "نمایش، نشان دادن",
+    "example": "Show me your new phone.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "shower",
+    "meaning": "دوش، دوش گرفتن",
+    "example": "I take a shower every morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sick",
+    "meaning": "بیمار، مریض",
+    "example": "Stay home if you feel sick.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "similar",
+    "meaning": "شبیه، مشابه",
+    "example": "Our jackets are very similar.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sing",
+    "meaning": "آواز خواندن",
+    "example": "She loves to sing in the morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "singer",
+    "meaning": "خواننده",
+    "example": "He is my favourite singer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sister",
+    "meaning": "خواهر",
+    "example": "My sister lives in Canada.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sit",
+    "meaning": "نشستن",
+    "example": "Please sit down here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "situation",
+    "meaning": "موقعیت، وضعیت",
+    "example": "It is a difficult situation.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "six",
+    "meaning": "شش",
+    "example": "I wake up at six o'clock.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sixteen",
+    "meaning": "شانزده",
+    "example": "She is sixteen years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sixty",
+    "meaning": "شصت",
+    "example": "There are sixty seconds in a minute.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "skill",
+    "meaning": "مهارت",
+    "example": "Speaking is an important language skill.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "skirt",
+    "meaning": "دامن",
+    "example": "She bought a blue skirt.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sleep",
+    "meaning": "خوابیدن، خواب",
+    "example": "I need eight hours of sleep.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "slow",
+    "meaning": "آهسته، کند",
+    "example": "The internet is very slow today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "small",
+    "meaning": "کوچک",
+    "example": "They live in a small town.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "snake",
+    "meaning": "مار",
+    "example": "I saw a green snake in the grass.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "snow",
+    "meaning": "برف، برف باریدن",
+    "example": "It rarely snows in this city.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "so",
+    "meaning": "بنابراین، خیلی",
+    "example": "It was cold, so I wore a coat.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "some",
+    "meaning": "مقداری، بعضی",
+    "example": "Would you like some water?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "somebody",
+    "meaning": "کسی، یک نفر",
+    "example": "Somebody is knocking at the door.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "someone",
+    "meaning": "کسی، یک نفر",
+    "example": "Someone left their bag here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "something",
+    "meaning": "چیزی",
+    "example": "I want to tell you something.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sometimes",
+    "meaning": "گاهی اوقات",
+    "example": "Sometimes I walk to work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "son",
+    "meaning": "پسر (فرزند)",
+    "example": "Their son is in primary school.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "song",
+    "meaning": "آهنگ، ترانه",
+    "example": "This is my favourite song.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "soon",
+    "meaning": "به زودی",
+    "example": "See you very soon!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sorry",
+    "meaning": "متأسفم، ببخشید",
+    "example": "I am sorry for being late.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sound",
+    "meaning": "صدا، به نظر رسیدن",
+    "example": "That sounds like a great plan!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "soup",
+    "meaning": "سوپ",
+    "example": "Hot soup is great in winter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "south",
+    "meaning": "جنوب",
+    "example": "They travelled to the south of Iran.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "space",
+    "meaning": "فضا، جای خالی",
+    "example": "Is there enough space in the car?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "speak",
+    "meaning": "صحبت کردن",
+    "example": "Do you speak English?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "special",
+    "meaning": "ویژه، خاص",
+    "example": "Today is a special day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "spell",
+    "meaning": "هجی کردن",
+    "example": "How do you spell your last name?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "spelling",
+    "meaning": "املا",
+    "example": "Check your spelling carefully.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "spend",
+    "meaning": "خرج کردن، وقت گذراندن",
+    "example": "I like to spend time with family.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sport",
+    "meaning": "ورزش",
+    "example": "Tennis is my favourite sport.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "spring",
+    "meaning": "بهار، چشمه",
+    "example": "Flowers bloom in spring.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "stand",
+    "meaning": "ایستادن",
+    "example": "Please stand up when your name is called.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "star",
+    "meaning": "ستاره",
+    "example": "Look at the bright stars tonight.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "start",
+    "meaning": "شروع کردن، آغاز",
+    "example": "Let's start the lesson now.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "statement",
+    "meaning": "بیانیه، جمله",
+    "example": "Read the statement carefully.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "station",
+    "meaning": "ایستگاه",
+    "example": "Meet me at the train station.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "stay",
+    "meaning": "ماندن، اقامت کردن",
+    "example": "We will stay at a hotel.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "still",
+    "meaning": "هنوز",
+    "example": "Are you still waiting for the bus?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "stop",
+    "meaning": "ایستادن، متوقف کردن، ایستگاه",
+    "example": "Stop at the red light.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "story",
+    "meaning": "داستان، قصه",
+    "example": "Tell the children a bedtime story.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "street",
+    "meaning": "خیابان",
+    "example": "Cross the street carefully.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "strong",
+    "meaning": "قوی، نیرومند",
+    "example": "He is strong enough to lift the box.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "student",
+    "meaning": "دانش‌آموز، دانشجو",
+    "example": "She is a university student.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "study",
+    "meaning": "مطالعه کردن، درس خواندن",
+    "example": "I study English every evening.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "style",
+    "meaning": "سبک، مدل",
+    "example": "I like your writing style.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "subject",
+    "meaning": "موضوع، درس",
+    "example": "Math is an interesting subject.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "success",
+    "meaning": "موفقیت",
+    "example": "Hard work brings success.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sugar",
+    "meaning": "شکر، قند",
+    "example": "Do you take sugar in your tea?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "summer",
+    "meaning": "تابستان",
+    "example": "Summer days are long and warm.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sun",
+    "meaning": "خورشید، آفتاب",
+    "example": "The sun is shining brightly.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sunday",
+    "meaning": "یکشنبه",
+    "example": "We have a picnic on Sunday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "supermarket",
+    "meaning": "سوپرمارکت",
+    "example": "I need to buy milk at the supermarket.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sure",
+    "meaning": "مطمئن",
+    "example": "Are you sure about this?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "sweater",
+    "meaning": "پلیور، ژاکت بافتنی",
+    "example": "Wear a warm sweater today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "swim",
+    "meaning": "شنا کردن",
+    "example": "Can you swim across the pool?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "swimming",
+    "meaning": "شنا",
+    "example": "Swimming is great exercise.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "t-shirt",
+    "meaning": "تی‌شرت",
+    "example": "He wore a white t-shirt.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "table",
+    "meaning": "میز، جدول",
+    "example": "Put the plates on the table.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "take",
+    "meaning": "گرفتن، بردن، طول کشیدن",
+    "example": "Take an umbrella with you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "talk",
+    "meaning": "صحبت کردن",
+    "example": "We need to talk about the project.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tall",
+    "meaning": "بلندقد",
+    "example": "My brother is very tall.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "taxi",
+    "meaning": "تاکسی",
+    "example": "Let's take a taxi to the airport.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tea",
+    "meaning": "چای",
+    "example": "Would you like a cup of hot tea?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "teach",
+    "meaning": "آموزش دادن، تدریس کردن",
+    "example": "She teaches English at a high school.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "teacher",
+    "meaning": "معلم، آموزگار",
+    "example": "Our teacher is very patient.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "team",
+    "meaning": "تیم، گروه",
+    "example": "Our team won the match!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "teenager",
+    "meaning": "نوجوان",
+    "example": "Life as a teenager is exciting.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "telephone",
+    "meaning": "تلفن",
+    "example": "The telephone is ringing.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "television",
+    "meaning": "تلویزیون",
+    "example": "Don't watch too much television.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tell",
+    "meaning": "گفتن، تعریف کردن",
+    "example": "Tell me what happened.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ten",
+    "meaning": "ده",
+    "example": "I have ten fingers.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tennis",
+    "meaning": "تنیس",
+    "example": "Do you know how to play tennis?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "terrible",
+    "meaning": "وحشتناک، افتضاح",
+    "example": "The weather was terrible yesterday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "test",
+    "meaning": "آزمون، امتحان کردن",
+    "example": "We have a spelling test tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "text",
+    "meaning": "متن، پیامک زدن",
+    "example": "Read the text and answer the questions.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "than",
+    "meaning": "از (در مقایسه)",
+    "example": "She is taller than me.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thank",
+    "meaning": "تشکر کردن",
+    "example": "Thank you very much!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thanks",
+    "meaning": "ممنون، متشکرم",
+    "example": "Thanks for your help!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "that",
+    "meaning": "آن، که",
+    "example": "Look at that bird in the tree.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "the",
+    "meaning": "حرف تعریف معین",
+    "example": "Close the door, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "theatre",
+    "meaning": "تئاتر، سینما",
+    "example": "We went to the theatre last night.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "their",
+    "meaning": "مالِ آن‌ها",
+    "example": "That is their new house.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "them",
+    "meaning": "آن‌ها را، به آن‌ها",
+    "example": "Invite them to the party.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "then",
+    "meaning": "سپس، آن وقت",
+    "example": "First wash your hands, then eat.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "there",
+    "meaning": "آنجا",
+    "example": "Put the box over there.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "they",
+    "meaning": "آن‌ها، ایشان",
+    "example": "They are my classmates.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thing",
+    "meaning": "چیز، شیء",
+    "example": "What is that thing on the desk?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "think",
+    "meaning": "فکر کردن",
+    "example": "I think it is going to rain.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "third",
+    "meaning": "سوم",
+    "example": "March is the third month of the year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thirsty",
+    "meaning": "تشنه",
+    "example": "I am thirsty; I need some water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thirteen",
+    "meaning": "سیزده",
+    "example": "He is thirteen years old.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thirty",
+    "meaning": "سی",
+    "example": "There are thirty days in June.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "this",
+    "meaning": "این",
+    "example": "This book is very useful.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thousand",
+    "meaning": "هزار",
+    "example": "Over a thousand people came.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "three",
+    "meaning": "سه",
+    "example": "I have three notebooks.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "through",
+    "meaning": "از میانِ، از طریقِ",
+    "example": "Walk through the park to get home.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "thursday",
+    "meaning": "پنج‌شنبه",
+    "example": "We have a meeting on Thursday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "ticket",
+    "meaning": "بلیط",
+    "example": "Here is your train ticket.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "time",
+    "meaning": "زمان، وقت، بار",
+    "example": "What time is it?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tired",
+    "meaning": "خسته",
+    "example": "I am very tired after work.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "title",
+    "meaning": "عنوان، تیتر",
+    "example": "What is the title of the movie?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "to",
+    "meaning": "به، تا، برای",
+    "example": "I go to school every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "today",
+    "meaning": "امروز",
+    "example": "Today is a sunny day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "together",
+    "meaning": "با هم، در کنار هم",
+    "example": "Let's work together on this.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "toilet",
+    "meaning": "توالت، دستشویی",
+    "example": "Excuse me, where is the toilet?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tomato",
+    "meaning": "گوجه‌فرنگی",
+    "example": "Add two fresh tomatoes to the salad.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tomorrow",
+    "meaning": "فردا",
+    "example": "See you tomorrow morning!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tonight",
+    "meaning": "امشب",
+    "example": "What are you doing tonight?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "too",
+    "meaning": "هم، بیش از حد",
+    "example": "I like chocolate too.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tooth",
+    "meaning": "دندان",
+    "example": "Brush your teeth twice a day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "topic",
+    "meaning": "موضوع",
+    "example": "Choose an interesting topic to write about.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tourist",
+    "meaning": "گردشگر، توریست",
+    "example": "Many tourists visit Isfahan every year.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "town",
+    "meaning": "شهرک، شهر کوچک",
+    "example": "I grew up in a quiet town.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "traffic",
+    "meaning": "ترافیک، رفت‌وآمد",
+    "example": "There is heavy traffic in the morning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "train",
+    "meaning": "قطار، تمرین دادن",
+    "example": "The train leaves at eight o'clock.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "travel",
+    "meaning": "سفر، سفر کردن",
+    "example": "I love to travel to new countries.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tree",
+    "meaning": "درخت",
+    "example": "There is a tall tree in our yard.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "trip",
+    "meaning": "سفر کوتاه، گردش",
+    "example": "Have a great trip!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "trousers",
+    "meaning": "شلوار",
+    "example": "He bought a pair of black trousers.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "true",
+    "meaning": "درست، واقعی",
+    "example": "Is this story true?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "try",
+    "meaning": "تلاش کردن، امتحان کردن",
+    "example": "Try your best!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tuesday",
+    "meaning": "سه‌شنبه",
+    "example": "My dentist appointment is on Tuesday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "turn",
+    "meaning": "چرخیدن، نوبت",
+    "example": "Turn left at the next street.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "tv",
+    "meaning": "تلویزیون",
+    "example": "Turn on the TV for the news.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "twelve",
+    "meaning": "دوازده",
+    "example": "There are twelve hours on a clock.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "twenty",
+    "meaning": "بیست",
+    "example": "I waited for twenty minutes.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "twice",
+    "meaning": "دو بار",
+    "example": "I brush my teeth twice a day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "two",
+    "meaning": "دو",
+    "example": "I have two cups of coffee a day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "type",
+    "meaning": "نوع، تایپ کردن",
+    "example": "What type of music do you like?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "umbrella",
+    "meaning": "چتر",
+    "example": "Take an umbrella; it is raining.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "uncle",
+    "meaning": "عمو، دایی",
+    "example": "My uncle lives in Mashhad.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "under",
+    "meaning": "زیرِ",
+    "example": "The cat is hiding under the bed.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "understand",
+    "meaning": "فهمیدن، درک کردن",
+    "example": "Do you understand this lesson?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "university",
+    "meaning": "دانشگاه",
+    "example": "She studies biology at university.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "until",
+    "meaning": "تا، تا زمانی که",
+    "example": "Wait here until I come back.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "up",
+    "meaning": "بالا",
+    "example": "Stand up, please.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "upstairs",
+    "meaning": "طبقه بالا",
+    "example": "My bedroom is upstairs.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "us",
+    "meaning": "ما را، به ما",
+    "example": "Come with us to the park.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "use",
+    "meaning": "استفاده کردن",
+    "example": "You can use my pen.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "useful",
+    "meaning": "مفید، کاربردی",
+    "example": "This app is very useful for learning.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "usually",
+    "meaning": "معمولاً",
+    "example": "I usually wake up at seven.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "vacation",
+    "meaning": "تعطیلات",
+    "example": "We are planning a summer vacation.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "vegetable",
+    "meaning": "سبزیجات",
+    "example": "Eat fresh vegetables every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "very",
+    "meaning": "خیلی، بسیار",
+    "example": "Thank you very much!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "video",
+    "meaning": "ویدیو، فیلم",
+    "example": "Watch this short video first.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "village",
+    "meaning": "روستا، دهکده",
+    "example": "My grandparents live in a small village.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "visit",
+    "meaning": "ملاقات کردن، بازدید کردن",
+    "example": "We plan to visit Shiraz next spring.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "visitor",
+    "meaning": "بازدیدکننده، مهمان",
+    "example": "The museum welcomes many visitors.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wait",
+    "meaning": "صبر کردن، منتظر ماندن",
+    "example": "Please wait for me!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "waiter",
+    "meaning": "گارسون",
+    "example": "The waiter brought our food.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wake",
+    "meaning": "بیدار شدن/کردن",
+    "example": "Wake up! It is time for school.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "walk",
+    "meaning": "راه رفتن، پیاده‌روی",
+    "example": "I walk to work every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wall",
+    "meaning": "دیوار",
+    "example": "There is a clock on the wall.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "want",
+    "meaning": "خواستن",
+    "example": "I want a glass of water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "warm",
+    "meaning": "گرم، ولرم",
+    "example": "The weather is nice and warm today.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wash",
+    "meaning": "شستن",
+    "example": "Wash your hands with soap.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "watch",
+    "meaning": "ساعت مچی، تماشا کردن",
+    "example": "Let's watch a football match.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "water",
+    "meaning": "آب",
+    "example": "Drink plenty of clean water.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "way",
+    "meaning": "راه، روش",
+    "example": "Which way is the station?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "we",
+    "meaning": "ما",
+    "example": "We are ready to start.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wear",
+    "meaning": "پوشیدن",
+    "example": "She likes to wear bright colours.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "weather",
+    "meaning": "آب‌وهوا",
+    "example": "What is the weather like today?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "website",
+    "meaning": "وب‌سایت",
+    "example": "Visit our website for more details.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wednesday",
+    "meaning": "چهارشنبه",
+    "example": "The exam is on Wednesday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "week",
+    "meaning": "هفته",
+    "example": "I will see you next week.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "weekend",
+    "meaning": "آخر هفته",
+    "example": "Have a relaxing weekend!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "welcome",
+    "meaning": "خوش آمدید، استقبال کردن",
+    "example": "You are always welcome here.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "well",
+    "meaning": "خوب، به‌خوبی",
+    "example": "She speaks English very well.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "west",
+    "meaning": "غرب",
+    "example": "The sun sets in the west.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "what",
+    "meaning": "چه، چه چیزی",
+    "example": "What is your favourite food?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "when",
+    "meaning": "کی، چه زمانی، وقتی که",
+    "example": "When does the movie start?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "where",
+    "meaning": "کجا",
+    "example": "Where do you live?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "which",
+    "meaning": "کدام",
+    "example": "Which colour do you prefer?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "white",
+    "meaning": "سفید",
+    "example": "Snow is white.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "who",
+    "meaning": "چه کسی",
+    "example": "Who is your English teacher?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "why",
+    "meaning": "چرا",
+    "example": "Why are you smiling?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wife",
+    "meaning": "همسر، زن",
+    "example": "His wife is a dentist.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "will",
+    "meaning": "خواهد (آینده)",
+    "example": "I will call you tomorrow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "win",
+    "meaning": "برنده شدن",
+    "example": "Our team wants to win the cup.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "window",
+    "meaning": "پنجره",
+    "example": "Open the window for fresh air.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wine",
+    "meaning": "شراب",
+    "example": "They ordered a glass of red wine.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "winter",
+    "meaning": "زمستان",
+    "example": "It is cold in winter.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "with",
+    "meaning": "با، همراهِ",
+    "example": "Come with me!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "without",
+    "meaning": "بدونِ",
+    "example": "I drink tea without sugar.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "woman",
+    "meaning": "زن، خانم",
+    "example": "That woman is my doctor.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wonderful",
+    "meaning": "شگفت‌انگیز، عالی",
+    "example": "We had a wonderful holiday.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "word",
+    "meaning": "کلمه، واژه",
+    "example": "Learn five new words every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "work",
+    "meaning": "کار، کار کردن",
+    "example": "I work from nine to five.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "worker",
+    "meaning": "کارگر، کارمند",
+    "example": "Every worker deserves respect.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "world",
+    "meaning": "جهان، دنیا",
+    "example": "Travel around the world!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "would",
+    "meaning": "می‌شد، می‌خواست (مودبانه)",
+    "example": "Would you like some coffee?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "write",
+    "meaning": "نوشتن",
+    "example": "Write your answers in your notebook.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "writer",
+    "meaning": "نویسنده",
+    "example": "She is a famous writer.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "writing",
+    "meaning": "نوشتن، نوشته",
+    "example": "Practice your writing every day.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "wrong",
+    "meaning": "اشتباه، نادرست",
+    "example": "Sorry, you have the wrong number.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "yeah",
+    "meaning": "آره، بله",
+    "example": "Yeah, that sounds good!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "year",
+    "meaning": "سال",
+    "example": "Happy New Year!",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "yellow",
+    "meaning": "زرد",
+    "example": "The sun is bright yellow.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "yes",
+    "meaning": "بله، آره",
+    "example": "Yes, I agree with you.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "yesterday",
+    "meaning": "دیروز",
+    "example": "I saw him yesterday afternoon.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "you",
+    "meaning": "تو، شما",
+    "example": "How are you today?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "young",
+    "meaning": "جوان",
+    "example": "She is a young teacher.",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "your",
+    "meaning": "مالِ تو، مالِ شما",
+    "example": "What is your name?",
+    "category": "Oxford A1"
+  },
+  {
+    "word": "yourself",
+    "meaning": "خودت، خودتان",
+    "example": "Take care of yourself!",
+    "category": "Oxford A1"
+  }
+]

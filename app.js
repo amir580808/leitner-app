@@ -5,6 +5,7 @@
     CARDS: 'leitner_cards_v1',
     CATEGORIES: 'leitner_categories_v1',
     INITIALIZED: 'leitner_initialized_v1',
+    A1_LOADED: 'leitner_a1_loaded_v1',
     THEME: 'leitner_theme_v1',
     ACCENT: 'leitner_accent_v1'
   };
@@ -32,7 +33,7 @@
     7: 'تسلط (۶۰ روز)'
   };
 
-  const DEFAULT_CATEGORIES = ['Oxford Word Skills', 'لغات مهم'];
+  const DEFAULT_CATEGORIES = ['Oxford A1', 'Oxford Word Skills', 'لغات مهم'];
 
   const SAMPLE_OXFORD_WORDS = [
     {
@@ -861,6 +862,10 @@
     $('exportCsvBtn').addEventListener('click', exportCSV);
     $('importFileInput').addEventListener('change', handleImportFile);
 
+    $('loadOxfordA1Btn').addEventListener('click', () => {
+      loadOxfordA1Pack(false);
+    });
+
     $('restoreSamplesBtn').addEventListener('click', () => {
       importItems(SAMPLE_OXFORD_WORDS);
     });
@@ -887,6 +892,21 @@
     });
   }
 
+  async function loadOxfordA1Pack(silent = false) {
+    try {
+      const res = await fetch('./oxford-a1.json');
+      if (!res.ok) throw new Error('Failed to fetch oxford-a1.json');
+      const items = await res.json();
+      if (!Array.isArray(items) || !items.length) return;
+      importItems(items);
+      localStorage.setItem(STORAGE_KEYS.A1_LOADED, 'true');
+    } catch {
+      if (!silent) {
+        showToast('خطا در بارگذاری بسته Oxford A1.');
+      }
+    }
+  }
+
   function registerServiceWorker() {
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
@@ -900,4 +920,7 @@
   bindEvents();
   renderDashboard();
   registerServiceWorker();
+  if (!localStorage.getItem(STORAGE_KEYS.A1_LOADED)) {
+    loadOxfordA1Pack(true);
+  }
 })();
