@@ -1,0 +1,4814 @@
+[
+  {
+    "word": "absolutely",
+    "meaning": "کاملاً، مطلقاً",
+    "example": "You are absolutely right about this decision.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "academic",
+    "meaning": "دانشگاهی، علمی، تحصیلی",
+    "example": "She has an impressive academic record at university.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "access",
+    "meaning": "دسترسی؛ دسترسی داشتن",
+    "example": "Students have free access to the online library.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "accommodation",
+    "meaning": "اقامتگاه، محل اقامت",
+    "example": "We booked affordable accommodation near the city center.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "account",
+    "meaning": "حساب (بانکی یا کاربری)، گزارش",
+    "example": "I opened a new bank account yesterday morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "achievement",
+    "meaning": "دستاورد، موفقیت",
+    "example": "Winning the gold medal was her greatest achievement.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "act",
+    "meaning": "عمل، کار؛ پرده (نمایش)",
+    "example": "Helping a stranger is a kind act.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ad",
+    "meaning": "آگهی، تبلیغ",
+    "example": "I saw an ad for a used bicycle online.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "addition",
+    "meaning": "افزودن، اضافه؛ مورد اضافه‌شده",
+    "example": "The new park is a lovely addition to our neighborhood.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "admire",
+    "meaning": "تحسین کردن",
+    "example": "I really admire his patience and hard work.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "admit",
+    "meaning": "اعتراف کردن، پذیرفتن",
+    "example": "She finally admitted that she had made a mistake.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "advanced",
+    "meaning": "پیشرفته",
+    "example": "He is taking an advanced course in English.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "advise",
+    "meaning": "توصیه کردن، مشورت دادن",
+    "example": "The doctor advised him to get more rest.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "afford",
+    "meaning": "استطاعت مالی داشتن، از عهده برآمدن",
+    "example": "We cannot afford a bigger house right now.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "age",
+    "meaning": "پیر شدن، سالخورده شدن، جا افتادن",
+    "example": "People tend to age faster under constant stress.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "aged",
+    "meaning": "در سنِ، به سنِ؛ سالخورده",
+    "example": "This game is for children aged eight and older.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "agent",
+    "meaning": "نماینده، کارگزار، مأمور",
+    "example": "Our travel agent found us much cheaper flights.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "agreement",
+    "meaning": "توافق، موافقت‌نامه",
+    "example": "Both companies signed the agreement last week.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ahead",
+    "meaning": "جلو، پیشاپیش، در پیش",
+    "example": "Walk straight ahead until you reach the bridge.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "aim",
+    "meaning": "هدف؛ هدف گرفتن، قصد داشتن",
+    "example": "Our main aim is to reduce plastic waste.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "alarm",
+    "meaning": "زنگ خطر، ساعت زنگ‌دار، هراس",
+    "example": "The fire alarm rang loudly throughout the building.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "album",
+    "meaning": "آلبوم (موسیقی یا عکس)",
+    "example": "The band released their third album last month.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "الکل، نوشیدنی الکلی",
+    "example": "He decided to stop drinking alcohol completely.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "alcoholic",
+    "meaning": "الکلی، حاوی الکل",
+    "example": "This restaurant does not serve alcoholic beverages.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "alternative",
+    "meaning": "جایگزین، دیگر",
+    "example": "We took an alternative route to avoid heavy traffic.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "amazed",
+    "meaning": "شگفت‌زده، متحیر",
+    "example": "I was amazed by how quickly she learned the language.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ambition",
+    "meaning": "بلندپروازی، آرزوی بزرگ، هدف",
+    "example": "Her lifelong ambition is to become a pilot.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ambitious",
+    "meaning": "بلندپرواز، جاه‌طلب",
+    "example": "He is an ambitious young engineer with big plans.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "analyse",
+    "meaning": "تحلیل کردن، بررسی کردن",
+    "example": "Scientists need to analyse the water samples carefully.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "analysis",
+    "meaning": "تحلیل، تجزیه‌وتحلیل",
+    "example": "The report gives a detailed analysis of the data.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "announce",
+    "meaning": "اعلام کردن",
+    "example": "They will announce the contest winners tomorrow morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "announcement",
+    "meaning": "اعلامیه، اطلاعیه",
+    "example": "Everyone listened closely to the manager's announcement.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "annoy",
+    "meaning": "اذیت کردن، کلافه کردن",
+    "example": "Loud noises from the street really annoy me.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "annoyed",
+    "meaning": "آزرده، کلافه، دلخور",
+    "example": "She looked annoyed when the train was delayed again.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "annoying",
+    "meaning": "آزاردهنده، کلافه‌کننده",
+    "example": "It is very annoying when my internet connection drops.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "apart",
+    "meaning": "جدا، با فاصله، جدا از هم",
+    "example": "The two houses stand about fifty meters apart.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "apologize",
+    "meaning": "عذرخواهی کردن",
+    "example": "I apologize for arriving late to the meeting.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "application",
+    "meaning": "درخواست، تقاضانامه؛ برنامه کاربردی",
+    "example": "She submitted her job application online yesterday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "appointment",
+    "meaning": "قرار ملاقات، نوبت",
+    "example": "I have a dentist appointment at three o'clock.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "قدردانی کردن، ارزش قائل شدن، درک کردن",
+    "example": "I really appreciate your help with this project.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "approximately",
+    "meaning": "تقریباً، حدوداً",
+    "example": "The flight takes approximately two hours.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "arrest",
+    "meaning": "دستگیر کردن؛ دستگیری، بازداشت",
+    "example": "The police arrested the suspect near the train station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "arrival",
+    "meaning": "ورود، رسیدن",
+    "example": "Please let me know your expected arrival time.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "assignment",
+    "meaning": "تکلیف، مأموریت، وظیفه",
+    "example": "We have to finish this written assignment by Friday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "assist",
+    "meaning": "کمک کردن، یاری رساندن",
+    "example": "The nurse assisted the doctor during the procedure.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "جو، فضا، اتمسفر",
+    "example": "The restaurant has a warm and friendly atmosphere.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "attach",
+    "meaning": "پیوست کردن، وصل کردن",
+    "example": "Please attach your resume to the email before sending it.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "attitude",
+    "meaning": "نگرش، طرز فکر، برخورد",
+    "example": "A positive attitude helps you overcome difficult challenges.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "attract",
+    "meaning": "جذب کردن، جلب کردن",
+    "example": "Bright flowers attract many insects to the garden.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "attraction",
+    "meaning": "جاذبه، مکان دیدنی، کشش",
+    "example": "The old castle is the main tourist attraction in town.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "authority",
+    "meaning": "اختیار، قدرت، مرجعیت، مقام مسئول",
+    "example": "She spoke with real authority on the subject.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "average",
+    "meaning": "به طور میانگین بودن یا داشتن",
+    "example": "I average about seven hours of sleep a night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "award",
+    "meaning": "اعطا کردن، جایزه دادن",
+    "example": "The judges awarded him first prize for his essay.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "aware",
+    "meaning": "آگاه، باخبر، هوشیار",
+    "example": "Are you aware of the changes in the schedule?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "backwards",
+    "meaning": "رو به عقب، به طرف پشت، برعکس",
+    "example": "He took a step backwards to see the whole painting.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bake",
+    "meaning": "پختن (در فر یا تنور)",
+    "example": "My mother loves to bake fresh bread on weekends.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "balance",
+    "meaning": "تعادل، ترازو؛ متعادل کردن، حفظ تعادل کردن",
+    "example": "It is important to balance your work and personal life.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ban",
+    "meaning": "ممنوعیت؛ ممنوع کردن",
+    "example": "The city decided to ban smoking in public parks.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "base",
+    "meaning": "پایه، اساس، پایگاه؛ مبتنی کردن، مستقر کردن",
+    "example": "The tall statue stands on a wide stone base.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "basic",
+    "meaning": "پایه، اساسی، ابتدایی، ساده",
+    "example": "Everyone should learn the basic rules of road safety.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "basis",
+    "meaning": "اساس، پایه، مبنا",
+    "example": "Trust is the basis of any strong friendship.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "battery",
+    "meaning": "باتری",
+    "example": "My phone battery is almost empty, so I need a charger.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "battle",
+    "meaning": "نبرد، جنگ، مبارزه",
+    "example": "The soldiers fought bravely during the long battle.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "beauty",
+    "meaning": "زیبایی، قشنگی",
+    "example": "Everyone stopped to admire the beauty of the sunset.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bee",
+    "meaning": "زنبور عسل، زنبور",
+    "example": "A bee landed gently on the yellow flower.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "belief",
+    "meaning": "باور، اعتقاد، ایمان",
+    "example": "She held a strong belief in fairness and justice.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bell",
+    "meaning": "زنگ، زنگوله",
+    "example": "The school bell rings at eight o'clock every morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bend",
+    "meaning": "خم، پیچ؛ خم کردن، خم شدن",
+    "example": "Be careful not to bend the thin metal rod.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "benefit",
+    "meaning": "سود بردن، فایده رساندن، بهره‌مند شدن",
+    "example": "Regular exercise will greatly benefit your health.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "better",
+    "meaning": "چیز یا حالت بهتر، فرد برتر",
+    "example": "Things are finally starting to change for the better.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bite",
+    "meaning": "گاز گرفتن، نیش، لقمه",
+    "example": "Be careful, that dog might bite.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "block",
+    "meaning": "بلوک، قطعه؛ مسدود کردن",
+    "example": "A fallen tree blocked the narrow road.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "board",
+    "meaning": "سوار شدن (هواپیما، کشتی یا قطار)",
+    "example": "We are ready to board the flight now.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bomb",
+    "meaning": "بمب؛ بمباران کردن",
+    "example": "The police safely removed the unexploded bomb.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "border",
+    "meaning": "مرز، حاشیه",
+    "example": "They crossed the border into Italy by train.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bother",
+    "meaning": "زحمت دادن، اذیت کردن، به خود زحمت دادن",
+    "example": "I don't want to bother you while you are working.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "branch",
+    "meaning": "شاخه، شعبه",
+    "example": "The bank opened a new branch in our town.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "brand",
+    "meaning": "برند، نام تجاری؛ نشانه‌گذاری کردن",
+    "example": "Which brand of toothpaste do you usually buy?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "brave",
+    "meaning": "شجاع، دلیر",
+    "example": "It was very brave of her to speak out.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "breath",
+    "meaning": "نفس، دم",
+    "example": "Take a deep breath and try to relax.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "breathe",
+    "meaning": "نفس کشیدن",
+    "example": "It is hard to breathe in this smoky room.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "breathing",
+    "meaning": "تنفس، نفس کشیدن",
+    "example": "Her breathing became slow and steady as she slept.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bride",
+    "meaning": "عروس",
+    "example": "The bride looked radiant in her white dress.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bubble",
+    "meaning": "حباب",
+    "example": "The children loved chasing soap bubbles in the garden.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "bury",
+    "meaning": "دفن کردن، پنهان کردن",
+    "example": "Our dog likes to bury bones in the yard.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "by",
+    "meaning": "از کنار، نزدیک، در حال گذر",
+    "example": "I watched the parade go by from my window.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "calm",
+    "meaning": "آرام، آرامش، آرام کردن",
+    "example": "Stay calm and listen carefully to the instructions.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "campaign",
+    "meaning": "کارزار، پویش؛ تبلیغات انتخاباتی یا اجتماعی کردن",
+    "example": "They launched a campaign to reduce plastic waste.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "campus",
+    "meaning": "محوطه دانشگاه",
+    "example": "Most first-year students live on campus.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "candidate",
+    "meaning": "نامزد، داوطلب",
+    "example": "Each candidate gave a short speech before the vote.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cap",
+    "meaning": "کلاه لبه‌دار، درپوش",
+    "example": "He put on his baseball cap before going outside.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "captain",
+    "meaning": "کاپیتان، ناخدا، سروان",
+    "example": "She was chosen as captain of the school team.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "careless",
+    "meaning": "بی‌دقت، بی‌احتیاط",
+    "example": "A careless mistake cost him full marks on the test.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "category",
+    "meaning": "دسته، رده، مقوله",
+    "example": "These books belong to the science fiction category.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ceiling",
+    "meaning": "سقف",
+    "example": "There is a bright light hanging from the ceiling.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "celebration",
+    "meaning": "جشن، مراسم بزرگداشت",
+    "example": "We had a big family celebration for her graduation.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "central",
+    "meaning": "مرکزی، اصلی",
+    "example": "The hotel is in a central location near the station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "centre",
+    "meaning": "متمرکز کردن، در مرکز قرار دادن",
+    "example": "The discussion will centre on improving local schools.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ceremony",
+    "meaning": "مراسم، تشریفات",
+    "example": "The award ceremony begins at seven o'clock.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "chain",
+    "meaning": "زنجیر، زنجیره، فروشگاه زنجیره‌ای",
+    "example": "He locked his bicycle to the fence with a heavy chain.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "challenge",
+    "meaning": "چالش، دشواری",
+    "example": "Learning a new language is an exciting challenge.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "champion",
+    "meaning": "قهرمان",
+    "example": "She became the national tennis champion last summer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "channel",
+    "meaning": "کانال، شبکه تلویزیونی، مجرا",
+    "example": "Can you switch to the news channel?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "chapter",
+    "meaning": "فصل (کتاب)، بخش",
+    "example": "I always read one chapter before going to sleep.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "charge",
+    "meaning": "هزینه، شارژ، اتهام؛ هزینه گرفتن، شارژ کردن",
+    "example": "They do not charge for delivery on orders over fifty dollars.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cheap",
+    "meaning": "ارزان، به قیمت پایین",
+    "example": "We got the concert tickets cheap online.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cheat",
+    "meaning": "تقلب کردن؛ فرد متقلب",
+    "example": "He was caught trying to cheat on the final exam.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cheerful",
+    "meaning": "خوشحال، شاد، سرزنده",
+    "example": "She always greets everyone with a cheerful smile.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "chemical",
+    "meaning": "شیمیایی؛ ماده شیمیایی",
+    "example": "Wear gloves when handling any dangerous chemical in the lab.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "chest",
+    "meaning": "سینه، قفسه سینه؛ صندوقچه",
+    "example": "He felt a sharp pain in his chest after running.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "childhood",
+    "meaning": "دوران کودکی، بچگی",
+    "example": "I spent most of my childhood living near the sea.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "claim",
+    "meaning": "ادعا، ادعا کردن؛ مطالبه کردن",
+    "example": "They claim that their new software is twice as fast.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "clause",
+    "meaning": "بند (قرارداد)؛ جمله‌واره",
+    "example": "Read every clause of the contract carefully before signing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "clear",
+    "meaning": "پاک کردن، تمیز کردن؛ رفع کردن",
+    "example": "Please help me clear the dishes from the table.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "click",
+    "meaning": "کلیک، کلیک کردن؛ صدای تق‌تق",
+    "example": "Click the blue button to download the file.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "client",
+    "meaning": "مشتری، موکل، کارفرما",
+    "example": "Our lawyer is meeting with a new client this afternoon.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "climb",
+    "meaning": "صعود، بالا رفتن",
+    "example": "It was a steep climb to the top of the hill.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "close",
+    "meaning": "نزدیک، در نزدیکی",
+    "example": "Stay close to me so you do not get lost in the crowd.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cloth",
+    "meaning": "پارچه، دستمال",
+    "example": "Wipe the kitchen counter with a damp cloth.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "clue",
+    "meaning": "سرنخ، نشانه، راهنما",
+    "example": "The detective found an important clue at the crime scene.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "coach",
+    "meaning": "مربیگری کردن، آموزش دادن",
+    "example": "She has started to coach the local youth basketball team.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "coal",
+    "meaning": "زغال‌سنگ",
+    "example": "Many old power plants used to burn coal for electricity.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "coin",
+    "meaning": "سکه",
+    "example": "I found a silver coin lying on the sidewalk.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "collection",
+    "meaning": "مجموعه، کلکسیون؛ جمع‌آوری",
+    "example": "He has an impressive collection of rare postage stamps.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "coloured",
+    "meaning": "رنگی، رنگ‌شده",
+    "example": "The children drew pictures using bright coloured pencils.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "combine",
+    "meaning": "ترکیب کردن، ادغام کردن",
+    "example": "Combine the flour and sugar in a large mixing bowl.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "comment",
+    "meaning": "نظر دادن، اظهارنظر کردن",
+    "example": "The manager refused to comment on the recent rumours.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "commercial",
+    "meaning": "تجاری؛ آگهی بازرگانی",
+    "example": "That new soda commercial is shown on TV every evening.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "commit",
+    "meaning": "مرتکب شدن؛ متعهد شدن",
+    "example": "You should not commit to the project unless you have enough time.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "communication",
+    "meaning": "ارتباط، برقراری ارتباط",
+    "example": "Good communication is essential for a successful team.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "comparison",
+    "meaning": "مقایسه، سنجش",
+    "example": "There is no comparison between fresh fruit and canned fruit.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "competitive",
+    "meaning": "رقابتی، اهل رقابت",
+    "example": "Getting a job in that industry is very competitive.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "competitor",
+    "meaning": "رقیب، شرکت‌کننده در مسابقه",
+    "example": "Every competitor in the race ran as fast as they could.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "complaint",
+    "meaning": "شکایت، گلایه، اعتراض",
+    "example": "We wrote a formal complaint about the noisy hotel room.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "complex",
+    "meaning": "پیچیده، دشوار",
+    "example": "The instructions for assembling the desk were quite complex.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "تمرکز کردن، حواس خود را جمع کردن",
+    "example": "Turn off the television so I can concentrate on my homework.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "conclude",
+    "meaning": "نتیجه‌گیری کردن؛ به پایان رساندن",
+    "example": "From the test results, we can conclude that the plan works.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "conclusion",
+    "meaning": "نتیجه‌گیری، پایان، جمع‌بندی",
+    "example": "In conclusion, I would like to thank everyone for coming.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "confident",
+    "meaning": "مطمئن، با اعتمادبه‌نفس",
+    "example": "She felt confident that she would pass the driving test.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "confirm",
+    "meaning": "تأیید کردن، قطعی کردن",
+    "example": "Please call the airline to confirm your flight reservation.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "confuse",
+    "meaning": "گیج کردن، سردرگم کردن، اشتباه گرفتن",
+    "example": "Those similar street names always confuse tourists.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "confused",
+    "meaning": "گیج، سردرگم",
+    "example": "She looked confused when she read the complicated instructions.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "connection",
+    "meaning": "ارتباط، اتصال، پیوند",
+    "example": "There is a strong connection between diet and good health.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "consequence",
+    "meaning": "پیامد، نتیجه، عاقبت",
+    "example": "Missing the deadline had serious consequences for the whole team.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "consist",
+    "meaning": "تشکیل شدن از، شامل بودن",
+    "example": "The exam consists of three short listening and reading sections.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "consume",
+    "meaning": "مصرف کردن، خوردن و آشامیدن",
+    "example": "Electric cars consume less energy than traditional petrol vehicles.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "consumer",
+    "meaning": "مصرف‌کننده",
+    "example": "Consumers are demanding clearer labels on all food products.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "contact",
+    "meaning": "تماس، ارتباط؛ تماس گرفتن",
+    "example": "Please contact our support office if you have any questions.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "container",
+    "meaning": "ظرف، محفظه، کانتینر",
+    "example": "Store the leftover soup in a tightly sealed plastic container.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "content",
+    "meaning": "محتوا، درون‌مایه، فهرست مطالب",
+    "example": "The website offers free educational content for language learners.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "continuous",
+    "meaning": "پیوسته، مداوم، بی‌وقفه",
+    "example": "The region experienced continuous heavy rain for three days.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "contrast",
+    "meaning": "تضاد، تفاوت؛ مقایسه کردن، در تضاد بودن",
+    "example": "There is a sharp contrast between the old and new buildings.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "convenient",
+    "meaning": "راحت، مناسب، در دسترس",
+    "example": "The supermarket is very convenient because it stays open late.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "convince",
+    "meaning": "متقاعد کردن، قانع کردن",
+    "example": "He tried to convince his parents to let him study abroad.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cool",
+    "meaning": "خنک کردن، خنک شدن، آرام شدن",
+    "example": "Let the freshly baked cake cool before you cut it.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "costume",
+    "meaning": "لباس مخصوص، لباس نمایش یا جشن",
+    "example": "Every child wore a colorful costume to the school party.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cottage",
+    "meaning": "کلبه، خانه کوچک روستایی",
+    "example": "They rented a quiet stone cottage near the lake for summer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cotton",
+    "meaning": "پنبه، نخ پنبه‌ای",
+    "example": "This light shirt is made from one hundred percent organic cotton.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "count",
+    "meaning": "شمارش، تعداد، اتهام",
+    "example": "The final count showed that over two hundred guests attended.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "countryside",
+    "meaning": "حومه شهر، روستا و طبیعت اطراف",
+    "example": "We spent the weekend cycling through the peaceful green countryside.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "court",
+    "meaning": "دادگاه، زمین بازی، دربار",
+    "example": "The two players met on the tennis court early in the morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cover",
+    "meaning": "پوشش، روکش، جلد کتاب",
+    "example": "The book had a bright blue cover with gold letters.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "covered",
+    "meaning": "پوشیده، سرپوشیده",
+    "example": "The mountain peaks were covered with fresh white snow.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cream",
+    "meaning": "کرم‌رنگ، به رنگ کرم",
+    "example": "She bought a warm cream sweater to wear with dark jeans.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "criminal",
+    "meaning": "جنایی، مجرمانه، کیفری",
+    "example": "Hacking into private bank accounts is a serious criminal act.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cruel",
+    "meaning": "بی‌رحم، ظالم، قساوت‌آمیز",
+    "example": "It is cruel to leave pets outside in freezing winter weather.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cultural",
+    "meaning": "فرهنگی",
+    "example": "The city hosts an annual cultural festival celebrating music and dance.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "currency",
+    "meaning": "واحد پول، ارز",
+    "example": "You should exchange some local currency before arriving at the airport.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "current",
+    "meaning": "کنونی، فعلی، جاری",
+    "example": "Our current apartment is much closer to the train station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "currently",
+    "meaning": "در حال حاضر، اکنون",
+    "example": "She is currently working on a new project in Berlin.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "curtain",
+    "meaning": "پرده",
+    "example": "Please close the curtains so the bright sunlight stays out.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "custom",
+    "meaning": "رسم، سنت، آداب و رسوم",
+    "example": "Taking off your shoes indoors is a common local custom.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "cut",
+    "meaning": "بریدگی، برش، کاهش",
+    "example": "He put a small bandage over the cut on his finger.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "daily",
+    "meaning": "روزانه، هر روز",
+    "example": "The museum is open daily from nine until six o'clock.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "damage",
+    "meaning": "آسیب، خسارت؛ آسیب زدن",
+    "example": "The strong storm caused heavy damage to several old roofs.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "deal",
+    "meaning": "معامله، توافق",
+    "example": "We made a great deal with the new supplier.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "decade",
+    "meaning": "دهه (دوره ده‌ساله)",
+    "example": "The city has changed a lot over the past decade.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "decorate",
+    "meaning": "تزئین کردن، آراستن",
+    "example": "We decorated the living room for her birthday party.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "deep",
+    "meaning": "عمیقاً، تا اعماق",
+    "example": "The divers went deep under the sea to explore the ship.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "define",
+    "meaning": "تعریف کردن، مشخص کردن",
+    "example": "Can you define what this technical term means?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "definite",
+    "meaning": "قطعی، مشخص",
+    "example": "We don't have a definite date for the meeting yet.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "definition",
+    "meaning": "تعریف، معنی",
+    "example": "Look up the definition of that word in the dictionary.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "deliver",
+    "meaning": "تحویل دادن، رساندن",
+    "example": "The courier will deliver your package tomorrow morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "departure",
+    "meaning": "عزیمت، حرکت، خروج",
+    "example": "Our flight's departure was delayed by an hour.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "despite",
+    "meaning": "با وجود، علی‌رغم",
+    "example": "They went for a walk despite the heavy rain.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "destination",
+    "meaning": "مقصد",
+    "example": "After a long flight, we finally reached our destination.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "determine",
+    "meaning": "تعیین کردن، تصمیم گرفتن",
+    "example": "The test results will determine which course you take.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "determined",
+    "meaning": "مصمم، بااراده",
+    "example": "She is determined to finish the marathon this year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "development",
+    "meaning": "توسعه، پیشرفت، رشد",
+    "example": "Regular exercise is important for a child's healthy development.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "diagram",
+    "meaning": "نمودار، دیاگرام",
+    "example": "The teacher drew a simple diagram to explain the process.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "diamond",
+    "meaning": "الماس",
+    "example": "He gave her a ring with a small diamond in the center.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "difficulty",
+    "meaning": "دشواری، سختی، مشکل",
+    "example": "She had some difficulty finding the right address.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "direct",
+    "meaning": "مستقیماً / هدایت کردن، کارگردانی کردن",
+    "example": "The train goes direct to the city center.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "directly",
+    "meaning": "مستقیماً، بی‌واسطه",
+    "example": "You can speak directly to the manager about your complaint.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "dirt",
+    "meaning": "خاک، کثیفی، چرک",
+    "example": "Wash the dirt off your boots before coming inside.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "disadvantage",
+    "meaning": "عیب، نقطه ضعف، زیان",
+    "example": "One disadvantage of living downtown is the constant noise.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "disappointed",
+    "meaning": "ناامید، سرخورده",
+    "example": "He was disappointed when the concert was canceled.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "disappointing",
+    "meaning": "ناامیدکننده، مأیوس‌کننده",
+    "example": "The team's performance in the final match was disappointing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "discount",
+    "meaning": "تخفیف",
+    "example": "Students get a twenty percent discount at the bookstore.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "dislike",
+    "meaning": "بیزاری، تنفر / دوست نداشتن",
+    "example": "I strongly dislike waiting in long lines.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "divide",
+    "meaning": "تقسیم کردن، جدا کردن",
+    "example": "Let's divide the cake into eight equal pieces.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "documentary",
+    "meaning": "فیلم مستند",
+    "example": "We watched an interesting documentary about ocean life.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "donate",
+    "meaning": "اهدا کردن، بخشیدن",
+    "example": "Many people donate blood to help save lives.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "double",
+    "meaning": "دو برابر، دوچندان",
+    "example": "We had to pay double for the last-minute tickets.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "doubt",
+    "meaning": "شک، تردید / شک داشتن",
+    "example": "I have no doubt that she will pass the exam.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "dressed",
+    "meaning": "لباس‌پوشیده، آماده",
+    "example": "Get dressed quickly or we will miss the bus.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "drop",
+    "meaning": "قطره، افت، سقوط",
+    "example": "There was a sudden drop in temperature last night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "drum",
+    "meaning": "طبل، درام",
+    "example": "He played a steady rhythm on the drum.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "drunk",
+    "meaning": "مست",
+    "example": "He was too drunk to drive himself home safely.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "due",
+    "meaning": "سررسید، مقرر، قابل پرداخت",
+    "example": "The library books are due back next Friday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "dust",
+    "meaning": "گرد و غبار، خاک",
+    "example": "Wipe the dust off the table before dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "duty",
+    "meaning": "وظیفه، تکلیف",
+    "example": "It is our duty to protect the environment.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "earthquake",
+    "meaning": "زلزله، زمین‌لرزه",
+    "example": "The strong earthquake damaged several old buildings.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "eastern",
+    "meaning": "شرقی",
+    "example": "They live in the eastern part of the city.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "economic",
+    "meaning": "اقتصادی",
+    "example": "The country is facing serious economic problems.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "economy",
+    "meaning": "اقتصاد",
+    "example": "Tourism plays an important role in the local economy.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "edge",
+    "meaning": "لبه، حاشیه",
+    "example": "Don't put your glass so close to the edge of the table.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "editor",
+    "meaning": "ویراستار، سردبیر",
+    "example": "The editor corrected a few mistakes in my article.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "educate",
+    "meaning": "آموزش دادن، تربیت کردن",
+    "example": "Schools aim to educate children for the future.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "educated",
+    "meaning": "تحصیل‌کرده، باسواد",
+    "example": "She is a well-educated woman with two university degrees.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "educational",
+    "meaning": "آموزشی، پرورشی",
+    "example": "The museum offers fun educational programs for kids.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "effective",
+    "meaning": "موثر، کارآمد",
+    "example": "This new medicine is very effective against headaches.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "effectively",
+    "meaning": "به‌طور موثر، به‌خوبی",
+    "example": "Good leaders communicate clearly and effectively.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "effort",
+    "meaning": "تلاش، کوشش",
+    "example": "Learning a new language takes time and effort.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "election",
+    "meaning": "انتخابات",
+    "example": "Millions of people voted in the national election.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "element",
+    "meaning": "عنصر، جزء",
+    "example": "Trust is an essential element of any strong relationship.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "embarrassed",
+    "meaning": "خجالت‌زده، شرمنده",
+    "example": "I felt embarrassed when I forgot his name.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "embarrassing",
+    "meaning": "خجالت‌آور، شرم‌آور",
+    "example": "Falling asleep during the meeting was an embarrassing moment.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "emergency",
+    "meaning": "وضعیت اضطراری، اورژانس",
+    "example": "In case of an emergency, call this number immediately.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "emotion",
+    "meaning": "احساس، هیجان",
+    "example": "She spoke with deep emotion about her childhood.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "employment",
+    "meaning": "اشتغال، استخدام",
+    "example": "Many graduates are looking for full-time employment.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "empty",
+    "meaning": "خالی کردن",
+    "example": "Please empty the trash bin before you leave.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "encourage",
+    "meaning": "تشویق کردن، دلگرمی دادن",
+    "example": "My parents always encourage me to follow my dreams.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "enemy",
+    "meaning": "دشمن",
+    "example": "The two countries were once enemies, but now they are allies.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "engaged",
+    "meaning": "نامزد کرده؛ مشغول",
+    "example": "They got engaged last summer and plan to marry soon.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "engineering",
+    "meaning": "مهندسی",
+    "example": "He is studying civil engineering at university.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "entertain",
+    "meaning": "سرگرم کردن، پذیرایی کردن",
+    "example": "The clown tried to entertain the children at the party.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "entertainment",
+    "meaning": "سرگرمی، تفریح",
+    "example": "The city offers plenty of entertainment options at night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "entrance",
+    "meaning": "ورودی، در ورودی",
+    "example": "Meet me at the main entrance of the mall.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "entry",
+    "meaning": "ورود؛ مدخل",
+    "example": "The sign at the gate says no entry without a ticket.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "environmental",
+    "meaning": "زیست‌محیطی",
+    "example": "Air pollution is a major environmental issue.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "episode",
+    "meaning": "قسمت (سریال)، رویداد",
+    "example": "Did you watch the latest episode of that series?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "equal",
+    "meaning": "برابر، مساوی؛ برابر بودن",
+    "example": "All people deserve equal rights and opportunities.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "equally",
+    "meaning": "به‌طور مساوی، به یک اندازه",
+    "example": "We divided the prize money equally among the team.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "escape",
+    "meaning": "فرار؛ فرار کردن",
+    "example": "The bird managed to escape from its cage.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "essential",
+    "meaning": "ضروری، حیاتی، اساسی",
+    "example": "Clean water is essential for good health.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "eventually",
+    "meaning": "سرانجام، در نهایت",
+    "example": "After hours of waiting, the train eventually arrived.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "examine",
+    "meaning": "بررسی کردن، معاینه کردن",
+    "example": "The doctor will examine your throat carefully.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "except",
+    "meaning": "جز اینکه، مگر اینکه",
+    "example": "I would go out, except I have too much work to do.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "exchange",
+    "meaning": "تبادل، مبادله کردن، عوض کردن",
+    "example": "Can I exchange this shirt for a larger size?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "excitement",
+    "meaning": "هیجان، شور و شوق",
+    "example": "The children could hardly hide their excitement before the trip.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "exhibition",
+    "meaning": "نمایشگاه",
+    "example": "We visited an art exhibition at the city museum.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "expand",
+    "meaning": "گسترش دادن، توسعه یافتن",
+    "example": "The company plans to expand its business into Asia.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "expected",
+    "meaning": "مورد انتظار، پیش‌بینی‌شده",
+    "example": "The expected arrival time of the flight is six o'clock.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "expedition",
+    "meaning": "سفر اکتشافی، هیئت اعزامی",
+    "example": "They organized a scientific expedition to Antarctica.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "experience",
+    "meaning": "تجربه کردن، احساس کردن",
+    "example": "You may experience some pain after the operation.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "experienced",
+    "meaning": "باتجربه، کارآزموده",
+    "example": "She is an experienced teacher who loves her job.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "experiment",
+    "meaning": "آزمایش کردن، تجربه کردن",
+    "example": "He likes to experiment with new recipes in the kitchen.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "explode",
+    "meaning": "منفجر شدن، ترکیدن",
+    "example": "The fireworks will explode high in the night sky.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "explore",
+    "meaning": "کاوش کردن، جستجو کردن، گشتن",
+    "example": "Let's explore the old town before dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "explosion",
+    "meaning": "انفجار",
+    "example": "Everyone heard a loud explosion down the street.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "export",
+    "meaning": "صادرات، صادر کردن",
+    "example": "Brazil exports a large amount of coffee every year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "extra",
+    "meaning": "بیشتر، به‌طور اضافی، هزینه یا چیز اضافه",
+    "example": "You have to pay extra for luggage on this flight.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "face",
+    "meaning": "مواجه شدن با، روبرو شدن",
+    "example": "We must face our problems honestly.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fairly",
+    "meaning": "نسبتاً، به‌طور منصفانه",
+    "example": "The test was fairly easy compared to last week's.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "familiar",
+    "meaning": "آشنا",
+    "example": "Her voice sounded very familiar on the phone.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fancy",
+    "meaning": "شیک، تجملاتی؛ هوس کردن، میل داشتن",
+    "example": "Do you fancy going to the cinema tonight?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "far",
+    "meaning": "دور، دوردست",
+    "example": "The station is on the far side of the park.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fascinating",
+    "meaning": "جذاب، شگفت‌انگیز، مجذوب‌کننده",
+    "example": "I read a fascinating book about ancient Egypt.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fashionable",
+    "meaning": "مد روز، شیک",
+    "example": "That jacket is very fashionable this winter.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fasten",
+    "meaning": "بستن، محکم کردن",
+    "example": "Please fasten your seat belt before takeoff.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "favour",
+    "meaning": "لطف، محبت، کمک",
+    "example": "Could you do me a favour and hold this box?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fear",
+    "meaning": "ترسیدن از، بیم داشتن",
+    "example": "Many people fear speaking in front of a large crowd.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "feature",
+    "meaning": "شامل بودن، به نمایش گذاشتن، نقش اصلی داشتن",
+    "example": "The new film will feature several famous actors.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fence",
+    "meaning": "نرده، حصار، پرچین",
+    "example": "They painted the wooden fence around the garden white.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fighting",
+    "meaning": "جنگ، درگیری، دعوا",
+    "example": "Heavy fighting broke out near the border.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "file",
+    "meaning": "پرونده، فایل",
+    "example": "Save the document as a PDF file on your computer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "financial",
+    "meaning": "مالی",
+    "example": "The small business is facing serious financial difficulties.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fire",
+    "meaning": "اخراج کردن، شلیک کردن",
+    "example": "The manager had to fire him for being late every day.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fitness",
+    "meaning": "تناسب اندام، آمادگی جسمانی",
+    "example": "Regular running is great for your physical fitness.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fixed",
+    "meaning": "ثابت، معین",
+    "example": "The rent is fixed for the next two years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "flag",
+    "meaning": "پرچم",
+    "example": "The national flag is raised every morning at the school.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "flood",
+    "meaning": "سیل؛ سیل آمدن، غرق شدن",
+    "example": "Heavy rain caused a severe flood in the valley.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "flour",
+    "meaning": "آرد",
+    "example": "Mix the flour and eggs together to make the cake batter.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "flow",
+    "meaning": "جریان؛ جاری شدن",
+    "example": "Traffic began to flow smoothly after the accident was cleared.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fold",
+    "meaning": "تا کردن",
+    "example": "Please fold your clothes neatly before putting them away.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "folk",
+    "meaning": "عامیانه، محلی؛ مردم، قوم",
+    "example": "She enjoys listening to traditional folk music from Ireland.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "following",
+    "meaning": "پیروان، طرفداران؛ موارد زیر",
+    "example": "The band has gained a large following over the last year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "force",
+    "meaning": "نیرو، زور؛ مجبور کردن",
+    "example": "Don't force yourself to eat if you aren't hungry.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "forever",
+    "meaning": "برای همیشه",
+    "example": "I will remember this wonderful trip forever.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "frame",
+    "meaning": "قاب، چهارچوب؛ قاب گرفتن",
+    "example": "He bought a wooden frame for his favorite painting.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "freeze",
+    "meaning": "یخ زدن، منجمد شدن",
+    "example": "Water starts to freeze when the temperature drops below zero.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "frequently",
+    "meaning": "مکرراً، به طور مداوم",
+    "example": "Buses to the city center run frequently during the day.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "friendship",
+    "meaning": "دوستی",
+    "example": "Their friendship began when they met in college.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "frighten",
+    "meaning": "ترساندن",
+    "example": "Loud noises often frighten the neighborhood dogs.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "frightened",
+    "meaning": "ترسیده، وحشت‌زده",
+    "example": "The frightened child hid behind her mother's coat.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "frightening",
+    "meaning": "ترسناک، وحشتناک",
+    "example": "Walking alone through the dark forest was a frightening experience.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "frozen",
+    "meaning": "یخ‌زده، منجمد",
+    "example": "We bought a bag of frozen vegetables for dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fry",
+    "meaning": "سرخ کردن",
+    "example": "Fry the onions in a little olive oil until they turn golden.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fuel",
+    "meaning": "سوخت",
+    "example": "The car ran out of fuel just a mile from the station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "function",
+    "meaning": "عملکرد، کارکرد، وظیفه",
+    "example": "The main function of the heart is to pump blood.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "fur",
+    "meaning": "خز، موی حیوان",
+    "example": "The cat's soft fur felt warm against my hand.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "further",
+    "meaning": "دورتر، بیشتر",
+    "example": "We need to walk a little further to reach the waterfall.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "garage",
+    "meaning": "گاراژ، تعمیرگاه خودرو",
+    "example": "He parked his car inside the garage before the storm started.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "gather",
+    "meaning": "جمع شدن، گرد آوردن",
+    "example": "Crowds began to gather in the square to watch the fireworks.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "generally",
+    "meaning": "به طور کلی، عموماً",
+    "example": "People generally prefer working in a quiet environment.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "generation",
+    "meaning": "نسل",
+    "example": "Each generation faces different challenges as technology changes.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "generous",
+    "meaning": "بخشنده، سخاوتمند",
+    "example": "It was very generous of you to pay for everyone's meal.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "gentle",
+    "meaning": "ملایم، مهربان، آرام",
+    "example": "She spoke in a gentle voice so she wouldn't wake the baby.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "gentleman",
+    "meaning": "آقا، مرد باادب",
+    "example": "The polite gentleman held the door open for us.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ghost",
+    "meaning": "روح، شبح",
+    "example": "Children love telling spooky ghost stories around a campfire.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "giant",
+    "meaning": "غول‌پیکر؛ غول",
+    "example": "A giant tree fell across the road during the night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "glad",
+    "meaning": "خوشحال، خرسند",
+    "example": "I'm so glad you could make it to my birthday party.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "global",
+    "meaning": "جهانی",
+    "example": "Climate change is a serious global issue that affects everyone.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "glove",
+    "meaning": "دستکش",
+    "example": "I lost my left glove somewhere on the train.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "go",
+    "meaning": "نوبت، تلاش، فرصت",
+    "example": "Let's have another go at solving this puzzle.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "goods",
+    "meaning": "کالاها، اجناس",
+    "example": "The shop sells leather goods and travel bags.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "grade",
+    "meaning": "نمره، درجه، پایه تحصیلی",
+    "example": "She worked hard and got a high grade in science.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "graduate",
+    "meaning": "فارغ‌التحصیل شدن؛ فرد فارغ‌التحصیل",
+    "example": "He will graduate from university next summer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "grain",
+    "meaning": "غله، دانه",
+    "example": "Wheat is an important grain grown around the world.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "grateful",
+    "meaning": "قدردان، سپاسگزار",
+    "example": "I am very grateful for all your help today.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "growth",
+    "meaning": "رشد، افزایش",
+    "example": "The company has seen rapid growth this year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "guard",
+    "meaning": "نگهبان؛ نگهبانی دادن، محافظت کردن",
+    "example": "A security guard stood near the main entrance.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "guilty",
+    "meaning": "گناهکار، مقصر؛ دچار عذاب وجدان",
+    "example": "He felt guilty about forgetting his friend's birthday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hand",
+    "meaning": "دادن، تحویل دادن",
+    "example": "Please hand me that book on the table.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hang",
+    "meaning": "آویزان کردن، آویزان شدن",
+    "example": "You can hang your coat behind the door.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "happiness",
+    "meaning": "خوشحالی، خوشبختی، سعادت",
+    "example": "Spending time with family brings me great happiness.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hardly",
+    "meaning": "به‌سختی، به‌ندرت، تقریباً هیچ",
+    "example": "I could hardly hear what she was saying over the noise.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hate",
+    "meaning": "نفرت، تنفر",
+    "example": "There is no room for hate in our community.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "head",
+    "meaning": "حرکت کردن به سمتی؛ رهبری کردن",
+    "example": "We should head home before it gets dark.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "headline",
+    "meaning": "تیتر، سرخط خبر",
+    "example": "The story about the election made the front-page headline today.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "heating",
+    "meaning": "گرمایش، سیستم گرمایشی",
+    "example": "Please turn on the heating because the room is freezing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "heavily",
+    "meaning": "به‌شدت، به‌طور سنگین، زیاد",
+    "example": "It rained heavily all night, so the streets were flooded.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "helicopter",
+    "meaning": "هلیکوپتر، بالگرد",
+    "example": "A rescue helicopter arrived quickly to help the injured climber.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "highlight",
+    "meaning": "نکته برجسته، اوج (اسم)؛ برجسته کردن، هایلایت کردن (فعل)",
+    "example": "Visiting the ancient castle was the highlight of our trip.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "highly",
+    "meaning": "بسیار، به‌شدت، خیلی زیاد",
+    "example": "My teacher highly recommended this book for improving my vocabulary.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hire",
+    "meaning": "استخدام کردن؛ کرایه کردن",
+    "example": "The company plans to hire five new engineers next month.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "historic",
+    "meaning": "تاریخی، مهم و به‌یادماندنی",
+    "example": "They walked through the historic center of the old city.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "historical",
+    "meaning": "تاریخی، مربوط به تاریخ",
+    "example": "She loves reading historical novels set in the nineteenth century.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "honest",
+    "meaning": "صادق، درستکار، روراست",
+    "example": "Thank you for being honest with me about what happened.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "horrible",
+    "meaning": "وحشتناک، افتضاح، بسیار ناخوشایند",
+    "example": "The weather was horrible, so we decided to stay indoors.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "horror",
+    "meaning": "وحشت، ترس شدید؛ ژانر ترسناک",
+    "example": "I do not like watching horror movies late at night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "host",
+    "meaning": "میزبان؛ مجری برنامه",
+    "example": "Our host welcomed everyone warmly at the front door.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hunt",
+    "meaning": "شکار کردن؛ جست‌وجو کردن",
+    "example": "Lions usually hunt for food early in the morning or at night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hurricane",
+    "meaning": "توفان شدید، تندباد",
+    "example": "Strong winds from the hurricane damaged dozens of roofs along the coast.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "hurry",
+    "meaning": "عجله، شتاب (اسم)؛ عجله کردن (فعل)",
+    "example": "We need to hurry if we want to catch the last train.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "identity",
+    "meaning": "هویت، شناسنامه و مشخصات",
+    "example": "The police asked to see his passport to check his identity.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ignore",
+    "meaning": "نادیده گرفتن، بی‌توجهی کردن",
+    "example": "He tried to ignore the loud noise outside and keep studying.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "illegal",
+    "meaning": "غیرقانونی",
+    "example": "It is illegal to park your car in front of the hospital entrance.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "imaginary",
+    "meaning": "خیالی، تخیلی، غیرواقعی",
+    "example": "When she was five, she used to play with an imaginary friend.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "immediate",
+    "meaning": "فوری، بی‌درنگ؛ نزدیک",
+    "example": "The patient needed immediate medical attention after the accident.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "immigrant",
+    "meaning": "مهاجر (واردشده به یک کشور)",
+    "example": "My grandfather was an immigrant who moved here for a better job.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "impact",
+    "meaning": "تأثیر، اثر؛ برخورد (اسم)؛ تأثیر گذاشتن (فعل)",
+    "example": "Social media has a huge impact on how young people communicate.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "import",
+    "meaning": "واردات، کالای وارداتی (اسم)؛ وارد کردن (فعل)",
+    "example": "This country imports most of its coffee from South America.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "importance",
+    "meaning": "اهمیت",
+    "example": "The doctor explained the importance of getting enough sleep every night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "impression",
+    "meaning": "برداشت، تأثیر اولیه، احساس",
+    "example": "I wanted to make a good impression at my first job interview.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "impressive",
+    "meaning": "چشمگیر، تحسین‌برانگیز، تأثیرگذار",
+    "example": "She gave an impressive presentation in front of the whole class.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "improvement",
+    "meaning": "بهبود، پیشرفت",
+    "example": "There has been a clear improvement in his English since last year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "incredibly",
+    "meaning": "به‌طور باورنکردنی، فوق‌العاده",
+    "example": "The mountain view from the top was incredibly beautiful.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "indeed",
+    "meaning": "در واقع، به‌راستی، حقیقتاً",
+    "example": "The exam was indeed much harder than we had expected.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "indicate",
+    "meaning": "نشان دادن، اشاره کردن",
+    "example": "Dark clouds usually indicate that a storm is coming soon.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "indirect",
+    "meaning": "غیرمستقیم",
+    "example": "We took an indirect route to avoid the heavy traffic on the highway.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "indoor",
+    "meaning": "سرپوشیده، داخل ساختمان",
+    "example": "The sports center has a large indoor swimming pool.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "indoors",
+    "meaning": "در داخل ساختمان، به داخل",
+    "example": "Because it started to snow, the children stayed indoors all afternoon.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "influence",
+    "meaning": "نفوذ، تأثیر (اسم)؛ تأثیر گذاشتن بر (فعل)",
+    "example": "Parents have a strong influence on their children's habits.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "ماده تشکیل‌دهنده، جزء (در غذا و غیره)",
+    "example": "Fresh tomatoes are the main ingredient in this pasta sauce.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "injure",
+    "meaning": "مجروح کردن، آسیب رساندن",
+    "example": "Be careful not to injure your back when lifting heavy boxes.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "injured",
+    "meaning": "مجروح، زخمی، آسیب‌دیده",
+    "example": "The injured player was carried off the field by two doctors.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "innocent",
+    "meaning": "بی‌گناه، معصوم",
+    "example": "The court decided that the man was completely innocent of the crime.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "intelligence",
+    "meaning": "هوش، ذکاوت؛ اطلاعات امنیتی",
+    "example": "Dolphins are famous for their high level of intelligence.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "intend",
+    "meaning": "قصد داشتن، نیت کردن",
+    "example": "I intend to finish reading this book before the weekend.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "intention",
+    "meaning": "قصد، نیت",
+    "example": "She had no intention of hurting anyone's feelings with her comment.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "invest",
+    "meaning": "سرمایه‌گذاری کردن",
+    "example": "The city plans to invest more money in public transportation.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "investigate",
+    "meaning": "بررسی کردن، تحقیق کردن",
+    "example": "Detectives are still trying to investigate the cause of the fire.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "involved",
+    "meaning": "درگیر، دخیل، مشارکت‌کننده",
+    "example": "Several local schools are involved in the environmental project.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "iron",
+    "meaning": "آهن؛ اتو (اسم)؛ اتو کردن (فعل)",
+    "example": "I need to iron my white shirt before the meeting tomorrow.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "issue",
+    "meaning": "موضوع، مسئله، مشکل؛ شماره مجله",
+    "example": "Air pollution has become a serious issue in many big cities.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "it",
+    "meaning": "فناوری اطلاعات (IT)",
+    "example": "My brother works in the IT department of an international bank.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "journal",
+    "meaning": "مجله علمی/تخصصی؛ دفترچه خاطرات یا گزارش روزانه",
+    "example": "She keeps a travel journal to write down her memories every day.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "judge",
+    "meaning": "قاضی؛ داور (اسم)؛ قضاوت کردن، داوری کردن (فعل)",
+    "example": "You should not judge people only by their appearance.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "keen",
+    "meaning": "مشتاق، علاقه‌مند؛ تیز",
+    "example": "Tom is very keen on photography and takes his camera everywhere.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "key",
+    "meaning": "وارد کردن با صفحه‌کلید، تایپ کردن",
+    "example": "Please key in your password carefully to open the account.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "keyboard",
+    "meaning": "صفحه‌کلید، کیبورد؛ ارگ",
+    "example": "Two letters on my laptop keyboard stopped working this morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "kick",
+    "meaning": "ضربه با پا، لگد (اسم)؛ شوت کردن، لگد زدن (فعل)",
+    "example": "He tried to kick the ball into the corner of the net.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "killing",
+    "meaning": "قتل، کشتار",
+    "example": "The police arrested a suspect in connection with the killing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "kind",
+    "meaning": "مهربان، خوش‌قلب",
+    "example": "It was very kind of you to help me carry those heavy bags.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "kiss",
+    "meaning": "بوسه (اسم)؛ بوسیدن (فعل)",
+    "example": "She gave her little daughter a kiss on the forehead before bedtime.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "knock",
+    "meaning": "در زدن، ضربه",
+    "example": "We heard a loud knock on the front door during dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "label",
+    "meaning": "برچسب، اتیکت (اسم)؛ برچسب زدن، نام‌گذاری کردن (فعل)",
+    "example": "Always read the label on medicine bottles before taking them.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "آزمایشگاه",
+    "example": "The scientists tested the water samples in the university laboratory.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "lack",
+    "meaning": "کمبود، فقدان (اسم)؛ فاقد بودن، کم داشتن (فعل)",
+    "example": "The project failed because of a lack of time and money.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "latest",
+    "meaning": "جدیدترین، آخرین",
+    "example": "Have you heard the latest news about the train strike?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "lay",
+    "meaning": "قرار دادن، گذاشتن؛ پهن کردن؛ تخم گذاشتن",
+    "example": "Please lay the clean plates carefully on the dining table.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "layer",
+    "meaning": "لایه، طبقه",
+    "example": "A thick layer of snow covered the garden by morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "lead",
+    "meaning": "پیشتازی، برتری؛ نقش اول؛ سرنخ؛ سرب",
+    "example": "Our team took the lead in the final ten minutes of the match.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "leading",
+    "meaning": "پیشرو، برجسته، اصلی، مهم‌ترین",
+    "example": "She is a leading expert in renewable energy research.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "leaf",
+    "meaning": "برگ؛ ورق کاغذ",
+    "example": "A yellow leaf fell slowly from the tree onto the path.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "leather",
+    "meaning": "چرم",
+    "example": "He bought a dark brown leather jacket for the winter.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "legal",
+    "meaning": "قانونی، حقوقی",
+    "example": "You should ask for legal advice before signing that contract.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "leisure",
+    "meaning": "اوقات فراغت، آسودگی",
+    "example": "In my leisure time, I enjoy painting and riding my bicycle.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "length",
+    "meaning": "طول، درازا؛ مدت زمان",
+    "example": "We need to measure the length of the room before buying a carpet.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "level",
+    "meaning": "هم‌تراز، صاف، هم‌سطح، برابر",
+    "example": "Make sure the table is completely level so the glasses do not slide.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "lie",
+    "meaning": "دروغ (اسم)؛ دروغ گفتن (فعل)",
+    "example": "It is never a good idea to tell a lie to your close friends.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "like",
+    "meaning": "علاقه، پسند، لایک (در شبکه‌های اجتماعی)",
+    "example": "Her travel photo received more than two hundred likes in an hour.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "limit",
+    "meaning": "حد، محدوده، سقف (اسم)؛ محدود کردن (فعل)",
+    "example": "The speed limit on this quiet street is thirty kilometers per hour.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "lip",
+    "meaning": "لب؛ لبه",
+    "example": "The cold wind made my bottom lip dry and cracked.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "liquid",
+    "meaning": "مایع (صفت/اسم)",
+    "example": "Water turns from a solid into a liquid when the ice melts.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "literature",
+    "meaning": "ادبیات",
+    "example": "She is studying modern English literature at the university.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "live",
+    "meaning": "زنده، به‌صورت زنده و پخش مستقیم (صفت/قید)",
+    "example": "Thousands of fans watched the live concert in the stadium.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "living",
+    "meaning": "زنده، در قید حیات (صفت)؛ معاش، امرار معاش، سبک زندگی (اسم)",
+    "example": "All living things need water and sunlight to survive.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "local",
+    "meaning": "فرد بومی، ساکن محلی",
+    "example": "We asked a friendly local to recommend a good restaurant nearby.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "locate",
+    "meaning": "مکان‌یابی کردن، پیدا کردن موقعیت؛ مستقر کردن",
+    "example": "Rescue teams used helicopters to locate the lost hikers.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "located",
+    "meaning": "واقع‌شده، قرارگرفته",
+    "example": "The hotel is conveniently located right next to the central station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "location",
+    "meaning": "مکان، موقعیت، محل",
+    "example": "The quiet village is an ideal location for a family holiday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "lonely",
+    "meaning": "تنها، احساس تنهایی‌کننده",
+    "example": "He felt lonely during his first month in a new city.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "loss",
+    "meaning": "از دست دادن، فقدان، ضرر، باخت",
+    "example": "The team was very disappointed after their unexpected loss.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "luxury",
+    "meaning": "لوکس، مجلل (صفت)؛ تجمل، کالای لوکس (اسم)",
+    "example": "They stayed at a luxury hotel overlooking the sea.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mad",
+    "meaning": "عصبانی؛ دیوانه؛ شیفته",
+    "example": "My sister was really mad at me for borrowing her bike without asking.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "magic",
+    "meaning": "جادویی، سحرآمیز (صفت)؛ جادو، شعبده‌بازی (اسم)",
+    "example": "The children watched the street performer do amazing magic tricks.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mainly",
+    "meaning": "عمدتاً، بیشتر، به‌طور عمده",
+    "example": "The restaurant serves mainly seafood and fresh salads.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mall",
+    "meaning": "مرکز خرید، پاساژ بزرگ",
+    "example": "Let's meet at the shopping mall at four o'clock this afternoon.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "management",
+    "meaning": "مدیریت؛ هیئت مدیره",
+    "example": "Good time management helps students finish their homework on schedule.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "market",
+    "meaning": "بازاریابی کردن، تبلیغ و عرضه کردن",
+    "example": "The company plans to market its new electric car to young families.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "marketing",
+    "meaning": "بازاریابی",
+    "example": "She has worked in digital marketing for more than four years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "marriage",
+    "meaning": "ازدواج، زندگی زناشویی",
+    "example": "They celebrated twenty-five years of happy marriage with a big dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "در این میان، در همین حال",
+    "example": "I will set the table; meanwhile, you can warm up the soup.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "measure",
+    "meaning": "معیار، اقدام، اندازه (اسم)؛ اندازه‌گیری کردن (فعل)",
+    "example": "Can you measure the width of the window before we buy curtains?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "medium",
+    "meaning": "متوسط، میانه",
+    "example": "I would like a medium cup of coffee with a little milk, please.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mental",
+    "meaning": "ذهنی، روانی، فکری",
+    "example": "Regular exercise is great for both physical and mental health.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mention",
+    "meaning": "اشاره، یادآوری، ذکر",
+    "example": "There was no mention of the schedule change in the email.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mess",
+    "meaning": "به‌هم‌ریختگی، شلوغی، آشفتگی",
+    "example": "Your bedroom is in a terrible mess, so please clean it up.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mild",
+    "meaning": "ملایم، معتدل؛ خفیف",
+    "example": "We had a very mild winter this year with almost no snow.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mine",
+    "meaning": "معدن؛ مین",
+    "example": "Many people in this town used to work in the local coal mine.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mix",
+    "meaning": "مخلوط، ترکیب (اسم)؛ مخلوط کردن، قاطی کردن (فعل)",
+    "example": "Mix the flour and eggs together in a large bowl.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mixture",
+    "meaning": "مخلوط، ترکیب، آمیخته",
+    "example": "The cake is made from a simple mixture of butter, sugar, and flour.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mood",
+    "meaning": "حال‌وهوا، خلق‌وخو، روحیه",
+    "example": "Listening to upbeat music always puts me in a good mood.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "move",
+    "meaning": "حرکت، جابه‌جایی، اسباب‌کشی؛ اقدام",
+    "example": "Leaving his job to start a bakery was a brave move.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mud",
+    "meaning": "گِل، لجن",
+    "example": "Take off your boots because they are covered in mud.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "murder",
+    "meaning": "قتل، آدم‌کشی (اسم)؛ به قتل رساندن (فعل)",
+    "example": "The detective is working hard to solve the murder mystery.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "muscle",
+    "meaning": "ماهیچه، عضله",
+    "example": "You should stretch before running so you do not pull a muscle.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "musical",
+    "meaning": "نمایش یا فیلم موزیکال",
+    "example": "We saw a wonderful musical at the theatre last night.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "mystery",
+    "meaning": "راز، معما",
+    "example": "How the key disappeared remains a complete mystery.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "nail",
+    "meaning": "میخ؛ ناخن",
+    "example": "He used a hammer to push the nail into the wall.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "narrative",
+    "meaning": "روایت، داستان؛ روایی، داستانی",
+    "example": "The novel has a gripping narrative from start to finish.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "nation",
+    "meaning": "ملت، کشور",
+    "example": "The whole nation celebrated the team's victory.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "native",
+    "meaning": "بومی، مادری؛ فرد بومی",
+    "example": "Spanish is her native language.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "naturally",
+    "meaning": "به‌طور طبیعی، طبعاً",
+    "example": "She speaks clearly and naturally in front of a crowd.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "necessarily",
+    "meaning": "لزوماً، حتماً",
+    "example": "Expensive clothes are not necessarily better quality.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "need",
+    "meaning": "نیاز داشتن، لازم بودن (فعل کمکی)",
+    "example": "You needn't worry about the meeting tomorrow.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "needle",
+    "meaning": "سوزن",
+    "example": "She threaded the needle to sew the button back on.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "neighbourhood",
+    "meaning": "محله، همسایگی",
+    "example": "It is a quiet neighbourhood with lots of trees.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "neither",
+    "meaning": "نه، همچنین نه، هیچ‌کدام",
+    "example": "I don't like coffee, and neither does my brother.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "net",
+    "meaning": "تور، شبکه",
+    "example": "The player kicked the ball straight into the net.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "next",
+    "meaning": "نفر بعدی، مورد بعدی",
+    "example": "They moved from one town to the next.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "nor",
+    "meaning": "و نه، نه",
+    "example": "He neither called nor sent a message.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "normal",
+    "meaning": "حالت عادی، وضعیت معمول",
+    "example": "Life is slowly returning to normal after the storm.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "northern",
+    "meaning": "شمالی",
+    "example": "They live in the northern part of the country.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "note",
+    "meaning": "توجه کردن، یادداشت کردن",
+    "example": "Please note that the office closes at five o'clock.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "now",
+    "meaning": "حالا که، از آنجایی که",
+    "example": "Now that you mention it, I remember seeing him earlier.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "هسته‌ای",
+    "example": "The country is debating the future of nuclear energy.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "obvious",
+    "meaning": "آشکار، واضح",
+    "example": "It was obvious that she was very happy with the news.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "obviously",
+    "meaning": "به وضوح، مسلماً",
+    "example": "Obviously, we need to leave early to catch the train.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "occasion",
+    "meaning": "مناسبت، فرصت",
+    "example": "We bought a cake to celebrate the special occasion.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "occur",
+    "meaning": "رخ دادن، اتفاق افتادن",
+    "example": "The accident occurred on a rainy evening.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "odd",
+    "meaning": "عجیب، غیرعادی",
+    "example": "It felt odd to see my old school empty.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "official",
+    "meaning": "رسمی",
+    "example": "We are waiting for an official announcement from the company.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "old-fashioned",
+    "meaning": "قدیمی، از مد افتاده",
+    "example": "My grandfather still prefers old-fashioned watches.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "once",
+    "meaning": "به محض اینکه، وقتی که",
+    "example": "Once you finish your homework, you can go outside.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "operation",
+    "meaning": "عمل جراحی، عملیات",
+    "example": "She recovered quickly after her knee operation.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "organized",
+    "meaning": "منظم، سازمان‌یافته",
+    "example": "He is very organized and always keeps his desk tidy.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "organizer",
+    "meaning": "برگزارکننده، سازمان‌دهنده",
+    "example": "The event organizer welcomed everyone at the entrance.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "original",
+    "meaning": "اصل، نسخه اصلی",
+    "example": "Please keep the original and send me a copy.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "originally",
+    "meaning": "در اصل، اصالتاً",
+    "example": "My family is originally from a small village.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ought",
+    "meaning": "باید، شایسته است",
+    "example": "You ought to apologize for being late.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ours",
+    "meaning": "مال ما",
+    "example": "The green car parked across the street is ours.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "outdoor",
+    "meaning": "فضای باز، بیرونی",
+    "example": "They love outdoor sports like hiking and cycling.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "outdoors",
+    "meaning": "در فضای باز، بیرون از خانه",
+    "example": "The children spent the whole afternoon playing outdoors.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pack",
+    "meaning": "بسته، کوله، دسته",
+    "example": "He carried a heavy pack on his back during the hike.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "package",
+    "meaning": "بسته، محموله",
+    "example": "A package arrived for you in the mail today.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "painful",
+    "meaning": "دردناک",
+    "example": "My ankle is still painful after the fall.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pale",
+    "meaning": "رنگ‌پریده، کمرنگ",
+    "example": "You look pale; are you feeling alright?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pan",
+    "meaning": "ماهیتابه، تابه",
+    "example": "Heat a little oil in a frying pan before adding the onions.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "participate",
+    "meaning": "شرکت کردن، مشارکت داشتن",
+    "example": "All students are encouraged to participate in the competition.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "particularly",
+    "meaning": "به ویژه، به خصوص",
+    "example": "I particularly enjoyed the last chapter of the book.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pass",
+    "meaning": "کارت عبور، بلیت، مجوز",
+    "example": "You need a valid bus pass to travel on this route.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "passion",
+    "meaning": "اشتیاق، علاقه شدید",
+    "example": "She has had a lifelong passion for music.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "path",
+    "meaning": "مسیر، راه باریک",
+    "example": "We followed a narrow path through the forest.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "payment",
+    "meaning": "پرداخت",
+    "example": "You can make your payment online by credit card.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "peaceful",
+    "meaning": "آرام، صلح‌آمیز",
+    "example": "It is always quiet and peaceful by the lake.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "percentage",
+    "meaning": "درصد",
+    "example": "A high percentage of students passed the final exam.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "perfectly",
+    "meaning": "کاملاً، به طور بی‌نقص",
+    "example": "The new jacket fits me perfectly.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "performance",
+    "meaning": "اجرا، نمایش، عملکرد",
+    "example": "Her performance in the play amazed the audience.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "personally",
+    "meaning": "شخصاً، به نظر من",
+    "example": "Personally, I think we should wait until tomorrow.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "persuade",
+    "meaning": "متقاعد کردن، قانع کردن",
+    "example": "He tried to persuade his friend to join the trip.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "photographer",
+    "meaning": "عکاس",
+    "example": "The photographer took wonderful pictures at the wedding.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "photography",
+    "meaning": "عکاسی",
+    "example": "She took a course in digital photography last summer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pin",
+    "meaning": "سنجاق؛ سنجاق زدن",
+    "example": "She used a safety pin to fix her torn sleeve.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pipe",
+    "meaning": "لوله",
+    "example": "Water was leaking from a broken pipe under the sink.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "place",
+    "meaning": "قرار دادن، گذاشتن",
+    "example": "Please place your bags beside the door before entering.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "planning",
+    "meaning": "برنامه‌ریزی",
+    "example": "Careful planning helped the team finish the project on time.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pleasant",
+    "meaning": "دلپذیر، خوشایند",
+    "example": "We had a very pleasant walk along the river this morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pleasure",
+    "meaning": "لذت، خوشحالی",
+    "example": "It was a real pleasure to meet your family yesterday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "plenty",
+    "meaning": "مقدار زیاد، فراوانی",
+    "example": "Don't hurry, as we still have plenty of time before the train leaves.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "plot",
+    "meaning": "طرح داستان، توطئه",
+    "example": "The movie has an exciting plot full of unexpected twists.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "plus",
+    "meaning": "به‌علاوه، به اضافه",
+    "example": "The ticket costs twenty dollars, plus a small booking fee.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "poem",
+    "meaning": "شعر",
+    "example": "He wrote a short poem about the beauty of autumn.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "poet",
+    "meaning": "شاعر",
+    "example": "She has been a well-known poet for over twenty years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "poetry",
+    "meaning": "شعر (هنر سرودن یا مجموعه اشعار)",
+    "example": "Reading classic poetry helps me relax in the evening.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "point",
+    "meaning": "اشاره کردن",
+    "example": "The guide pointed to the oldest building in the square.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "poison",
+    "meaning": "سم؛ مسموم کردن",
+    "example": "Keep all household poison out of reach of young children.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "poisonous",
+    "meaning": "سمی",
+    "example": "Some colorful mushrooms in the forest are dangerously poisonous.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "policy",
+    "meaning": "سیاست، خط‌مشی",
+    "example": "The company has a strict policy against arriving late to work.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "political",
+    "meaning": "سیاسی",
+    "example": "They spent the whole evening discussing the current political situation.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "politician",
+    "meaning": "سیاستمدار",
+    "example": "The young politician promised to improve public schools.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "politics",
+    "meaning": "سیاست",
+    "example": "She rarely talks about politics at family dinners.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "port",
+    "meaning": "بندر",
+    "example": "The cargo ship arrived at the port early in the morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "portrait",
+    "meaning": "پرتره، تک‌چهره",
+    "example": "The artist painted a lifelike portrait of the old king.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "possibly",
+    "meaning": "شاید، احتمالاً، به هر صورت ممکن",
+    "example": "Could you possibly help me carry these heavy boxes upstairs?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pot",
+    "meaning": "قابلمه، گلدان",
+    "example": "She put a large pot of soup on the stove to warm up.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pour",
+    "meaning": "ریختن",
+    "example": "Would you like me to pour you a cup of hot tea?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "poverty",
+    "meaning": "فقر",
+    "example": "Many charities work hard to reduce poverty in rural areas.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "powder",
+    "meaning": "پودر، گرد",
+    "example": "Mix two spoons of cocoa powder into the warm milk.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "powerful",
+    "meaning": "قدرتمند، نیرومند",
+    "example": "The new engine is much more powerful than the old one.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "practical",
+    "meaning": "عملی، کاربردی",
+    "example": "Her advice was very practical and easy to follow.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pray",
+    "meaning": "دعا کردن، نماز خواندن",
+    "example": "People gathered in the quiet hall to pray for peace.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "prayer",
+    "meaning": "دعا، نماز",
+    "example": "She whispered a silent prayer before stepping onto the stage.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "prediction",
+    "meaning": "پیش‌بینی",
+    "example": "His weather prediction for the weekend turned out to be accurate.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "prepared",
+    "meaning": "آماده",
+    "example": "Make sure you are fully prepared for tomorrow's job interview.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "presentation",
+    "meaning": "ارائه، نمایش",
+    "example": "He gave a clear and confident presentation to the clients.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "press",
+    "meaning": "فشار دادن؛ مطبوعات",
+    "example": "Press the green button to start the washing machine.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pressure",
+    "meaning": "فشار",
+    "example": "She works well under pressure.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pretend",
+    "meaning": "وانمود کردن، تظاهر کردن",
+    "example": "He pretended to be asleep when his mother came in.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "previous",
+    "meaning": "قبلی، پیشین",
+    "example": "I preferred the previous version of this app.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "previously",
+    "meaning": "قبلاً، پیش از این",
+    "example": "She had previously worked as a nurse in London.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "priest",
+    "meaning": "کشیش، روحانی",
+    "example": "The priest spoke kindly to everyone in the church.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "primary",
+    "meaning": "اصلی، اولیه، ابتدایی",
+    "example": "Our primary goal is to keep customers safe.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "prince",
+    "meaning": "شاهزاده",
+    "example": "The prince will become king one day.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "princess",
+    "meaning": "شاهدخت، پرنسس",
+    "example": "The princess waved to the crowd from the balcony.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "printing",
+    "meaning": "چاپ، صنعت چاپ",
+    "example": "The invention of printing changed the world.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "prisoner",
+    "meaning": "زندانی",
+    "example": "The prisoner was released after five years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "private",
+    "meaning": "خصوصی، شخصی",
+    "example": "They had a private conversation in the office.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "producer",
+    "meaning": "تهیه‌کننده، تولیدکننده",
+    "example": "She is a well-known film producer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "production",
+    "meaning": "تولید، ساخت",
+    "example": "Car production increased by ten percent this year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "profession",
+    "meaning": "حرفه، شغل",
+    "example": "Teaching is a very rewarding profession.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "profit",
+    "meaning": "سود، منفعت",
+    "example": "The company made a huge profit last year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "program",
+    "meaning": "برنامه‌نویسی کردن، برنامه‌ریزی کردن",
+    "example": "He learned how to program a computer at school.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "promote",
+    "meaning": "تبلیغ کردن، ترویج دادن، ارتقا دادن",
+    "example": "They used social media to promote their new product.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "proper",
+    "meaning": "مناسب، درست، صحیح",
+    "example": "You need the proper tools to fix the bike.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "properly",
+    "meaning": "به‌درستی، به طور صحیح",
+    "example": "Make sure the door is closed properly before you leave.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "property",
+    "meaning": "ملک، دارایی، خاصیت",
+    "example": "This house is private property.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "protest",
+    "meaning": "اعتراض (اسم)؛ اعتراض کردن (فعل)",
+    "example": "Hundreds of workers gathered outside the factory in a peaceful protest against low pay.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "proud",
+    "meaning": "مفتخر، سربلند، مغرور",
+    "example": "Her parents were very proud of her when she won the science prize.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "prove",
+    "meaning": "ثابت کردن، اثبات کردن",
+    "example": "Can you prove that you were at home at the time of the accident?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "pull",
+    "meaning": "کشش، کشیدن",
+    "example": "He gave the heavy door a strong pull, and it finally opened.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "punish",
+    "meaning": "تنبیه کردن، مجازات کردن",
+    "example": "The teacher will punish anyone who cheats during the exam.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "punishment",
+    "meaning": "تنبیه، مجازات",
+    "example": "Cleaning the whole classroom was his punishment for arriving late every day.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "push",
+    "meaning": "هل، فشار، هل دادن",
+    "example": "Give the swing a gentle push so your little brother can go higher.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "qualification",
+    "meaning": "مدرک تحصیلی یا حرفه‌ای، صلاحیت",
+    "example": "You need a teaching qualification before you can apply for this job.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "qualified",
+    "meaning": "واجد شرایط، دارای صلاحیت، متخصص",
+    "example": "She is fully qualified to work as a nurse in any hospital.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "qualify",
+    "meaning": "واجد شرایط شدن، راه یافتن، صلاحیت کسب کردن",
+    "example": "Our national team needs to win one more match to qualify for the finals.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "queue",
+    "meaning": "صف (اسم)؛ در صف ایستادن (فعل)",
+    "example": "We had to wait in a long queue outside the museum for twenty minutes.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "quit",
+    "meaning": "ترک کردن، استعفا دادن، دست کشیدن از",
+    "example": "He decided to quit his stressful job and start his own small business.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "quotation",
+    "meaning": "نقل‌قول؛ برآورد قیمت",
+    "example": "The essay begins with a famous quotation from an ancient poet.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "quote",
+    "meaning": "نقل‌قول (اسم)؛ نقل‌قول کردن، قیمت دادن (فعل)",
+    "example": "You should always quote your sources when you write a research paper.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "racing",
+    "meaning": "مسابقه‌دادن، اتومبیل‌رانی یا اسب‌دوانی مسابقه‌ای",
+    "example": "Motor racing is a popular sport, though it can be quite dangerous.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "range",
+    "meaning": "طیف، دامنه، محدوده، رشته‌کوه",
+    "example": "The shop offers a wide range of fresh fruit and vegetables.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rare",
+    "meaning": "کمیاب، نادر",
+    "example": "It is very rare to see snow in this warm coastal city.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rarely",
+    "meaning": "به ندرت",
+    "example": "Because I live far away, I rarely get to see my grandparents.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reaction",
+    "meaning": "واکنش، عکس‌العمل",
+    "example": "What was your friend's reaction when she heard the good news?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reality",
+    "meaning": "واقعیت، حقیقت",
+    "example": "In reality, learning a new language takes a lot of time and patience.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "receipt",
+    "meaning": "رسید، قبض پرداخت",
+    "example": "Please keep your receipt in case you want to return the shoes.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "recommendation",
+    "meaning": "توصیه، پیشنهاد، معرفی‌نامه",
+    "example": "I bought this novel on the recommendation of my English teacher.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reference",
+    "meaning": "مرجع، ارجاع، معرفی‌نامه",
+    "example": "My former manager agreed to write a reference for my job application.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reflect",
+    "meaning": "منعکس کردن، بازتاب دادن؛ تأمل کردن",
+    "example": "The calm water of the lake reflected the bright stars above.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "regularly",
+    "meaning": "به‌طور منظم، مرتباً",
+    "example": "I try to exercise regularly to stay healthy and full of energy.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reject",
+    "meaning": "رد کردن، نپذیرفتن",
+    "example": "The bank had to reject his loan application because of his low income.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "relate",
+    "meaning": "ارتباط برقرار کردن، درک کردن؛ مربوط بودن",
+    "example": "Many young people can easily relate to the characters in this film.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "related",
+    "meaning": "مرتبط، مربوط؛ خویشاوند",
+    "example": "The police believe the two crimes in the neighbourhood are closely related.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "relation",
+    "meaning": "رابطه، نسبت، خویشاوند",
+    "example": "There is a close relation between regular sleep and good mental health.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "relative",
+    "meaning": "نسبی (صفت)؛ خویشاوند، فامیل (اسم)",
+    "example": "All our relatives gathered at my grandmother's house for the holiday dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "relaxed",
+    "meaning": "آرام، راحت، آسوده‌خاطر",
+    "example": "Everyone felt calm and relaxed after spending the weekend by the sea.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "relaxing",
+    "meaning": "آرامش‌بخش، راحت‌بخش",
+    "example": "Listening to soft music is a very relaxing way to end a busy day.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "release",
+    "meaning": "آزادی، انتشار (اسم)؛ آزاد کردن، منتشر کردن (فعل)",
+    "example": "The band plans to release their new album online next Friday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reliable",
+    "meaning": "قابل اعتماد، مطمئن",
+    "example": "You can trust Sarah with important tasks because she is very reliable.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "religion",
+    "meaning": "دین، مذهب",
+    "example": "People of different religions live and work together peacefully in this city.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "religious",
+    "meaning": "مذهبی، دینی",
+    "example": "They visited several historic religious buildings during their trip to Spain.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "remain",
+    "meaning": "باقی ماندن، ماندن",
+    "example": "Please remain in your seats until the plane comes to a complete stop.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "remind",
+    "meaning": "یادآوری کردن",
+    "example": "Could you remind me to call the dentist tomorrow morning?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "remote",
+    "meaning": "دور، دورافتاده، از راه دور",
+    "example": "They stayed in a remote cabin in the mountains with no internet access.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rent",
+    "meaning": "اجاره (اسم)؛ اجاره کردن، اجاره دادن (فعل)",
+    "example": "Students often rent a small flat together to save money on housing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "repair",
+    "meaning": "تعمیر، مرمت",
+    "example": "The old bridge has been closed for repair since last Tuesday.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "repeat",
+    "meaning": "تکرار، برنامه تکراری",
+    "example": "I watched the comedy episode again even though it was a repeat.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "repeated",
+    "meaning": "مکرر، پی‌درپی، تکرارشده",
+    "example": "Despite repeated warnings from the lifeguard, the boys swam too far out.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "represent",
+    "meaning": "نمایندگی کردن، نشان دادن",
+    "example": "Two students were chosen to represent our school at the national competition.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "request",
+    "meaning": "درخواست کردن، تقاضا کردن",
+    "example": "Guests can request extra towels from the hotel reception desk at any time.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "require",
+    "meaning": "نیاز داشتن، لازم داشتن، ملزم کردن",
+    "example": "This job will require strong communication skills and experience with computers.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "reservation",
+    "meaning": "رزرو، جا گرفتن؛ تردید",
+    "example": "I made a dinner reservation for four people at seven o'clock tonight.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "resource",
+    "meaning": "منبع، سرمایه",
+    "example": "Clean water is a natural resource that we must protect carefully.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "respect",
+    "meaning": "احترام (اسم)؛ احترام گذاشتن (فعل)",
+    "example": "We should always respect the opinions and feelings of other people.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "responsibility",
+    "meaning": "مسئولیت، وظیفه",
+    "example": "Taking care of a pet is a big responsibility for a young child.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "responsible",
+    "meaning": "مسئول، پاسخگو؛ قابل اعتماد",
+    "example": "The manager is responsible for training all new staff in the store.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "result",
+    "meaning": "منجر شدن، نتیجه دادن، ناشی شدن",
+    "example": "Eating too much sugar can result in serious health problems over time.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "retire",
+    "meaning": "بازنشسته شدن",
+    "example": "My father plans to retire at the age of sixty-five and travel more.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "retired",
+    "meaning": "بازنشسته",
+    "example": "My retired neighbours spend most of their mornings working in the garden.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "revise",
+    "meaning": "مرور کردن، بازنگری کردن، اصلاح کردن",
+    "example": "I need to revise my chemistry notes carefully before Friday's test.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rise",
+    "meaning": "افزایش، بالا رفتن، طلوع",
+    "example": "There has been a sudden rise in ticket prices for the summer trains.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "risk",
+    "meaning": "خطر، ریسک (اسم)؛ به خطر انداختن، ریسک کردن (فعل)",
+    "example": "You should never risk your health just to finish a project faster.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "robot",
+    "meaning": "ربات، آدم‌آهنی",
+    "example": "Modern factories use a robot to assemble car parts quickly and accurately.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "roll",
+    "meaning": "رول، نان گرد، فهرست (اسم)؛ غلتیدن، غلتاندن (فعل)",
+    "example": "Watch the ball roll down the hill towards the wooden fence.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "romantic",
+    "meaning": "عاشقانه، رمانتیک",
+    "example": "They had a romantic dinner by candlelight to celebrate their anniversary.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rope",
+    "meaning": "طناب، ریسمان",
+    "example": "The climbers used a thick rope to pull themselves up the steep rock.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rough",
+    "meaning": "زبر، ناهموار، طوفانی، خشن؛ تقریبی",
+    "example": "The sea was too rough for small boats, so the ferry stayed in port.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "row",
+    "meaning": "ردیف، صف؛ دعوا، جنجال",
+    "example": "We bought tickets in the front row so we could see the stage clearly.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "royal",
+    "meaning": "سلطنتی، شاهانه",
+    "example": "The royal family waved to the crowd from the palace balcony.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rugby",
+    "meaning": "راگبی (نوعی ورزش توپی)",
+    "example": "Rugby is a fast team sport played with an oval ball.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "rule",
+    "meaning": "حکومت کردن، فرمانروایی کردن؛ حکم دادن",
+    "example": "The queen ruled the kingdom wisely for more than forty years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "safety",
+    "meaning": "ایمنی، امنیت، سلامت",
+    "example": "Wearing a helmet is essential for your safety when riding a bicycle.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sail",
+    "meaning": "بادبان؛ قایق‌سواری با بادبان",
+    "example": "The white sail of the boat looked bright against the dark blue sea.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sailor",
+    "meaning": "ملوان، دریانورد",
+    "example": "The experienced sailor knew how to steer the ship through the storm.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sample",
+    "meaning": "نمونه، مثال",
+    "example": "The shop assistant gave us a free sample of the new cheese to taste.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sand",
+    "meaning": "شن، ماسه",
+    "example": "The children spent all afternoon building a huge castle out of wet sand.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "scan",
+    "meaning": "اسکن کردن، با دقت بررسی کردن، از نظر گذراندن",
+    "example": "Please scan your passport and email a copy to the travel agency.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "scientific",
+    "meaning": "علمی",
+    "example": "There is strong scientific evidence that regular exercise improves memory.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "script",
+    "meaning": "فیلم‌نامه، نمایش‌نامه؛ دست‌خط، الفبا",
+    "example": "The actors read through the whole script together before filming began.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "مجسمه، تندیس، مجسمه‌سازی",
+    "example": "There is a famous stone sculpture of a horse in the centre of the park.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "secondary",
+    "meaning": "دوم، فرعی؛ متوسطه (دبیرستان)",
+    "example": "Most students in this country start secondary school at the age of eleven.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "security",
+    "meaning": "امنیت، حفاظت، حراست",
+    "example": "Airport security checked everyone's luggage before letting passengers board.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "seed",
+    "meaning": "دانه، بذر، تخم",
+    "example": "Plant each flower seed in a small pot and water it every morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sensible",
+    "meaning": "معقول، عاقل، منطقی",
+    "example": "Bringing a warm jacket to the mountains was a very sensible decision.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "separate",
+    "meaning": "جدا کردن، جدا شدن",
+    "example": "It is best to separate white clothes from dark ones before washing them.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "seriously",
+    "meaning": "به‌طور جدی، سخت، واقعاً",
+    "example": "No one was seriously injured in the minor traffic accident this morning.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "servant",
+    "meaning": "خدمتکار، مستخدم، نوکر",
+    "example": "In the old story, a loyal servant helped the prince escape the castle.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "set",
+    "meaning": "مجموعه، دست، صحنه (اسم)؛ تنظیم کردن، چیدن، غروب کردن (فعل)",
+    "example": "Please set your alarm for six o'clock so we do not miss the early train.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "setting",
+    "meaning": "محیط، صحنه، مکان و زمان داستان؛ تنظیمات",
+    "example": "The quiet mountain village provided a lovely setting for the film.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sex",
+    "meaning": "جنس، جنسیت؛ رابطه جنسی",
+    "example": "Please write your name, age, and sex on the medical registration form.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sexual",
+    "meaning": "جنسی",
+    "example": "The health clinic offers clear advice about sexual health to young adults.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shake",
+    "meaning": "تکان، لرزش",
+    "example": "Give the bottle of orange juice a good shake before you pour it.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "share",
+    "meaning": "سهم، بخش، سهام",
+    "example": "Everyone received an equal share of the prize money at the end.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sharp",
+    "meaning": "تیز، برنده؛ تند، ناگهانی، دقیق",
+    "example": "Be careful when cutting bread with that very sharp kitchen knife.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shelf",
+    "meaning": "قفسه، طاقچه",
+    "example": "Could you put the dictionary back on the top shelf when you finish?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shell",
+    "meaning": "صدف، پوسته، گلوله توپ",
+    "example": "My daughter found a pretty pink shell while walking along the beach.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shift",
+    "meaning": "شیفت کاری، نوبت؛ تغییر، جابه‌جایی",
+    "example": "My brother works the night shift at the hospital three days a week.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shine",
+    "meaning": "درخشیدن، تابیدن، برق زدن",
+    "example": "The sun began to shine brightly after the heavy morning rain stopped.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shiny",
+    "meaning": "براق، درخشان",
+    "example": "She polished her black leather shoes until they looked clean and shiny.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shoot",
+    "meaning": "شلیک کردن، شوت کردن، فیلم‌برداری کردن",
+    "example": "In basketball, players try to shoot the ball through the high hoop.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "shy",
+    "meaning": "خجالتی، کمرو",
+    "example": "He used to be very shy about speaking English in front of the class.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sight",
+    "meaning": "منظره، دید، بینایی",
+    "example": "The snow-covered mountains at sunrise were an unforgettable sight.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "signal",
+    "meaning": "علامت، نشانه، سیگنال (اسم)؛ علامت دادن (فعل)",
+    "example": "The driver gave a hand signal before turning left onto the main road.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "silent",
+    "meaning": "ساکت، بی‌صدا، خاموش",
+    "example": "The library was completely silent while students prepared for their exams.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "silly",
+    "meaning": "احمقانه، مسخره، بی‌معنی",
+    "example": "Don't feel silly for asking questions when you are learning something new.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "similarity",
+    "meaning": "شباهت، همانندی",
+    "example": "There is a strong similarity between the two sisters, especially when they smile.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "similarly",
+    "meaning": "به همین ترتیب، به‌طور مشابه",
+    "example": "Prices rose sharply last year, and similarly, rents became much higher.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "simply",
+    "meaning": "به سادگی، فقط، صرفاً",
+    "example": "You don't need a special ticket; you can simply pay when you get on the bus.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "since",
+    "meaning": "از آن زمان تاکنون، از آن موقع به بعد",
+    "example": "She left our hometown five years ago and has not visited once since.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sink",
+    "meaning": "غرق شدن، فرو رفتن، پایین رفتن",
+    "example": "Heavy metal objects sink quickly if you drop them into deep water.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "slice",
+    "meaning": "برش، تکه نازک (اسم)؛ برش زدن، ورقه‌ورقه کردن (فعل)",
+    "example": "Would you like another slice of warm apple pie with your tea?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "slightly",
+    "meaning": "کمی، اندکی، قدری",
+    "example": "The weather is slightly warmer today than it was earlier this week.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "slow",
+    "meaning": "آهسته کردن، کند شدن، سرعت کم کردن",
+    "example": "The train began to slow as it approached the busy central station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "smart",
+    "meaning": "باهوش، زیرک؛ شیک و مرتب، هوشمند",
+    "example": "She is smart enough to solve difficult puzzles, and she always looks smart at work.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "smooth",
+    "meaning": "صاف، هموار، نرم، روان",
+    "example": "The wooden table has a smooth surface after being carefully sanded and painted.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "software",
+    "meaning": "نرم‌افزار",
+    "example": "We need to update the software on our laptops.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "soil",
+    "meaning": "خاک",
+    "example": "These flowers grow best in rich, moist soil.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "solid",
+    "meaning": "جامد، محکم، استوار",
+    "example": "Ice is the solid form of water.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sort",
+    "meaning": "مرتب کردن، دسته‌بندی کردن",
+    "example": "Please sort the papers by date.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "southern",
+    "meaning": "جنوبی",
+    "example": "They live in the southern part of the country.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "specifically",
+    "meaning": "به‌طور خاص، مشخصاً",
+    "example": "This course is designed specifically for beginners.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "spending",
+    "meaning": "هزینه، مخارج، خرج کردن",
+    "example": "The government plans to cut public spending.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "spicy",
+    "meaning": "تند، پرادویه",
+    "example": "I love spicy food with lots of chili.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "spirit",
+    "meaning": "روح، روحیه",
+    "example": "The team showed great fighting spirit during the match.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "spoken",
+    "meaning": "گفتاری، شفاهی",
+    "example": "Her spoken English is much better than her written English.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "spot",
+    "meaning": "لکه، نقطه، محل",
+    "example": "There is a small ink spot on your shirt.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "spread",
+    "meaning": "پخش کردن، گسترش دادن، مالیدن",
+    "example": "She spread butter on a slice of warm bread.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "stadium",
+    "meaning": "ورزشگاه، استادیوم",
+    "example": "Thousands of fans filled the stadium before kickoff.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "staff",
+    "meaning": "کارکنان، پرسنل",
+    "example": "The hotel staff were very friendly and helpful.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "standard",
+    "meaning": "استاندارد، معیار",
+    "example": "The company maintains a very high standard of service.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "state",
+    "meaning": "دولتی، رسمی؛ بیان کردن، اظهار داشتن",
+    "example": "Please state your full name and address on the form.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "statistic",
+    "meaning": "آمار، رقم آماری",
+    "example": "That statistic shows how many people use public transport.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "statue",
+    "meaning": "مجسمه، تندیس",
+    "example": "There is a famous marble statue in the center of the square.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "stick",
+    "meaning": "چوب، ترکه؛ چسبیدن، چسباندن",
+    "example": "The wet leaves stick to the bottom of my shoes.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "still",
+    "meaning": "بی‌حرکت، ساکن، آرام",
+    "example": "Please stand still while I take your photograph.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "store",
+    "meaning": "ذخیره کردن، انبار کردن، نگه داشتن",
+    "example": "We store our winter clothes in boxes under the bed.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "stranger",
+    "meaning": "غریبه، ناشناس",
+    "example": "A friendly stranger helped me find the train station.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "strength",
+    "meaning": "قدرت، نیرو، توان",
+    "example": "It took a lot of strength to lift the heavy table.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "string",
+    "meaning": "نخ، ریسمان؛ سیم ساز",
+    "example": "She tied the package tightly with a piece of string.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "strongly",
+    "meaning": "به شدت، قویاً، جداً",
+    "example": "I strongly recommend reading the instructions before you start.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "studio",
+    "meaning": "استودیو، کارگاه هنری یا عکاسی",
+    "example": "The band recorded their new album in a London studio.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "stuff",
+    "meaning": "وسایل، چیزها، خرت‌وپرت",
+    "example": "Put all your stuff in the back of the car.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "substance",
+    "meaning": "ماده، جسم",
+    "example": "The lab tested the unknown substance found in the water.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "successfully",
+    "meaning": "با موفقیت، به طور موفقیت‌آمیز",
+    "example": "She successfully completed her driving test on the first try.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "sudden",
+    "meaning": "ناگهانی، غیرمنتظره",
+    "example": "Everyone was surprised by the sudden change in the weather.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "suffer",
+    "meaning": "رنج بردن، دچار شدن، آسیب دیدن",
+    "example": "Many local businesses suffer when tourism drops.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "suit",
+    "meaning": "مناسب بودن، به کسی آمدن",
+    "example": "That dark blue coat really suits you.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "suitable",
+    "meaning": "مناسب، شایسته، درخور",
+    "example": "These shoes are not suitable for hiking in the mountains.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "summarize",
+    "meaning": "خلاصه کردن",
+    "example": "Can you summarize the main points of the article in three sentences?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "summary",
+    "meaning": "خلاصه، چکیده",
+    "example": "The report ends with a brief summary of the results.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "supply",
+    "meaning": "عرضه، ذخیره؛ تأمین کردن، فراهم کردن",
+    "example": "Local farms supply fresh vegetables to restaurants in the city.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "supporter",
+    "meaning": "حامی، طرفدار، هوادار",
+    "example": "He has been a loyal supporter of the football club for years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "surely",
+    "meaning": "مطمئناً، حتماً، بی‌شک",
+    "example": "Surely you don't expect me to believe that story!",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "surface",
+    "meaning": "سطح، رویه",
+    "example": "Wipe the kitchen surface with a clean, damp cloth.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "survive",
+    "meaning": "زنده ماندن، جان سالم به در بردن، دوام آوردن",
+    "example": "Only a few plants can survive in such dry conditions.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "swim",
+    "meaning": "شنا، آب‌تنی",
+    "example": "Let's go for a quick swim before dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "switch",
+    "meaning": "عوض کردن، تغییر دادن؛ روشن یا خاموش کردن",
+    "example": "We decided to switch to a cheaper internet provider.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "symptom",
+    "meaning": "علامت، نشانه (بیماری)",
+    "example": "A sore throat is often the first symptom of a cold.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tail",
+    "meaning": "دم",
+    "example": "The happy dog wagged its tail when we came home.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "talent",
+    "meaning": "استعداد، قریحه",
+    "example": "She showed a natural talent for painting at an early age.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "talented",
+    "meaning": "بااستعداد، مستعد",
+    "example": "He is a very talented musician who plays three instruments.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tape",
+    "meaning": "نوار (چسب، ضبط، اندازه‌گیری)",
+    "example": "Use sticky tape to hang the poster on the wall.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tax",
+    "meaning": "مالیات؛ مالیات بستن",
+    "example": "Higher taxes on fuel made driving more expensive.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "technical",
+    "meaning": "فنی، تخصصی",
+    "example": "We called customer support because of a technical problem.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "technique",
+    "meaning": "تکنیک، روش، شیوه",
+    "example": "The chef taught us a simple technique for chopping onions quickly.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tend",
+    "meaning": "تمایل داشتن، گرایش داشتن، رسیدگی کردن",
+    "example": "People tend to eat more during the winter.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tent",
+    "meaning": "چادر (مسافرتی)",
+    "example": "We put up our tent near the river.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "that",
+    "meaning": "به آن اندازه، آنقدر",
+    "example": "The movie wasn't that good.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "theirs",
+    "meaning": "مالِ آن‌ها",
+    "example": "Our house is smaller than theirs.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "theme",
+    "meaning": "موضوع اصلی، مضمون، تم",
+    "example": "The main theme of the book is friendship.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "theory",
+    "meaning": "نظریه، تئوری",
+    "example": "Scientists are testing a new theory about sleep.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "therefore",
+    "meaning": "بنابراین، از این رو",
+    "example": "He was injured and therefore could not play.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "this",
+    "meaning": "به این اندازه، اینقدر",
+    "example": "I didn't expect the bag to be this heavy.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "though",
+    "meaning": "هرچند، با این حال، اگرچه",
+    "example": "She decided to go, though it was raining.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "throat",
+    "meaning": "گلو، حلق",
+    "example": "I have a sore throat and a mild fever.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "throughout",
+    "meaning": "در سرتاسر، در تمام مدت",
+    "example": "The museum is open throughout the year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tight",
+    "meaning": "تنگ، سفت، محکم",
+    "example": "These shoes are too tight for me.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "till",
+    "meaning": "تا، تا زمانی که",
+    "example": "Please wait here till I get back.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tin",
+    "meaning": "قلع، قوطی فلزی (کنسرو)",
+    "example": "She opened a tin of soup for lunch.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tiny",
+    "meaning": "بسیار کوچک، ریز",
+    "example": "A tiny bird landed on the windowsill.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tip",
+    "meaning": "انعام دادن، کج کردن، واژگون شدن",
+    "example": "Don't forget to tip the waiter after dinner.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "toe",
+    "meaning": "انگشت پا",
+    "example": "I accidentally hit my toe on the table leg.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tongue",
+    "meaning": "زبان (اندام، گفتار)",
+    "example": "Be careful not to burn your tongue on the hot tea.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "total",
+    "meaning": "کل، مجموع، کامل",
+    "example": "The total cost of the trip was lower than expected.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "totally",
+    "meaning": "کاملاً، به‌طور کامل",
+    "example": "I totally agree with your decision.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "touch",
+    "meaning": "لمس، تماس، مقدار اندک",
+    "example": "I felt a gentle touch on my shoulder.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tour",
+    "meaning": "گردش کردن، تور گذاشتن، بازدید کردن از",
+    "example": "The band will tour Europe next summer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "trade",
+    "meaning": "تجارت، معامله؛ تجارت کردن، مبادله کردن",
+    "example": "International trade helps countries grow their economies.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "translate",
+    "meaning": "ترجمه کردن",
+    "example": "Can you translate this letter into English?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "translation",
+    "meaning": "ترجمه",
+    "example": "The English translation of the novel is very popular.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "transport",
+    "meaning": "حمل‌ونقل کردن، جابه‌جا کردن",
+    "example": "Trucks are used to transport goods across the country.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "treat",
+    "meaning": "رفتار کردن، درمان کردن، مهمان کردن",
+    "example": "Doctors treat patients with care and respect.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "treatment",
+    "meaning": "درمان، رفتار، معالجه",
+    "example": "The new treatment helped him recover quickly.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "trend",
+    "meaning": "روند، گرایش، مد روز",
+    "example": "Remote work has become a major trend in recent years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "trick",
+    "meaning": "حیله، ترفند، شعبده؛ گول زدن، فریب دادن",
+    "example": "He showed us a clever card trick.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "truth",
+    "meaning": "حقیقت، راستی",
+    "example": "It is always best to tell the truth.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tube",
+    "meaning": "لوله، تیوپ",
+    "example": "Squeeze a little toothpaste from the tube.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "type",
+    "meaning": "تایپ کردن",
+    "example": "She can type sixty words per minute.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "typically",
+    "meaning": "معمولاً، به طور معمول",
+    "example": "The course typically lasts six months.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "tyre",
+    "meaning": "لاستیک (چرخ)",
+    "example": "We had to change a flat tyre on the highway.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "ugly",
+    "meaning": "زشت، نازیبا",
+    "example": "That old building looks really ugly next to the park.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unable",
+    "meaning": "ناتوان، عاجز",
+    "example": "She was unable to attend the meeting because of the rain.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "uncomfortable",
+    "meaning": "ناراحت، معذب",
+    "example": "These new shoes are very uncomfortable for walking.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "underwear",
+    "meaning": "لباس زیر",
+    "example": "Pack some clean socks and underwear for the trip.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unemployed",
+    "meaning": "بیکار",
+    "example": "He has been unemployed since the factory closed last year.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unemployment",
+    "meaning": "بیکاری",
+    "example": "Youth unemployment is a serious problem in many cities.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unfair",
+    "meaning": "ناعادلانه، غیرمنصفانه",
+    "example": "It is unfair to blame him for someone else's mistake.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "union",
+    "meaning": "اتحادیه، اتحاد",
+    "example": "The workers formed a union to ask for better pay.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unless",
+    "meaning": "مگر اینکه",
+    "example": "We won't go to the beach unless the weather gets warmer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unlike",
+    "meaning": "برخلاف",
+    "example": "Unlike her sister, Maya enjoys waking up early.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unlikely",
+    "meaning": "بعید، غیرمحتمل",
+    "example": "It is unlikely that the train will arrive on time in this storm.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unnecessary",
+    "meaning": "غیرضروری",
+    "example": "Try to remove unnecessary details from your report.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "unpleasant",
+    "meaning": "ناخوشایند",
+    "example": "There was an unpleasant smell coming from the kitchen.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "update",
+    "meaning": "به‌روزرسانی، به‌روز کردن",
+    "example": "Please update your phone to install the latest security fixes.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "upon",
+    "meaning": "بر روی، به محض",
+    "example": "Upon arriving at the hotel, we checked in right away.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "upset",
+    "meaning": "ناراحت، ناراحت کردن",
+    "example": "She felt upset when she heard the bad news.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "used",
+    "meaning": "دست‌دوم، کارکرده",
+    "example": "He bought a used car to save money.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "valuable",
+    "meaning": "ارزشمند، گران‌بها",
+    "example": "Keep your passport and other valuable items in the hotel safe.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "value",
+    "meaning": "ارزش، بها",
+    "example": "The value of this painting has increased over the years.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "various",
+    "meaning": "گوناگون، مختلف",
+    "example": "The shop sells fresh fruit of various kinds.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "version",
+    "meaning": "نسخه، روایت",
+    "example": "You should download the newest version of this app.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "victim",
+    "meaning": "قربانی",
+    "example": "The police spoke to the victim of the robbery.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "view",
+    "meaning": "مشاهده کردن، نگریستن",
+    "example": "You can view all your recent messages in this folder.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "viewer",
+    "meaning": "بیننده، تماشاگر",
+    "example": "The documentary attracted millions of viewers around the world.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "violent",
+    "meaning": "خشن، شدید",
+    "example": "The violent storm knocked down several trees on our street.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "volunteer",
+    "meaning": "داوطلب؛ داوطلب شدن",
+    "example": "She decided to volunteer at a local hospital during the summer.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "vote",
+    "meaning": "رأی؛ رأی دادن",
+    "example": "Every citizen over eighteen has the right to vote in the election.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "warm",
+    "meaning": "گرم کردن، گرم شدن",
+    "example": "Let's sit by the fire to warm our hands.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "warn",
+    "meaning": "هشدار دادن، اخطار دادن",
+    "example": "The sign is there to warn drivers about the sharp turn ahead.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "warning",
+    "meaning": "هشدار، اخطار",
+    "example": "He ignored the warning and swam too far from the beach.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "waste",
+    "meaning": "بیهوده، اضافی؛ اتلاف، زباله؛ هدر دادن، تلف کردن",
+    "example": "Don't waste your time worrying about things you cannot change.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "water",
+    "meaning": "آب دادن، آبیاری کردن",
+    "example": "Could you water my plants while I am away on holiday?",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "wave",
+    "meaning": "دست تکان دادن، تکان دادن؛ موج زدن",
+    "example": "I always wave to my neighbors when I walk past their house.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "weapon",
+    "meaning": "سلاح، اسلحه",
+    "example": "The police officer told the man to drop his weapon immediately.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "weigh",
+    "meaning": "وزن کردن، کشیدن؛ وزن داشتن",
+    "example": "You should weigh your suitcase at home before going to the airport.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "western",
+    "meaning": "غربی",
+    "example": "They traveled across the western part of the country by train.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "whatever",
+    "meaning": "هرچه، هر چیزی که، هرکدام",
+    "example": "You can order whatever you want from the menu.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "whenever",
+    "meaning": "هر وقت که، هر زمان که",
+    "example": "Feel free to call me whenever you need some help.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "whether",
+    "meaning": "آیا، چه... چه...",
+    "example": "I don't know whether she will come to the meeting or not.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "while",
+    "meaning": "مدت، مدتی، لحظه",
+    "example": "Let's sit down and rest for a while before continuing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "whole",
+    "meaning": "کل، تمام، مجموعه",
+    "example": "We need to look at the problem as a whole.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "will",
+    "meaning": "اراده، خواست؛ وصیت‌نامه",
+    "example": "With strong will and hard work, you can reach your goals.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "win",
+    "meaning": "برد، پیروزی",
+    "example": "That was an important win for our team after three losses.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "wing",
+    "meaning": "بال؛ جناح (ساختمان)",
+    "example": "The bird couldn't fly because it had an injured wing.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "within",
+    "meaning": "در عرضِ، ظرفِ؛ در محدودهٔ، داخلِ",
+    "example": "Please reply to this email within three working days.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "wonder",
+    "meaning": "شگفتی، حیرت؛ کنجکاو بودن، تعجب کردن",
+    "example": "I wonder if it will rain later this afternoon.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "wool",
+    "meaning": "پشم، نخ پشمی",
+    "example": "This warm winter coat is made of pure wool.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "worldwide",
+    "meaning": "جهانی، سراسری؛ در سراسر جهان",
+    "example": "The new movie became a huge success worldwide.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "worry",
+    "meaning": "نگرانی، دلواپسی",
+    "example": "Money is a constant worry for many young families.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "worse",
+    "meaning": "بدتر",
+    "example": "She performed much worse in the second race than in the first.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "worst",
+    "meaning": "بدتر از همه، به بدترین شکل",
+    "example": "Of all the subjects, I did worst in chemistry.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "worth",
+    "meaning": "ارزش داشتن، ارزشمند، به ارزشِ",
+    "example": "The museum is definitely worth visiting if you have time.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "written",
+    "meaning": "کتبی، نوشته‌شده",
+    "example": "You must pass both the written test and the driving test.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "wrong",
+    "meaning": "اشتباه، نادرست، به خطا",
+    "example": "If you spell a password wrong, the system won't let you in.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "yard",
+    "meaning": "حیاط؛ یارد (واحد طول)",
+    "example": "The children were playing soccer in the back yard.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "young",
+    "meaning": "جوانان، افراد جوان؛ بچه‌های حیوانات",
+    "example": "This program creates new job opportunities for the young.",
+    "category": "Oxford B1"
+  },
+  {
+    "word": "youth",
+    "meaning": "جوانی، دوران جوانی؛ جوان، جوانان",
+    "example": "He spent most of his youth living in a small coastal town.",
+    "category": "Oxford B1"
+  }
+]

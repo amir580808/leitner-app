@@ -1,4 +1,4 @@
-const CACHE_NAME = 'leitner-7level-v2';
+const CACHE_NAME = 'leitner-7level-v3';
 const ASSETS = [
   './',
   './index.html',
@@ -6,6 +6,10 @@ const ASSETS = [
   './app.js',
   './manifest.json',
   './oxford-a1.json',
+  './oxford-a2.json',
+  './oxford-b1.json',
+  './oxford-b2.json',
+  './oxford-c1.json',
   './icons/icon-180.png',
   './icons/icon-192.png',
   './icons/icon-512.png',

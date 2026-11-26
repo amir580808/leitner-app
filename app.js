@@ -33,7 +33,15 @@
     7: 'تسلط (۶۰ روز)'
   };
 
-  const DEFAULT_CATEGORIES = ['Oxford A1', 'Oxford Word Skills', 'لغات مهم'];
+  const DEFAULT_CATEGORIES = [
+    'Oxford A1',
+    'Oxford A2',
+    'Oxford B1',
+    'Oxford B2',
+    'Oxford C1',
+    'Oxford Word Skills',
+    'لغات مهم'
+  ];
 
   const SAMPLE_OXFORD_WORDS = [
     {
@@ -77,6 +85,7 @@
   let reviewIndex = 0;
   let reviewTotal = 0;
   let unknownInSession = 0;
+  let manageRenderLimit = 100;
   let toastTimer = null;
 
   // DOM Elements
@@ -440,7 +449,7 @@
       return;
     }
 
-    listEl.innerHTML = filtered.map((card) => {
+    listEl.innerHTML = filtered.slice(0, manageRenderLimit).map((card) => {
       const reviewInfo = formatNextReview(card.nextReview);
       const isMastered = Number(card.level) === 7;
       return `
@@ -470,7 +479,9 @@
           </div>
         </article>
       `;
-    }).join('');
+    }).join('') + (filtered.length > manageRenderLimit
+      ? `<button type="button" class="btn btn-secondary btn-block" id="loadMoreWordsBtn">نمایش بیشتر (${toPersianDigits(filtered.length - manageRenderLimit)} مورد باقی‌مانده)</button>`
+      : '');
   }
 
   // Add / Edit Modal
@@ -831,11 +842,16 @@
 
     $('wordForm').addEventListener('submit', handleWordFormSubmit);
 
-    $('searchInput').addEventListener('input', renderManageView);
-    $('filterLevelSelect').addEventListener('change', renderManageView);
-    $('filterCategorySelect').addEventListener('change', renderManageView);
+    $('searchInput').addEventListener('input', () => { manageRenderLimit = 100; renderManageView(); });
+    $('filterLevelSelect').addEventListener('change', () => { manageRenderLimit = 100; renderManageView(); });
+    $('filterCategorySelect').addEventListener('change', () => { manageRenderLimit = 100; renderManageView(); });
 
     $('wordsList').addEventListener('click', (e) => {
+      if (e.target.closest('#loadMoreWordsBtn')) {
+        manageRenderLimit += 100;
+        renderManageView();
+        return;
+      }
       const speakBtn = e.target.closest('.speak-item-btn');
       const editBtn = e.target.closest('.edit-item-btn');
       const deleteBtn = e.target.closest('.delete-item-btn');
@@ -862,8 +878,16 @@
     $('exportCsvBtn').addEventListener('click', exportCSV);
     $('importFileInput').addEventListener('change', handleImportFile);
 
-    $('loadOxfordA1Btn').addEventListener('click', () => {
-      loadOxfordA1Pack(false);
+    document.querySelectorAll('.oxford-pack-btn').forEach((btn) => {
+      btn.addEventListener('click', () => loadOxfordPack(btn.dataset.level, false));
+    });
+
+    $('loadAllOxfordBtn').addEventListener('click', async () => {
+      showToast('در حال بارگذاری تمام سطوح Oxford...');
+      for (const lvl of ['a1', 'a2', 'b1', 'b2', 'c1']) {
+        await loadOxfordPack(lvl, true);
+      }
+      showToast('تمام سطوح Oxford (A1 تا C1) به برنامه اضافه شدند.');
     });
 
     $('restoreSamplesBtn').addEventListener('click', () => {
@@ -892,17 +916,19 @@
     });
   }
 
-  async function loadOxfordA1Pack(silent = false) {
+  async function loadOxfordPack(level, silent = false) {
     try {
-      const res = await fetch('./oxford-a1.json');
-      if (!res.ok) throw new Error('Failed to fetch oxford-a1.json');
+      const res = await fetch(`./oxford-${level}.json`);
+      if (!res.ok) throw new Error(`Failed to fetch oxford-${level}.json`);
       const items = await res.json();
       if (!Array.isArray(items) || !items.length) return;
       importItems(items);
-      localStorage.setItem(STORAGE_KEYS.A1_LOADED, 'true');
+      if (level === 'a1') {
+        localStorage.setItem(STORAGE_KEYS.A1_LOADED, 'true');
+      }
     } catch {
       if (!silent) {
-        showToast('خطا در بارگذاری بسته Oxford A1.');
+        showToast(`خطا در بارگذاری بسته Oxford ${level.toUpperCase()}.`);
       }
     }
   }
@@ -921,6 +947,6 @@
   renderDashboard();
   registerServiceWorker();
   if (!localStorage.getItem(STORAGE_KEYS.A1_LOADED)) {
-    loadOxfordA1Pack(true);
+    loadOxfordPack('a1', true);
   }
 })();
