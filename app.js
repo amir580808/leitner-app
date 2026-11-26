@@ -7,8 +7,12 @@
     INITIALIZED: 'leitner_initialized_v1',
     A1_LOADED: 'leitner_a1_loaded_v1',
     THEME: 'leitner_theme_v1',
-    ACCENT: 'leitner_accent_v1'
+    ACCENT: 'leitner_accent_v1',
+    STATS: 'leitner_stats_v1',
+    AUTO_SPEAK: 'leitner_autospeak_v1'
   };
+
+  const DAILY_GOAL = 20;
 
   const DAY_MS = 24 * 60 * 60 * 1000;
 
@@ -80,12 +84,15 @@
   let cards = [];
   let categories = [];
   let currentAccent = 'en-US';
+  let autoSpeak = false;
+  let selectedReviewCategory = 'all';
   let currentView = 'dashboard';
   let reviewQueue = [];
   let reviewIndex = 0;
   let reviewTotal = 0;
   let unknownInSession = 0;
   let manageRenderLimit = 100;
+  let studyStats = null;
   let toastTimer = null;
 
   // DOM Elements
@@ -167,6 +174,14 @@
     // Accent
     const savedAccent = localStorage.getItem(STORAGE_KEYS.ACCENT);
     applyAccent(savedAccent === 'en-GB' ? 'en-GB' : 'en-US');
+
+    // Auto-speak
+    autoSpeak = localStorage.getItem(STORAGE_KEYS.AUTO_SPEAK) === 'true';
+    const autoSpeakEl = $('autoSpeakToggle');
+    if (autoSpeakEl) autoSpeakEl.checked = autoSpeak;
+
+    // Study Stats
+    loadStats();
   }
 
   function saveState() {
@@ -265,8 +280,131 @@
   }
 
   // Dashboard Rendering
+  function getTodayKey() {
+    const d = new Date();
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return `${y}-${m}-${day}`;
+  }
+
+  function getYesterdayKey() {
+    const d = new Date(Date.now() - DAY_MS);
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return `${y}-${m}-${day}`;
+  }
+
+  function loadStats() {
+    const today = getTodayKey();
+    const yesterday = getYesterdayKey();
+    try {
+      const saved = JSON.parse(localStorage.getItem(STORAGE_KEYS.STATS) || 'null');
+      if (saved && saved.date === today) {
+        studyStats = saved;
+      } else if (saved) {
+        const continued = saved.lastActiveDate === yesterday || saved.lastActiveDate === today;
+        studyStats = {
+          date: today,
+          secondsToday: 0,
+          reviewedToday: 0,
+          knownToday: 0,
+          streakDays: continued ? Math.max(1, Number(saved.streakDays) || 1) : 1,
+          lastActiveDate: today
+        };
+      } else {
+        studyStats = {
+          date: today,
+          secondsToday: 0,
+          reviewedToday: 0,
+          knownToday: 0,
+          streakDays: 1,
+          lastActiveDate: today
+        };
+      }
+    } catch {
+      studyStats = {
+        date: today,
+        secondsToday: 0,
+        reviewedToday: 0,
+        knownToday: 0,
+        streakDays: 1,
+        lastActiveDate: today
+      };
+    }
+    saveStats();
+  }
+
+  function saveStats() {
+    if (!studyStats) return;
+    localStorage.setItem(STORAGE_KEYS.STATS, JSON.stringify(studyStats));
+  }
+
+  function formatStudyTime(totalSeconds) {
+    const s = Math.max(0, Math.floor(totalSeconds));
+    if (s < 60) return `${toPersianDigits(s)} ثانیه`;
+    const mins = Math.floor(s / 60);
+    if (mins < 60) return `${toPersianDigits(mins)} دقیقه`;
+    const hrs = Math.floor(mins / 60);
+    const remMins = mins % 60;
+    return remMins > 0
+      ? `${toPersianDigits(hrs)} ساعت و ${toPersianDigits(remMins)} دقیقه`
+      : `${toPersianDigits(hrs)} ساعت`;
+  }
+
+  function updateStudyTimeUI() {
+    if (!studyStats) return;
+    const el = $('studyTimeDisplay');
+    if (el) el.textContent = formatStudyTime(studyStats.secondsToday);
+  }
+
+  function recordReviewStat(known) {
+    const today = getTodayKey();
+    if (!studyStats || studyStats.date !== today) loadStats();
+    studyStats.reviewedToday += 1;
+    if (known) studyStats.knownToday += 1;
+    studyStats.lastActiveDate = today;
+    saveStats();
+  }
+
+  function renderCefrGrid() {
+    const cefrGrid = $('cefrGrid');
+    if (!cefrGrid) return;
+    const levels = [
+      { key: 'a1', cat: 'Oxford A1', title: 'مبتدی (A1)' },
+      { key: 'a2', cat: 'Oxford A2', title: 'مقدماتی (A2)' },
+      { key: 'b1', cat: 'Oxford B1', title: 'متوسط (B1)' },
+      { key: 'b2', cat: 'Oxford B2', title: 'بالاتر از متوسط (B2)' },
+      { key: 'c1', cat: 'Oxford C1', title: 'پیشرفته (C1)' }
+    ];
+
+    cefrGrid.innerHTML = levels.map((lvl) => {
+      const catCards = cards.filter((c) => c.category === lvl.cat);
+      const total = catCards.length;
+      const mastered = catCards.filter((c) => Number(c.level) === 7).length;
+      const pct = total > 0 ? Math.round((mastered / total) * 100) : 0;
+      return `
+        <button type="button" class="cefr-card" data-cat="${lvl.cat}">
+          <div class="cefr-card-top">
+            <span class="cefr-badge" data-cefr="${lvl.key}">${lvl.key.toUpperCase()}</span>
+            <span class="cefr-count">${toPersianDigits(total)} لغت</span>
+          </div>
+          <div class="cefr-progress-track">
+            <div class="cefr-progress-fill" style="width: ${pct}%"></div>
+          </div>
+          <span class="cefr-sub">${lvl.title} • ${toPersianDigits(mastered)} تسلط</span>
+        </button>
+      `;
+    }).join('');
+  }
+
   function renderDashboard() {
-    const dueCards = getDueCards();
+    const allDueCards = getDueCards();
+    const dueCards = selectedReviewCategory === 'all'
+      ? allDueCards
+      : allDueCards.filter((c) => c.category === selectedReviewCategory);
+
     const dueCount = dueCards.length;
     const totalCount = cards.length;
     const masteredCount = cards.filter((c) => Number(c.level) === 7).length;
@@ -276,9 +414,33 @@
     $('masteredWordsDisplay').textContent = toPersianDigits(masteredCount);
     $('totalCategoriesDisplay').textContent = toPersianDigits(categories.length);
 
+    const revSelect = $('reviewCategorySelect');
+    if (revSelect) {
+      revSelect.innerHTML = '<option value="all">همه دسته‌ها</option>' +
+        categories.map((cat) => `<option value="${escapeHtml(cat)}">${escapeHtml(cat)}</option>`).join('');
+      revSelect.value = categories.includes(selectedReviewCategory) ? selectedReviewCategory : 'all';
+    }
+
+    // Study Stats & Goal Ring
+    updateStudyTimeUI();
+    const reviewed = studyStats ? studyStats.reviewedToday : 0;
+    const known = studyStats ? studyStats.knownToday : 0;
+    const accuracy = reviewed > 0 ? Math.round((known / reviewed) * 100) : 0;
+    $('reviewedTodayDisplay').textContent = `${toPersianDigits(reviewed)} (${toPersianDigits(accuracy)}٪)`;
+    $('streakDisplay').textContent = `${toPersianDigits(studyStats ? studyStats.streakDays : 1)} روز`;
+
+    const ringCircle = $('goalRingCircle');
+    if (ringCircle) {
+      const circumference = 169.65;
+      const ratio = Math.min(1, reviewed / DAILY_GOAL);
+      ringCircle.style.strokeDashoffset = String(circumference * (1 - ratio));
+      ringCircle.classList.toggle('complete', reviewed >= DAILY_GOAL);
+      $('goalRingCount').textContent = toPersianDigits(reviewed);
+    }
+
     const badge = $('navDueBadge');
-    badge.textContent = dueCount > 99 ? '99+' : String(dueCount);
-    badge.classList.toggle('hidden', dueCount === 0);
+    badge.textContent = allDueCards.length > 99 ? '99+' : String(allDueCards.length);
+    badge.classList.toggle('hidden', allDueCards.length === 0);
 
     const startBtn = $('startReviewBtn');
     if (dueCount > 0) {
@@ -288,8 +450,10 @@
       startBtn.disabled = totalCount === 0;
       $('heroDesc').textContent = totalCount === 0
         ? 'هنوز لغتی اضافه نکرده‌اید. از بخش لغات اولین کارت را بسازید.'
-        : 'آفرین! تمام کارت‌های امروز مرور شده‌اند.';
+        : 'آفرین! تمام کارت‌های آماده این بخش مرور شده‌اند.';
     }
+
+    renderCefrGrid();
 
     // 7-Level Chart
     const counts = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0 };
@@ -320,7 +484,10 @@
 
   // Review Session
   function startReviewSession() {
-    reviewQueue = getDueCards();
+    const allDue = getDueCards();
+    reviewQueue = selectedReviewCategory === 'all'
+      ? allDue
+      : allDue.filter((c) => c.category === selectedReviewCategory);
     reviewIndex = 0;
     reviewTotal = reviewQueue.length;
     unknownInSession = 0;
@@ -383,6 +550,10 @@
     $('knowNextLevelHint').textContent = lvl === 7
       ? 'تمدید تسلط (۶۰ روز)'
       : `ارتقا به سطح ${toPersianDigits(nextLvl)}`;
+
+    if (autoSpeak) {
+      speakText(card.word);
+    }
   }
 
   function handleAnswer(known) {
@@ -394,6 +565,7 @@
       markCardUnknown(card.id);
       unknownInSession += 1;
     }
+    recordReviewStat(known);
     reviewIndex += 1;
     renderCurrentFlashcard();
   }
@@ -878,6 +1050,58 @@
     $('exportCsvBtn').addEventListener('click', exportCSV);
     $('importFileInput').addEventListener('change', handleImportFile);
 
+    $('reviewCategorySelect').addEventListener('change', (e) => {
+      selectedReviewCategory = e.target.value || 'all';
+      renderDashboard();
+    });
+
+    $('cefrGrid').addEventListener('click', (e) => {
+      const cardBtn = e.target.closest('.cefr-card');
+      if (!cardBtn) return;
+      const cat = cardBtn.dataset.cat;
+      manageRenderLimit = 100;
+      switchView('manage');
+      $('filterCategorySelect').value = categories.includes(cat) ? cat : 'all';
+      renderManageView();
+    });
+
+    $('autoSpeakToggle').addEventListener('change', (e) => {
+      autoSpeak = e.target.checked;
+      localStorage.setItem(STORAGE_KEYS.AUTO_SPEAK, String(autoSpeak));
+    });
+
+    $('openCategoryModalBtn').addEventListener('click', openCategoryModal);
+    $('closeCategoryModalBtn').addEventListener('click', closeCategoryModal);
+    $('categoryModal').addEventListener('click', (e) => {
+      if (e.target === $('categoryModal')) closeCategoryModal();
+    });
+
+    $('catManagerAddBtn').addEventListener('click', () => {
+      const val = $('catManagerInput').value.trim();
+      if (!val) return;
+      if (!categories.includes(val)) {
+        categories.push(val);
+        saveState();
+        renderCategoryManager();
+        renderDashboard();
+        if (currentView === 'manage') renderManageView();
+        showToast(`دسته «${val}» اضافه شد.`);
+      } else {
+        showToast('این دسته از قبل وجود دارد.');
+      }
+      $('catManagerInput').value = '';
+    });
+
+    $('categoryManagerList').addEventListener('click', (e) => {
+      const delOnly = e.target.closest('.del-cat-only-btn');
+      const delWithCards = e.target.closest('.del-cat-cards-btn');
+      if (delOnly) {
+        deleteCategory(delOnly.dataset.cat, false);
+      } else if (delWithCards) {
+        deleteCategory(delWithCards.dataset.cat, true);
+      }
+    });
+
     document.querySelectorAll('.oxford-pack-btn').forEach((btn) => {
       btn.addEventListener('click', () => loadOxfordPack(btn.dataset.level, false));
     });
@@ -941,10 +1165,92 @@
     }
   }
 
+  function openCategoryModal() {
+    renderCategoryManager();
+    $('categoryModal').classList.remove('hidden');
+  }
+
+  function closeCategoryModal() {
+    $('categoryModal').classList.add('hidden');
+  }
+
+  function renderCategoryManager() {
+    const listEl = $('categoryManagerList');
+    if (!categories.length) {
+      listEl.innerHTML = '<p class="card-desc">هیچ دسته‌بندی وجود ندارد.</p>';
+      return;
+    }
+    listEl.innerHTML = categories.map((cat) => {
+      const count = cards.filter((c) => c.category === cat).length;
+      return `
+        <div class="cat-manager-item">
+          <div class="cat-manager-info">
+            <span class="cat-manager-name">${escapeHtml(cat)}</span>
+            <span class="cat-manager-count">${toPersianDigits(count)} لغت</span>
+          </div>
+          <div class="cat-manager-actions">
+            <button type="button" class="btn btn-secondary btn-sm del-cat-only-btn" data-cat="${escapeHtml(cat)}" title="حذف دسته (انتقال لغات به عمومی)">حذف دسته</button>
+            ${count > 0 ? `<button type="button" class="btn btn-danger-outline btn-sm del-cat-cards-btn" data-cat="${escapeHtml(cat)}" title="حذف دسته به همراه تمام لغاتش">حذف با لغات</button>` : ''}
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  function deleteCategory(catName, withCards) {
+    const count = cards.filter((c) => c.category === catName).length;
+    const msg = withCards
+      ? `آیا مطمئن هستید؟ دسته «${catName}» و تمام ${toPersianDigits(count)} لغت آن حذف خواهند شد.`
+      : `دسته «${catName}» حذف شود؟ (${toPersianDigits(count)} لغت به «عمومی» منتقل می‌شوند.)`;
+    if (!confirm(msg)) return;
+
+    if (withCards) {
+      cards = cards.filter((c) => c.category !== catName);
+    } else if (count > 0) {
+      if (!categories.includes('عمومی')) categories.push('عمومی');
+      cards.forEach((c) => {
+        if (c.category === catName) c.category = 'عمومی';
+      });
+    }
+
+    categories = categories.filter((c) => c !== catName);
+    if (!categories.length) categories.push('عمومی');
+    if (selectedReviewCategory === catName) selectedReviewCategory = 'all';
+
+    saveState();
+    renderCategoryManager();
+    renderDashboard();
+    if (currentView === 'manage') renderManageView();
+    showToast(`دسته «${catName}» حذف شد.`);
+  }
+
+  function startStudyTimer() {
+    setInterval(() => {
+      if (document.visibilityState !== 'visible') return;
+      const today = getTodayKey();
+      if (!studyStats || studyStats.date !== today) {
+        loadStats();
+      }
+      studyStats.secondsToday += 1;
+      if (studyStats.secondsToday % 5 === 0) {
+        saveStats();
+      }
+      if (currentView === 'dashboard') {
+        updateStudyTimeUI();
+      }
+    }, 1000);
+
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'hidden') saveStats();
+    });
+    window.addEventListener('beforeunload', saveStats);
+  }
+
   // Init
   loadState();
   bindEvents();
   renderDashboard();
+  startStudyTimer();
   registerServiceWorker();
   if (!localStorage.getItem(STORAGE_KEYS.A1_LOADED)) {
     loadOxfordPack('a1', true);

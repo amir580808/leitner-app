@@ -56,7 +56,7 @@
     <main class="app-main">
       <!-- 1. Dashboard View -->
       <section id="view-dashboard" class="view active" aria-labelledby="tab-dashboard">
-        <div class="hero-card">
+        <div class="hero-card hero-glow">
           <div class="hero-top">
             <div>
               <span class="hero-eyebrow">مرور امروز</span>
@@ -64,14 +64,45 @@
                 <span class="hero-count" id="dueCountDisplay">0</span>
                 <span class="hero-unit">کارت آماده مرور</span>
               </div>
+              <p class="hero-desc" id="heroDesc">کارت‌هایی که زمان مرور آن‌ها فرارسیده آماده تمرین هستند.</p>
             </div>
-            <div class="hero-badge" id="streakBadge">۷ سطح لایتنر</div>
+            <div class="goal-ring-wrap" title="هدف روزانه: ۲۰ مرور">
+              <svg class="goal-ring" viewBox="0 0 64 64">
+                <circle class="goal-ring-bg" cx="32" cy="32" r="27" />
+                <circle class="goal-ring-fg" id="goalRingCircle" cx="32" cy="32" r="27" />
+              </svg>
+              <div class="goal-ring-text">
+                <strong id="goalRingCount">۰</strong>
+                <span>از ۲۰</span>
+              </div>
+            </div>
           </div>
-          <p class="hero-desc" id="heroDesc">کارت‌هایی که زمان مرور آن‌ها فرارسیده آماده تمرین هستند.</p>
-          <button type="button" class="btn btn-primary btn-lg btn-block" id="startReviewBtn">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg>
-            <span>شروع مرور</span>
-          </button>
+
+          <div class="hero-actions-row">
+            <select id="reviewCategorySelect" class="select-input hero-cat-select" aria-label="انتخاب دسته برای مرور">
+              <option value="all">همه دسته‌ها</option>
+            </select>
+            <button type="button" class="btn btn-primary btn-lg hero-start-btn" id="startReviewBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+              <span>شروع مرور</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Today's Study Stats -->
+        <div class="kpi-grid kpi-study">
+          <div class="kpi-card kpi-highlight">
+            <span class="kpi-label">⏱ زمان امروز</span>
+            <strong class="kpi-value kpi-time" id="studyTimeDisplay">۰ ثانیه</strong>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-label">🎯 مرور و دقت</span>
+            <strong class="kpi-value" id="reviewedTodayDisplay">۰ (۰٪)</strong>
+          </div>
+          <div class="kpi-card">
+            <span class="kpi-label">🔥 استمرار</span>
+            <strong class="kpi-value kpi-streak" id="streakDisplay">۱ روز</strong>
+          </div>
         </div>
 
         <div class="kpi-grid">
@@ -87,6 +118,15 @@
             <span class="kpi-label">دسته‌بندی‌ها</span>
             <strong class="kpi-value" id="totalCategoriesDisplay">0</strong>
           </div>
+        </div>
+
+        <!-- CEFR Levels Overview -->
+        <div class="section-card">
+          <div class="section-header">
+            <h2>سطوح مختلف Oxford (A1–C1)</h2>
+            <span class="section-hint">برای مشاهده لمس کنید</span>
+          </div>
+          <div class="cefr-grid" id="cefrGrid"></div>
         </div>
 
         <div class="section-card">
@@ -189,9 +229,13 @@
       <!-- 3. Manage Words View -->
       <section id="view-manage" class="view" aria-labelledby="tab-manage">
         <div class="manage-toolbar">
-          <button type="button" class="btn btn-primary btn-block" id="openAddModalBtn">
+          <button type="button" class="btn btn-primary" id="openAddModalBtn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg>
-            <span>افزودن لغت جدید</span>
+            <span>افزودن لغت</span>
+          </button>
+          <button type="button" class="btn btn-secondary" id="openCategoryModalBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.93a2 2 0 0 1-1.66-.9l-.82-1.2A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2Z"/></svg>
+            <span>مدیریت دسته‌ها</span>
           </button>
         </div>
 
@@ -272,6 +316,16 @@
                 <button type="button" class="seg-btn active" data-accent="en-US" id="segUsBtn">US</button>
                 <button type="button" class="seg-btn" data-accent="en-GB" id="segUkBtn">UK</button>
               </div>
+            </div>
+            <div class="setting-row">
+              <div>
+                <div class="setting-title">پخش خودکار تلفظ در مرور</div>
+                <div class="setting-sub">تلفظ کلمه بلافاصله با نمایش کارت جدید</div>
+              </div>
+              <label class="switch">
+                <input type="checkbox" id="autoSpeakToggle" />
+                <span class="switch-slider"></span>
+              </label>
             </div>
             <div class="setting-row">
               <div>
@@ -385,6 +439,23 @@
           <button type="submit" class="btn btn-primary" id="saveWordBtn">ذخیره لغت</button>
         </div>
       </form>
+    </div>
+  </div>
+
+  <!-- Category Manager Modal -->
+  <div class="modal-backdrop hidden" id="categoryModal" role="dialog" aria-modal="true" aria-labelledby="categoryModalTitle">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h2 id="categoryModalTitle">مدیریت دسته‌بندی‌ها</h2>
+        <button type="button" class="icon-btn" id="closeCategoryModalBtn" aria-label="بستن">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+      <div class="cat-add-row">
+        <input type="text" id="catManagerInput" class="text-input" placeholder="نام دسته جدید..." />
+        <button type="button" class="btn btn-primary btn-sm" id="catManagerAddBtn">افزودن</button>
+      </div>
+      <div id="categoryManagerList" class="cat-manager-list"></div>
     </div>
   </div>
 
